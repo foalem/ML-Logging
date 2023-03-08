@@ -48,7 +48,7 @@ def save_to_csv(json_list: List[dict], library) -> None:
         for item in json_list:
             row = [i, item['path'], item['html_url'], item['repository']['full_name']]
             rows.append(row)
-    with open(ROOT_DIR + '/' + PATH_FILE['data'] + 'repo.csv', 'w', newline='') as csvfile:
+    with open(ROOT_DIR + '/' + PATH_FILE['data'] + 'repo.csv', 'w', newline='', encoding='utf-8') as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(headers)
         csv_writer.writerows(rows)
