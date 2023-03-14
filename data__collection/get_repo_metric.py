@@ -126,7 +126,7 @@ def save_metric(rep_list_: List[str], contrib_list: List[int], star_list: List[i
         row = [rep_list_[i], contrib_list[i], star_list[i],
                created_list[i], descript_list[i], lang_list[i], com_list[i], sloc_list[i]]
         rows.append(row)
-    with open(ROOT_DIR + '/' + PATH_FILE['data'] + 'repo_meta_data2.csv', 'w', newline='', encoding="utf-8") as csvfile:
+    with open(ROOT_DIR + '/' + PATH_FILE['data'] + 'repo_meta_data.csv', 'w', newline='', encoding="utf-8") as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(headers)
         csv_writer.writerows(rows)

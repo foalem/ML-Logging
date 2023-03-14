@@ -41,15 +41,15 @@ def main() -> None:
     if args.SAVE:
         save_repo_find(ROOT_DIR + '/' + PATH_FILE['data'])
     if args.METRIC:
-        repo_list_ = get_distinct_repo_names(f"{ROOT_DIR}{PATH_FILE['data']}repo.csv")
+        repo_list_ = get_distinct_repo_names(f"{ROOT_DIR}{PATH_FILE['data']}repo_0.csv")
         commits_count_list_ = get_commits_count(repo_list_)
         contributor_list = get_contributors_count(repo_list_)
         stars_list, created_date_list_, description_list_, language_list_, size_list_ = get_repo_info(repo_list_)
         save_metric(repo_list_, contributor_list, stars_list, created_date_list_,
                     description_list_, language_list_, commits_count_list_, size_list_)
-        project_path = os.path.join(f"{ROOT_DIR}{PATH_FILE['data']}clones")
-        project_list = list_subfolders(project_path)
-        save_lines_of_code_to_csv(project_list, f"{ROOT_DIR}{PATH_FILE['data']}project_size_2.csv")
+        # project_path = os.path.join(f"{ROOT_DIR}{PATH_FILE['data']}clones")
+        # project_list = list_subfolders(project_path)
+        # save_lines_of_code_to_csv(project_list, f"{ROOT_DIR}{PATH_FILE['data']}project_size_2.csv")
     if args.CLONE:
         repo__list = read_repos_from_csv(f"{ROOT_DIR}{PATH_FILE['data']}Dataset_.csv")
         print(repo__list)
