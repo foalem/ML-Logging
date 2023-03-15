@@ -1,5 +1,13 @@
 GitHub_CONFIG = {
-
+    'token': ['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',
+              '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',
+              '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',
+              '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',
+              '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',
+              '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',
+              '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',
+              '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',
+              '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'],
     'per_page': 100,
     'max_page': 25
 
