@@ -1,0 +1,76 @@
+Repos,number_contributor,number_stars,created_date,description,language,number_commit,sloc
+autognc/ravenML-train-plugins,2,2,2019-11-11T18:35:53Z,Companion repo to DeepForest for training large models from DeepForest python package.,Python,342,28091
+nuri428/deep-learning,2,3,2021-05-07T12:44:44Z,Modeling of Earth’s Radiation Environment.,Python,164,60
+kyper999/Theano,2,7,2021-03-11T16:19:57Z,Text preprocessing package for use in NLP tasks https://pypi.org/project/textcl/,Python,25581,912
+Samanvitha3740/mle-2.2_mlflow,4,120,2019-07-26T23:10:04Z,Toolkit to train base-resolution deep neural networks on functional genomics data and to interpret them,Jupyter Notebook,3755,4288
+EzSylester/DeepLearningTutorials-,2,264,2019-09-26T20:42:39Z,PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models,Python,886,655968
+fbdesignpro/sweetviz,4,2,2020-02-12T19:56:53Z,End-to-end trainable mask generation,Python,103,210
+gmum/mlls2015,4,3,2021-10-23T02:57:58Z,,Python,231,137241
+ombg/tensorberg,2,6,2019-09-08T14:09:58Z,Process Improvement using Data,Python,185,6106
+panaali/bilmo,30,1679,2018-06-10T21:31:23Z,A toolkit for reproducible reinforcement learning research.,Python,110,60358
+rstudio/mlflow-original,15,92,2020-01-05T16:35:12Z,"This package features data-science related tasks for developing new recognizers for Presidio. It is used for the evaluation of the entire system, as well as for evaluating specific PII recognizers or PII detection models.",Python,507,2713
+BorgwardtLab/topo-ae-distances,2,2,2019-08-30T08:58:15Z,,Python,484,207661
+eric-erki/mlflow,2,6,2020-09-21T08:27:50Z,,Jupyter Notebook,284,40901
+MutsukiMoon/MyScikitLearn,2,3,2021-11-06T14:47:33Z,,Python,26505,24582
+bainro/garage,2,78,2017-07-20T12:53:46Z,Implementation of several black-box optimisation methods to tune hyperparameters of machine learning models.,Python,817,280
+kaufmann-a/ETH_MP-Human-Pose-Prediction,3,13,2020-01-21T12:18:36Z,"Building on the MLFlow toolset this project aims to extend the functionality for MLFlow, increase the automation and therefore reduce the workload for the user. The production of structured results is an additional goal of the extension.",Python,274,6863
+SarangGawane/transformers-metarl,3,5,2022-07-11T16:06:22Z,LeManchot-Analysis is a system for abnormal detection in coupled visible-thermal images,Python,1174,83794
+davidtangGT/MOF_color,10,8,2018-03-10T21:43:44Z,PCB Satellite Repository,C,114,25962
+callaunchpad/Inspector,4,47,2020-07-07T15:20:30Z,The Verifiably Safe Reinforcement Learning Framework,Python,161,2018
+nirvanacafe/scikit-learn,4,57,2019-02-19T13:27:27Z,"MSc group project: Reproduction of 'Multi-Task Learning using Uncertainty to Weigh Losses for Scene Geometry and Semantics'; A. Kendall, Y. Gal, R. Cipolla",Jupyter Notebook,22275,12724
+Jwuthri/Maupassant,2,4,2019-05-14T13:27:58Z,,Python,160,50845
+HumanCompatibleAI/adversarial-policies,5,3,2018-11-28T05:03:12Z,DFP Course Project,Python,472,5359
+kundan2510/theano-cudnn-rnn,2,22,2018-07-24T21:56:27Z,MLflow samples - deprecated,Python,23069,690
+hahnicity/ardsdetection,2,3,2017-10-21T22:39:18Z,This is the repository for ece496 facial expression transfering project,C++,344,80997
+manishrdmishra/Thesis,4,2,2021-09-23T20:39:13Z,,Jupyter Notebook,4350,24588
+Ascend/ModelZoo-PyTorch,2,47,2019-05-15T01:53:30Z,"Re-Implementation of ""Image Inpainting for Irregular Holes using Partial Convolution""",Python,5786,3246
+hahayonghuming/VDACs,2,5,2020-10-19T13:57:24Z,,Jupyter Notebook,151,12687
+Feretj/scikit-learn-hse-project,13,6,2020-10-01T16:42:44Z,,Java,21865,24404
+djvaroli/this-album-cover-doesnt-exist,2,3,2018-02-03T09:45:18Z,Finding the most similar textual documents using Case-Based Reasoning,Python,128,20316
+koustuvsinha/clutrr-baselines,30,103,2017-03-15T14:16:43Z,,HTML,123,48107
+MislavSag/trademl,30,4,2022-07-14T07:56:07Z,,Python,311,143968
+merlinepedra/RAY-1,11,100,2018-12-19T23:59:59Z,"Segregation Measurement, Inferential Statistics, and Decomposition Analysis",Jupyter Notebook,13360,145035
+researchai/unsupervised_meta_rl,16,175,2019-09-06T16:56:51Z,Python package for multi-view machine learning,Python,1194,49478
+ray-project/ray,30,115,2019-09-24T21:28:54Z,,,17185,787440
+cytomining/DeepProfiler,4,25,2013-07-12T00:43:42Z,Automated website scraping over Tor,Python,795,125348
+Octavian-ai/BigGAN-TPU-TensorFlow,13,3,2018-08-09T17:51:16Z,,Jupyter Notebook,174,50809
+Ajyy/espnet,30,2,2022-04-24T05:27:44Z,,Python,2203,328762
+flyteorg/flytesnacks,30,56,2019-10-17T18:32:26Z,Flyte Documentation 📖,Jupyter Notebook,208,37986
+researchmm/soho,3,200,2021-03-22T08:59:00Z,[CVPR'21 Oral] Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning,Python,149,452
+leokarlin/LaSO,2,78,2019-04-01T14:33:33Z,LaSO: Label-Set Operations networks for multi-label few-shot learning - official implementation,Python,117,312
+MolecularAI/Lib-INVENT-dataset,3,15,2021-04-15T15:41:57Z,,Python,806,55
+lqrhy3/skin-disease-recognition,3,3,2023-02-18T21:10:14Z,,Jupyter Notebook,1762,35401
+qcraftai/pillar-motion,2,106,2021-03-28T03:11:06Z,Self-Supervised Pillar Motion Learning for Autonomous Driving (CVPR 2021),Python,4682,24156
+j-marple-dev/AYolov2,6,154,2021-09-24T01:41:27Z,,Python,351,263990
+salesforce/TransformerASR,2,3,2021-03-31T23:33:40Z,,Python,137,5470
+nhtlongcs/cassava-leaf-disease-classification,2,9,2020-12-03T09:46:33Z,Identify the type of disease present on a Cassava Leaf image,Python,5359,2306
+IntelAI/nauta,19,393,2019-01-09T20:58:33Z,"A multi-user, distributed computing environment for running DL model training experiments on Intel® Xeon® Scalable processor-based systems",Python,124,48589
+BraunMichael/MultiResUNet-Keras-Dragonfly4.1,30,2,2020-04-28T17:41:04Z,Forked versions of MultiResUNet and Keras 2.3.1 for making a deep learning model compatible with Dragonfly 4.1,Python,534,13578
+ryfeus/gcf-packs,2,50,2018-07-25T03:44:07Z,Library packs for google cloud functions,Python,136,229414
+geyang/ml-research-containers,3,2,2022-01-14T21:03:35Z,A list of community maintained docker images for deep reinforcement learning research,Dockerfile,121,52
+phamdinhkhanh/general_ocr,2,58,2021-10-13T07:23:50Z,,Python,106,39148
+michelemancusi/LQVAE-separation,3,35,2021-10-08T14:31:35Z,,Python,124,15560
+on-nix/python,7,81,2021-08-28T04:22:19Z,"Extensive collection of Python projects from PyPI, for Nix!",Nix,124,5468
+edgeai-neptune/neptune,4,15,2021-01-04T03:26:26Z,The project is deprecated. Please move to https://github.com/kubeedge/sedna,Go,123,10614
+garyd203/flying-circus,2,6,2017-09-12T10:53:04Z,"A tool for describing AWS infrastructure as (Python) code, built on top of AWS Cloud Formation.",Python,293,1040
+TomaszOdrzygozdz/gym-splendor,3,2,2019-10-11T23:52:27Z,The environment for the ,Python,139,12893
+hms-dbmi/breastCaPathologyTranscriptomics,2,5,2021-01-01T20:59:23Z,Integrative Transcriptome-Histopathology Analysis for Breast Cancer Classification,Python,276,71306
+Fannovel16/comfy_controlnet_preprocessors,5,121,2023-03-02T10:04:28Z,,Python,916,4200
+oblivia-simplex/berbalang,5,8,2019-03-20T16:15:11Z,WIP: evolutionary explorations of weird machines,Rust,1031,140292
+AdaptiveSubgoalSearch/adaptive_subs,2,17,2022-05-18T10:56:54Z,Adaptive Subgoal Search,Python,1287,6453
+chrisjihee/DeepKorean,6,2,2020-03-04T00:51:37Z,Xilinx Vitis-AI Mirroring & Practice,SystemVerilog,152,443776
+deepin-community/keras,6,2,2020-05-26T16:50:04Z,Features Extraction using Autoencoders for Reinforcement Learning Tasks,Jupyter Notebook,124,198432
+Linkerbrain/Continuous-Time-Graphs,7,1380,2018-11-16T09:34:48Z,🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱,Jupyter Notebook,128,105089
+NoSyu/CDMM-B,30,7984,2023-02-12T16:26:27Z,WebUI extension for ControlNet,Python,838,15115
+powergee/common-ml-logger,4,20,2017-04-03T20:19:28Z,Simple area to test out concepts or try to reproduce isolated issues in Drake.,Jupyter Notebook,535,13602
+aws-samples/amazon-neptune-samples,23,332,2018-04-05T22:37:22Z,Samples and documentation for using the Amazon Neptune graph database service,JavaScript,258,53301
+Alex1114/Data-Science,27,263,2018-02-14T05:13:35Z,Tools and utilities to enable loading data and building graph applications with Amazon Neptune.,Java,4462,2375
+awslabs/amazon-neptune-tools,7,437,2019-02-26T18:26:17Z,This repository lets you train neural networks models for performing end-to-end full-page handwriting recognition using the Apache MXNet deep learning frameworks on the IAM Dataset.,Jupyter Notebook,587,76502
+pearljain7/MentalHealthDetection,4,35,2020-11-03T06:48:03Z,DeepVisualInsight (DVI) is a time-travelling visualization solution for how the classification boundaries of a learned model is trained in two-dimensional space.,Jupyter Notebook,367,233534
+mizunt1/gz,12,16,2020-01-31T15:19:49Z,Experimental wandb CLI and Python API - See Experimental section below.,Python,283,22499
+bill-teng/mxnet-test,30,11691,2018-04-20T14:49:09Z,"Python package built to ease deep learning on graph, on top of existing DL frameworks.",Python,157,24506
+learningandplanningICLR/learningandplanning,2,5,2019-12-30T08:01:00Z,,Python,3881,1176
+hunterprice04/python,6,2,2020-03-04T00:51:37Z,Xilinx Vitis-AI Mirroring & Practice,SystemVerilog,131,443776
+HPI-DeepLearning-PlaceRecognizer-SS17/AmalgamationMxnet,25,351,2020-02-10T18:51:59Z,The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.,Python,417,1866
+sugarme/gotch-docker,2,14,2019-01-30T19:23:07Z,"Hands-On Serverless Deep Learning with TensorFlow and AWS Lambda, published by Packt",Python,40253,138191
+sergevkim/SpeechRecognition,27,2,2021-01-26T09:34:05Z,,C++,113,1114823

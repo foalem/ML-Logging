@@ -34,7 +34,9 @@ def main() -> None:
     parser.add_argument('-conv', '--convert', help="Convert all notebook file in a repository in .py file",
                         dest='CONVERT', required=False, action='store_true')
     parser.add_argument('-p', '--parser', help="Parse Python file and extract all function call",
-                        dest='PARSER', required=False, action='store_true')
+                        dest='PARSER', required=False, action='store_true'),
+    parser.add_argument('-sloc', '--codesize', help="Compute size of Python code in a repository",
+                        dest='CODESIZE', required=False, action='store_true')
     args = parser.parse_args()
     if args.DATA:
         collect_repo()
@@ -47,11 +49,8 @@ def main() -> None:
         stars_list, created_date_list_, description_list_, language_list_, size_list_ = get_repo_info(repo_list_)
         save_metric(repo_list_, contributor_list, stars_list, created_date_list_,
                     description_list_, language_list_, commits_count_list_, size_list_)
-        # project_path = os.path.join(f"{ROOT_DIR}{PATH_FILE['data']}clones")
-        # project_list = list_subfolders(project_path)
-        # save_lines_of_code_to_csv(project_list, f"{ROOT_DIR}{PATH_FILE['data']}project_size_2.csv")
     if args.CLONE:
-        repo__list = read_repos_from_csv(f"{ROOT_DIR}{PATH_FILE['data']}Dataset_.csv")
+        repo__list = read_repos_from_csv(f"{ROOT_DIR}{PATH_FILE['data']}repo_data_fitered4.csv")
         print(repo__list)
         clone_repos(repo__list, f"{ROOT_DIR}{PATH_FILE['data']}clones")
 
@@ -77,10 +76,14 @@ def main() -> None:
             except Exception as e:
                 print(f"Error on {file_path} : {e}")
         libraries_to_track = LIBRARY_CONFIG["import"]
-        logger.info("saving function call")
-        filter_libs(libraries_to_track, all_call_function, ROOT_DIR + '/' + PATH_FILE['data'] + 'call_function_part_3.csv')
+        logger.info("saving logging function call")
+        filter_libs(libraries_to_track, all_call_function, ROOT_DIR + '/' + PATH_FILE['data'] + 'loggging_call_function5.csv')
         # __function_call = find_library_function_calls(f"{ROOT_DIR}{PATH_FILE['data']}clones", lib_)
         # print(__function_call)
+    if args.CODESIZE:
+        project_path = os.path.join(f"{ROOT_DIR}{PATH_FILE['data']}clones")
+        project_list = list_subfolders(project_path)
+        save_lines_of_code_to_csv(project_list, f"{ROOT_DIR}{PATH_FILE['data']}project_size_final.csv")
 
 
 if __name__ == '__main__':

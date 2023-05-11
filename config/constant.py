@@ -23,15 +23,15 @@ REPO_CONFIG = {
         'from%2Bmlflow',
         'import%2Bmlflow',
         'import%2Bwandb'
-        # 'from%2Bwandb',
-        # 'from%2Bneptune',
-        # 'import%2Bneptune',
-        # 'from%2Btensorboard',
-        # 'import%2Btensorboard',
-        # 'import%2Bwhylogs',
-        # 'from%2Bwhylogs',
-        # 'from%2Bml_logger',
-        # 'import%2Bml_logger'
+        'from%2Bwandb',
+        'from%2Bneptune',
+        'import%2Bneptune',
+        'from%2Btensorboard',
+        'import%2Btensorboard',
+        'import%2Bwhylogs',
+        'from%2Bwhylogs',
+        'from%2Bml_logger',
+        'import%2Bml_logger'
     ]
 }
 
@@ -41,32 +41,17 @@ PATH_FILE = {
 
 LIBRARY_CONFIG = {
     'import': [
-        'opacus',
-        'crypten',
-        'aix360',
-        'alepython',
-        'latticex',
-        'captum',
-        'Bias',
-        'Fairness',
-        'aequitas.fairness',
-        'explainerdashboard',
-        'dowhy',
-        'eli5',
-        'fairml',
-        'dalex',
-        'aif360',
-        'yellowbrick',
-        'facets_overview',
-        'xai',
-        'fairness',
-        'shapley',
-        'shap',
-        'deeplift',
-        'bastionlab',
-        'privacy',
-        'tf_encrypted',
-        'tensorflow_privacy',
-        'syft'
+        'comet_ml',
+        'whylogs',
+        'wandb',
+        'tensorboard',
+        'mlflow',
+        'tensorflow',
+        'neptune',
+        'dowel',
+        'sacred',
+        'ml_logger',
+        'logging',
+        'warnnings'
     ]
 }

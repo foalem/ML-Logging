@@ -1,0 +1,164 @@
+Repos,Contributors,Stars,created_date,description,language,Commit,Size
+fresher96/arabic-speech-commands,10.0,208.0,2019-01-28T10:52:52Z,Training framework for conditional imitation learning ,Python,167.0,4926.0
+KyanChen/ClassificationFramework,2.0,2.0,2021-06-29T06:13:18Z,,Jupyter Notebook,534.0,425059.0
+marcduby/MachineLearningPython,2.0,91.0,2021-09-10T23:43:24Z,Materials for my 2021 NYU class on NLP and ML Systems (Master of Engineering).,Jupyter Notebook,270.0,24281.0
+hirune924/kaggle-PANDA,2.0,260.0,2019-09-26T20:42:39Z,PyTorch Implementations For A Series Of Deep Learning-Based Recommendation Models,Python,155.0,655968.0
+richardtjornhammar/impetuous,30.0,1287.0,2020-03-05T11:32:13Z,Avalanche: an End-to-End Library for Continual Learning based on PyTorch.,Python,652.0,11449.0
+zwrok/test01,2.0,3.0,2020-11-18T23:20:32Z,,JavaScript,258.0,40592.0
+luisoala/non-iid-ssdl,30.0,632.0,2020-05-12T14:44:03Z,Track emissions from Compute and recommend ways to reduce their impact on the environment.,Jupyter Notebook,112.0,24893.0
+BBQuercus/deepBlink,7.0,84.0,2021-04-16T14:55:28Z,"TorchFlare is a simple, beginner-friendly, and easy-to-use PyTorch Framework train your models effortlessly.",Python,524.0,18973.0
+happpyosu/reflection-enhancement-gan,7.0,55.0,2013-07-26T15:13:23Z,Causal Dynamical Triangulations in C++ using CGAL,C++,146.0,114924.0
+hust-wuwechao/mxnet_20191220,2.0,302.0,2019-11-16T09:32:39Z,A Pytorch Computer Vision template to quick start your next project! 🚀🚀,Jupyter Notebook,10474.0,28354.0
+jglee087/AI-ImageCourse,3.0,17.0,2015-11-18T17:52:12Z,Neptune: Genomic Signature Discovery,Python,204.0,2717.0
+mizunt1/gz,30.0,512.0,2020-09-14T23:09:07Z,A collection of Google research projects related to Federated Learning and Federated Analytics.,Python,587.0,3644.0
+phac-nml/neptune,17.0,15.0,2022-05-02T20:23:17Z,Lightning HPO & Training Studio App,Python,295.0,13105.0
+minerva-ml/minerva-training-materials,4.0,2.0,2018-06-04T14:51:36Z,,C++,103.0,42887.0
+eric-erki/mlflow,14.0,36.0,2018-11-30T16:24:59Z,Knowledge base construction from raw scientific documents,Python,284.0,382712.0
+THuix/bnn_bbb,27.0,62.0,2020-11-16T11:38:08Z,,Python,677.0,216558.0
+bearsroom/mxnet-augmented,5.0,43.0,2020-01-31T12:32:19Z,Riemannian optimization for quantum technologies,Python,3536.0,11561.0
+samuelsmal/drosophVAE,2.0,6.0,2022-02-15T10:51:47Z,HCMUS Team at SHREC22: Crack and Pothole Segmentation,Python,127.0,35880.0
+khirotaka/enchanter,2.0,45.0,2019-05-15T01:53:30Z,"Re-Implementation of ""Image Inpainting for Irregular Holes using Partial Convolution""",Python,874.0,3246.0
+microsoft/DeepSpeed,15.0,5262.0,2022-09-11T16:39:45Z,NEW - YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite,Python,1382.0,5031.0
+alexhernandezgarcia/gflownet,6.0,2.0,2021-04-13T16:19:47Z,,Jupyter Notebook,271.0,10287.0
+DanielGlickmanTAU/summary_rogue_optimize,2.0,5.0,2020-05-31T21:01:35Z,,Python,601.0,81.0
+RonBanner/Deep-learning,6.0,647.0,2021-05-26T14:52:01Z,An end-to-end implementation of intent prediction with Metaflow and other cool tools,Python,24530.0,652.0
+honguyenhaituan/Attack-Yolov5,2.0,3.0,2020-01-16T00:32:54Z,,Python,1207.0,62303.0
+RichardVelder/Jukebox,3.0,82.0,2020-06-01T14:14:29Z,"Implementation of Hang et al. 2020 ""Hyperspectral Image Classification with Attention Aided CNNs"" for tree species prediction ",Python,124.0,287832.0
+labmlai/labml,2.0,2.0,2019-05-03T23:41:52Z,"A simple, flexible, pytorch training loop.",Python,1284.0,4944.0
+wirenjoel/jukebox,27.0,260.0,2018-02-14T05:13:35Z,Tools and utilities to enable loading data and building graph applications with Amazon Neptune.,Java,128.0,2044.0
+ohsu-comp-bio/Galaxy-ML,2.0,21.0,2021-04-14T09:43:55Z,A collection of Korean Text Datasets ready to use using Tensorflow-Datasets.,Python,271.0,342.0
+xuezhou1998/new_pytorch,3.0,114.0,2018-07-06T08:03:02Z,The MacGraph network. An attempt to get MACnets running on graph knowledge,Python,26548.0,825.0
+MJLagerwerf/nn_fdk,2.0,106.0,2021-03-28T03:11:06Z,Self-Supervised Pillar Motion Learning for Autonomous Driving (CVPR 2021),Python,561.0,24156.0
+alxthm/S3R,4.0,4.0,2020-08-05T15:29:37Z,,Python,118.0,403634.0
+cc-ai/climategan,3.0,5.0,2022-05-11T03:39:52Z,,Python,1843.0,59.0
+JaeDukSeo/Daily-Neural-Network-Practice-2,3.0,5.0,2019-11-18T18:42:37Z,Cookiecutter for evaluating algorithms and training models in nussl,Jupyter Notebook,31237.0,10885.0
+catalyst-team/catalyst,6.0,2.0,2022-08-29T15:53:29Z,"This repo contains reference implementations, tutorials, samples, and documentation for working with Bosch AIShield",Jupyter Notebook,1698.0,31114.0
+dstein64/pyfms,2.0,37.0,2019-05-09T08:08:24Z,A framework based on Tensorflow for running variational Monte-Carlo simulations of quantum many-body systems.,Python,107.0,11024.0
+TWSFar/CRGNet,6.0,8.0,2020-08-20T14:48:48Z,A set of documented functions for supporting operations research of photovoltaic energy systems. ,Python,274.0,35499.0
+ggiuffre/tf-lyrics,30.0,2.0,2020-08-02T12:16:04Z,,Python,100.0,63221.0
+flaneur-ml/auto-features-extraction-for-RL,2.0,3.0,2018-02-03T09:45:18Z,Finding the most similar textual documents using Case-Based Reasoning,Python,152.0,20316.0
+aviresler/antique-gen,5.0,3.0,2019-07-29T09:49:33Z,,Python,123.0,230.0
+noopurdhawan/transformers,2.0,27.0,2020-12-26T00:12:53Z,IIRC: Incremental Implicitly Refined Classification,Python,5488.0,6601.0
+zuowang/mxnet,7.0,3.0,2021-08-18T13:42:04Z,,Python,4237.0,976.0
+craftmine1000/jukebox-saveopt,30.0,4082.0,2015-03-17T16:00:20Z,Deep Learning GPU Training System,HTML,165.0,51154.0
+markusfleck/transformers-mirror,2.0,96.0,2018-12-19T23:59:59Z,"Segregation Measurement, Inferential Statistics, and Decomposition Analysis",Jupyter Notebook,5942.0,145555.0
+onehahaha756/yolov5_ship_detection,2.0,7.0,2018-05-20T15:01:10Z,,Python,1215.0,21.0
+Allen8838/Data-Science-Projects,2.0,133.0,2016-08-20T21:09:06Z,"Source code for our ECCV16 paper, Face Detection with End-to-End Integration of a ConvNet and a 3D Model",C++,286.0,15858.0
+arthurmensch/modl,4.0,2.0,2021-04-14T14:48:28Z,utilities for EREMUS dataset,Python,401.0,352.0
+dmatrix/spark-saturday,30.0,17.0,2019-11-01T18:00:56Z,,Python,195.0,78232.0
+dogballlee/road_2_machine_learning,4.0,3.0,2018-10-16T03:44:20Z,NLU task (sentence semantics matching and classification) in tensorflow with simple software architecture.,Python,149.0,35858.0
+ayushkarnawat/profit,10.0,72.0,2012-11-28T16:24:31Z,LambdaMart python implementation,Python,285.0,136.0
+ximitiejiang/deep_learning_algorithm,4.0,15.0,2019-01-30T19:23:07Z,"Hands-On Serverless Deep Learning with TensorFlow and AWS Lambda, published by Packt",Python,208.0,138191.0
+balister/pytorch,30.0,149.0,2022-04-18T12:13:46Z,,Python,41441.0,13646.0
+ferraric/CloudCoveragePrediction,2.0,2.0,2020-02-19T00:54:15Z,,Python,129.0,631.0
+unimauro/Courses,2.0,5.0,2021-03-09T15:01:22Z,This is the repository for the AAAI 2021 paper: Learning Branching Heuristic for Propositional Model Counting (https://www.aaai.org/AAAI21Papers/AAAI-10022.VaezipoorP.pdf),Python,271.0,375203.0
+dmatrix/misc-code,4.0,3.0,2020-06-09T17:07:15Z,Basic Neptune module,HCL,424.0,113.0
+juanjo3ns/mineRL,2.0,293.0,2017-08-22T13:55:27Z,Learning to create Machine Learning Algorithms,Python,170.0,11362.0
+ludwig-ai/ludwig,2.0,32.0,2021-05-10T03:58:00Z,"Code for the paper ""UnNatural Language Inference"" to appear at ACL 2021 (Long Paper)",Python,3410.0,3525.0
+sky660099/mopeye,2.0,35.0,2020-04-11T20:21:50Z,Generates handwritten pages from given input text!,Python,22394.0,47989.0
+garyd203/flying-circus,2.0,565.0,2019-12-31T12:25:05Z,A one-stop repository for low-code easily-installable object detection pipelines.,Jupyter Notebook,494.0,267138.0
+jamesborg46/robust_rewards_from_preferences,30.0,2.0,2019-11-27T21:13:14Z,Neural network classifier for Raman spectral data using TensorFlow,Python,112.0,114350.0
+splicemachine/ml-workflow,30.0,103.0,2019-05-14T01:33:11Z,"D-VAE: A Variational Autoencoder for Directed Acyclic Graphs, NeurIPS 2019",Python,562.0,13661.0
+Piyushak/yolov5,30.0,19.0,2018-09-26T04:51:10Z,Recalling node properties from a knowledge graph,Python,1434.0,93.0
+zzsza/TIL,21.0,3.0,2021-10-05T07:16:51Z,StyleGAN BigGAN for Motorbike Generation,Python,237.0,596.0
+tensorflow/profiler,2.0,3.0,2020-06-06T15:41:19Z,sgnn reproduce,Python,467.0,4963.0
+coldenheart/123,2.0,4.0,2019-10-15T10:44:29Z,This is a repository designed to be my portable workstation. I can use it on a CPU or GPU machine and is meant for development and training. It contains docker files for environment setup and links to other repositories that can be downloaded inside.,Jupyter Notebook,4078.0,119397.0
+skylooop/CYLo_cards-Detection,2.0,312.0,2018-04-17T16:05:02Z,Optical music recognition in TensorFlow,Python,2566.0,3050.0
+Boilevin/AzuritBer,30.0,10.0,2020-02-24T02:01:00Z,,Python,161.0,131733.0
+florpi/GaHaCo,2.0,18.0,2022-03-30T03:14:38Z," On Uncertainty, Tempering, and Data Augmentation in Bayesian Classification",Jupyter Notebook,155.0,23743.0
+eracah/supervise-thyself,30.0,345.0,2020-02-10T18:51:59Z,The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.,Python,245.0,1855.0
+TNPKpenguin/Pig,2.0,2.0,2017-10-31T03:35:44Z,"This project used a combination of an N-Gram tagger, a Bayesian classifier, and a decision tree to determine the correct pronunciation of heteronyms (words that are spelled the same but pronounced differently, i.e. ""lead"") for text-to-speech implementations.",Python,2329.0,40975.0
+sendilk/ml-class,3.0,603.0,2022-03-11T13:26:35Z,Monocular Depth Estimation Toolbox based on MMSegmentation.,Python,293.0,6492.0
+FordyceLab/tessellate,12.0,2.0,2017-12-15T06:17:48Z,『Python機械学習プログラミング』サンプルコード,Jupyter Notebook,208.0,158036.0
+PB12203006/Largedata,3.0,114.0,2019-08-09T13:14:51Z,Code implementation of Data Efficient Stagewise Knowledge Distillation paper.,Jupyter Notebook,104.0,136996.0
+deepcam-cn/yolov5-face,30.0,2.0,2021-05-28T19:52:11Z,"Apuração automatizada de sobrepreço em compras públicas (orçamentos, contratos e atas de registro de preços). Módulo ML.",Jupyter Notebook,131.0,74109.0
+ederchy/Databrick-MLOPS-git-integration,2.0,15.0,2019-08-22T22:15:43Z,Humble microlibrary / command line tool for summarizing data within Weights and Biases across runs.,Python,694.0,17.0
+CSID-DGU/2022-2-SCS4031-9to6,3.0,3.0,2016-01-25T11:42:43Z,Python code for analysing Brains (electrophysiology stuff),Python,1172.0,2371.0
+microns-ariadne/runet_code,3.0,13.0,2020-09-22T18:59:23Z,,Python,178.0,864.0
+eqasim-org/california,2.0,6.0,2020-04-19T14:12:23Z,handwritten text recognition with mxnet and gluon. Thanks to https://pythonawesome.com/handwritten-text-recognition-ocr-with-mxnet-gluon/,Jupyter Notebook,6044.0,123450.0
+thanhtonvk/AIPlatfrom,30.0,2.0,2020-12-13T00:38:44Z,"Paper, code, data, and supplementary material for our paper ""On the Softmax Bottleneck of Recurrent Language Models"", which got accepted at the main track of AAAI 2021.",Python,21986.0,16661.0
+mesakh123/imagepredict,5.0,2.0,2020-06-01T08:12:40Z,信用违约风险判断 xgboost,Python,738.0,9.0
+Shivanshu-Gupta/raytune-comet-examples,5.0,2.0,2020-12-01T13:36:07Z,Test repo for github actions workflows,Python,203.0,104976.0
+Aminullah6264/Activity_Rec_ML-LSTM,4.0,11.0,2021-11-30T00:35:18Z,,Jupyter Notebook,831.0,4772.0
+Manjunatha1997/python_programs,2.0,3.0,2021-01-16T15:37:28Z,"Python web app built using Flask, Keras, and Tensorflow to predict the outcome of any given NBA game. Built for HTNE 2021.",Python,909.0,640.0
+utisetur/russian_superglue_task,2.0,4.0,2021-01-05T10:29:57Z,,Jupyter Notebook,9050.0,49017.0
+kyper999/Theano,30.0,250.0,2017-03-08T12:52:10Z,"Code for the ""Grammar Variational Autoencoder"" https://arxiv.org/abs/1703.01925",Python,163.0,129267.0
+wararaki718/scrapbox,3.0,4.0,2021-06-07T21:07:15Z,,Python,2831.0,1685.0
+LinirZamir/YOLOv5-VisualInspection,5.0,4.0,2015-10-21T04:47:28Z,,Python,2329.0,42512.0
+T-Sumida/mlflow_example,6.0,17.0,2017-12-01T03:49:08Z,Vietnamese Sentiment Analysis,Python,163.0,998259.0
+Brindha-m/Leafine,3.0,4.0,2022-06-09T06:56:46Z,,Python,188.0,23015.0
+kazukiyo17/AIProject,4.0,3.0,2022-08-23T16:36:36Z,,Python,1218.0,28523.0
+defaultobject/sdem,2.0,2.0,2022-04-10T04:11:07Z,,Python,562.0,5.0
+dianingty-tkp/shopee_ndsc,30.0,13.0,2018-10-20T21:24:57Z,https://beta.mxnet.io/,R,3439.0,70475.0
+GoGoGodeep/Bone-age-detection-based-on-YOLOv5-and-ResNet,4.0,13.0,2020-02-09T04:36:36Z,Experiment management with Hydra and MLflow,Python,401.0,7.0
+airqo-platform/calibration,4.0,2.0,2022-03-14T10:32:49Z,"Implementation of the work ""Closing the Loop: A Framework for Trustworthy Machine Learning in Power Systems"" submitted to IREP 2022",Python,4723.0,12283.0
+9harshit/Breast-Cancer-Detect-Using-ANN,30.0,5.0,2022-02-06T11:47:56Z,TFLEX: Temporal Feature-Logic Embedding Framework for Complex Reasoning over Temporal Knowledge Graph,Python,1599.0,30216.0
+synbioks/Text-Mining-NLP,2.0,6.0,2019-09-19T18:25:12Z,Simple example showing how to integrate Ray parallelization with the Sacred experiment framework,Python,334.0,61.0
+Pamikk/rev-seg-mia,4.0,24811.0,2016-10-25T19:38:30Z,Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.,Python,605.0,288400.0
+AshwinBalaji52/Personality-Detection-using-Handwriting,30.0,33.0,2018-09-27T22:49:27Z,A toolbox for worst-case validation of autonomous policies,Python,816.0,82803.0
+AnujMahajanOxf/MAVEN,2.0,3.0,2022-03-02T01:43:35Z,"code for ""FLEX: Feature-Logic Embedding Framework for CompleX Knowledge Graph Reasoning""",Python,772.0,8873.0
+Nikii1118/CS5590-Python-DL-Session2,2.0,13.0,2019-06-10T07:44:36Z,Indonesian word embedding evaluation,Python,132.0,16.0
+wahyu-adi-n/garbage-mlflow-tracking,30.0,2.0,2019-05-17T07:49:09Z,Contribute to ChinaMM 2019,Python,187.0,63978.0
+MoeinSorkhei/MoCo,30.0,2.0,2019-10-02T18:48:13Z,,Jupyter Notebook,271.0,23975.0
+Erlemar/wheat,2.0,2.0,2019-11-11T18:35:53Z,Companion repo to DeepForest for training large models from DeepForest python package.,Python,147.0,28091.0
+mlco2/codecarbon,3.0,5.0,2018-07-23T15:19:19Z,,Jupyter Notebook,148.0,455576.0
+faqih-ar/Game-Retail,4.0,2.0,2022-04-05T05:15:55Z,,Python,602.0,15490.0
+gufengxiaoyuehan/mlflow_kubernetes,4.0,3.0,2022-12-16T00:23:05Z,Open source contributions for integrations with comet_ml,Python,106.0,39.0
+activeloopai/deeplake,30.0,5298.0,2019-08-09T06:17:59Z,"Data Lake for Deep Learning. Build, manage, query, version, & visualize datasets. Stream data real-time to PyTorch/TensorFlow. https://activeloop.ai ",Python,2203.0,64822.0
+sony/nnabla-nas,14.0,36.0,2020-06-15T07:38:25Z,Neural Architecture Search for Neural Network Libraries,Python,914.0,175864.0
+Ajyy/espnet,30.0,2.0,2022-04-24T05:27:44Z,,Python,14805.0,328762.0
+minerva-ml/minerva-training-materials,8.0,44.0,2017-12-11T14:41:19Z,"Learn advanced data science on real-life, curated problems",Jupyter Notebook,103.0,68581.0
+openai/jukebox,7.0,6411.0,2020-04-29T17:16:12Z,"Code for the paper ""Jukebox: A Generative Model for Music""",Python,124.0,2810.0
+EricCousineau-TRI/repro,3.0,21.0,2017-04-03T20:19:28Z,Simple area to test out concepts or try to reproduce isolated issues in Drake.,Jupyter Notebook,2233.0,12377.0
+labmlai/labml,7.0,1298.0,2018-11-16T09:34:48Z,🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱,Jupyter Notebook,1284.0,105086.0
+stared/livelossplot,15.0,1237.0,2018-03-10T17:51:43Z,"Live training loss plot in Jupyter Notebook for Keras, PyTorch and others",Python,330.0,1838.0
+declare-lab/conv-emotion,8.0,1088.0,2018-10-31T23:54:41Z,This repo contains implementation of different architectures for emotion recognition in conversations.,Python,293.0,769355.0
+Lightning-Universe/Training-Studio_app,17.0,14.0,2022-05-02T20:23:17Z,Lightning HPO & Training Studio App,Python,413.0,13098.0
+awslabs/amazon-neptune-tools,27.0,262.0,2018-02-14T05:13:35Z,Tools and utilities to enable loading data and building graph applications with Amazon Neptune.,Java,428.0,2044.0
+deepcam-cn/yolov5-face,13.0,1521.0,2021-04-26T06:55:59Z,YOLO5Face: Why Reinventing a Face Detector (https://arxiv.org/abs/2105.12931)       ECCV Workshops 2022),Python,131.0,10233.0
+aCLImatise/BaseCamp,2.0,2.0,2020-05-07T15:28:08Z,A repository of bioinformatics tool definitions generated by aCLImatise,,139.0,524618.0
+SamirMoustafa/auto-features-extraction-for-RL,6.0,2.0,2020-05-26T16:50:04Z,Features Extraction using Autoencoders for Reinforcement Learning Tasks,Jupyter Notebook,152.0,198432.0
+freelunchtheorem/Conditional_Density_Estimation,4.0,153.0,2017-12-18T17:52:01Z,Package implementing various parametric and nonparametric methods for conditional density estimation,Python,698.0,10697.0
+Raalsky/neptune-f1,3.0,2.0,2021-11-02T15:01:24Z,Neptune.ai integration for F1 2021 telemetry,Python,234.0,229.0
+TomaszOdrzygozdz/gym-splendor,3.0,2.0,2019-10-11T23:52:27Z,The environment for the ,Python,306.0,12893.0
+flyteorg/flytesnacks,30.0,52.0,2019-10-17T18:32:26Z,Flyte Documentation 📖,Jupyter Notebook,545.0,37944.0
+Tessellate-Imaging/Monk_Object_Detection,13.0,565.0,2019-12-31T12:25:05Z,A one-stop repository for low-code easily-installable object detection pipelines.,Jupyter Notebook,772.0,267145.0
+AHNU2019/mmcv_ROCM,30.0,3.0,2020-07-14T04:08:29Z,mmcv with AMD ROCM support.,Python,451.0,5917.0
+BraunMichael/MultiResUNet-Keras-Dragonfly4.1,30.0,2.0,2020-04-28T17:41:04Z,Forked versions of MultiResUNet and Keras 2.3.1 for making a deep learning model compatible with Dragonfly 4.1,Python,5359.0,13578.0
+A-Jacobson/shiba,2.0,2.0,2019-05-03T23:41:52Z,"A simple, flexible, pytorch training loop.",Python,106.0,4944.0
+garyd203/flying-circus,2.0,6.0,2017-09-12T10:53:04Z,"A tool for describing AWS infrastructure as (Python) code, built on top of AWS Cloud Formation.",Python,494.0,1040.0
+dhlab-epfl/dhSegment-torch,8.0,28.0,2019-12-10T09:27:52Z,dhSegment on pytorch,Python,572.0,17792.0
+minerva-ml/open-solution-toxic-comments,6.0,151.0,2018-01-04T16:29:37Z,Open solution to the Toxic Comment Classification Challenge,Python,163.0,2628.0
+ktonal/mimikit,2.0,7.0,2020-10-23T04:17:42Z,Music Modeling Kit,Python,420.0,23473.0
+HUJI-Deep/FlowKet,2.0,37.0,2019-05-09T08:08:24Z,A framework based on Tensorflow for running variational Monte-Carlo simulations of quantum many-body systems.,Python,317.0,11024.0
+phac-nml/neptune,3.0,17.0,2015-11-18T17:52:12Z,Neptune: Genomic Signature Discovery,Python,295.0,2717.0
+geyang/ml_logger,5.0,167.0,2018-04-21T07:27:55Z,"A logger, server and visualization dashboard for ML projects",Python,696.0,26927.0
+ContinualAI/avalanche,30.0,1267.0,2020-03-05T11:32:13Z,Avalanche: an End-to-End Library for Continual Learning based on PyTorch.,Python,3129.0,11607.0
+neptune-ai/neptune-examples,6.0,25.0,2020-03-18T15:34:38Z,Examples of using Neptune to keep track of your experiments (maintenance only).,Jupyter Notebook,139.0,7775.0
+tensorflow/profiler,21.0,300.0,2020-03-10T15:58:33Z,A profiling and performance analysis tool for TensorFlow,TypeScript,465.0,31901.0
+liangruibupt/aws-is-how,2.0,33.0,2020-04-09T02:42:12Z,Know How Guide and Hands on Guide for AWS,Jupyter Notebook,602.0,353713.0
+BBQuercus/deepBlink,4.0,23.0,2020-06-24T14:52:33Z,Threshold independent detection and localization of diffraction-limited spots.,Python,524.0,345466.0
+jamesdolezal/slideflow,5.0,96.0,2019-09-13T14:41:08Z,"Deep learning library for digital pathology, with both Tensorflow and PyTorch support.",Python,1841.0,104717.0
+ludwig-ai/ludwig,30.0,8793.0,2018-12-27T23:58:12Z,Data-centric declarative deep learning framework,Python,3386.0,31529.0
+kaylode/shrec22-pothole,2.0,4.0,2022-02-15T10:51:47Z,HCMUS Team at SHREC22: Crack and Pothole Segmentation,Python,137.0,35880.0
+adevinta/graph-asset-inventory-api,3.0,3.0,2021-08-09T05:51:02Z,Security Graph - Asset Inventory API,Python,128.0,139.0
+tensorflow/cloud,25.0,343.0,2020-02-10T18:51:59Z,The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.,Python,574.0,1855.0
+wandb/client-ng,12.0,15.0,2020-01-31T15:19:49Z,Experimental wandb CLI and Python API - See Experimental section below.,Python,605.0,22499.0
+neptune-ai/neptune-client,29.0,371.0,2019-02-11T11:25:57Z,:ledger: Experiment tracking tool and model registry,Python,1386.0,8791.0
+tensorflow/tensorboard,30.0,6140.0,2017-05-15T20:08:07Z,TensorFlow's Visualization Toolkit,TypeScript,5388.0,120908.0
+broadinstitute/keras-rcnn,16.0,545.0,2017-04-25T13:32:06Z,Keras package for region-based convolutional neural networks (RCNNs),Python,838.0,5321.0
+geyang/jaynes-starter-kit,6.0,14.0,2019-06-06T15:46:16Z,"a starter-kit for jaynes, the cloud-agnostic launch library",Python,214.0,2252.0
+flyteorg/flytekit,30.0,123.0,2019-08-21T17:38:38Z,Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible. ,Python,997.0,15635.0
+oblivia-simplex/berbalang,5.0,8.0,2019-03-20T16:15:11Z,WIP: evolutionary explorations of weird machines,Rust,379.0,140292.0
+felipecode/coiltraine,10.0,207.0,2019-01-28T10:52:52Z,Training framework for conditional imitation learning ,Python,916.0,4926.0
+aws-samples/amazon-neptune-samples,23.0,330.0,2018-04-05T22:37:22Z,Samples and documentation for using the Amazon Neptune graph database service,JavaScript,256.0,52047.0
+craftmine1000/jukebox-saveopt,8.0,11.0,2022-03-17T15:31:07Z,,Python,165.0,2762.0
+dunkelhaus/cancerTherapy,5.0,5.0,2018-01-18T01:39:50Z,To use deep learning to identify patients whose tumor DNA mutations “look similar to” other tumors for which treatments are effective.,HTML,434.0,174178.0
+PenroseZ/vitis-ai,27.0,2.0,2021-01-26T09:34:05Z,,C++,941.0,1114823.0
+neptune-ai/neptune-contrib,12.0,26.0,2019-01-22T15:41:44Z,This library is a location of the LegacyLogger for PyTorch Lightning.,Python,201.0,25501.0
+embedded-bitai/Mercenary,7.0,4.0,2020-09-20T06:53:53Z,This is Mercenary Project,C++,131.0,484989.0
+uwsampl/pytorch,30.0,3.0,2019-11-11T20:13:50Z,"Dynamic tensor rematerialization, implemented as a pytorch fork",C++,28468.0,186542.0
+inferno-pytorch/speedrun,5.0,79.0,2018-05-24T18:48:50Z,Research code need not be ugly. ,Python,117.0,211.0
+amundsen-io/amundsendatabuilder,30.0,204.0,2019-02-11T18:52:13Z,Data ingestion library for Amundsen to build graph and search index,Python,367.0,2155.0
+catalyst-team/catalyst,30.0,3090.0,2018-08-20T07:56:13Z,Accelerated deep learning R&D,Python,1698.0,54739.0
+lanpa/tensorboardX,30.0,7549.0,2017-06-13T13:54:19Z,"tensorboard for pytorch (and chainer, mxnet, numpy, ...)",Python,505.0,5779.0
