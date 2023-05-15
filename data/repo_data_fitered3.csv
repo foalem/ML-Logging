@@ -1,4 +1,4 @@
-Repos,number_contributor,number_stars,created_date,description,language,number_commit,sloc
+repository_full_name,number_contributor,number_stars,created_date,description,language,number_commit,sloc
 SamirMoustafa/auto-features-extraction-for-RL,6,2,2020-05-26T16:50:04Z,Features Extraction using Autoencoders for Reinforcement Learning Tasks,Jupyter Notebook,152,198432
 ktonal/mimikit,2,9,2020-10-23T04:17:42Z,Music Modeling Kit,Python,319,23239
 15Moners/fluke,3,10,2018-01-25T08:17:56Z, 머신러닝 프레임워크를 활용한 비교사(Unsupervised) 학습 모델 구현 프로젝트,Python,26548,6968

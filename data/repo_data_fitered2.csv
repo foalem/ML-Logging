@@ -1,4 +1,4 @@
-Repos,number_contributor,number_stars,created_date,description,language,number_commit,sloc
+repository_full_name,number_contributor,number_stars,created_date,description,language,number_commit,sloc
 tanimutomo/gcmc,2.0,137.0,2019-01-18T10:11:29Z,"Re-Implement ""Graph Convolutional Matrix Completion"" (PyTorch and PyTorch Geometric)",Python,113.0,387.0
 google-research/federated,30.0,522.0,2020-09-14T23:09:07Z,A collection of Google research projects related to Federated Learning and Federated Analytics.,Python,579.0,3647.0
 AHNU2019/mmcv_ROCM,30.0,4.0,2020-07-14T04:08:29Z,mmcv with AMD ROCM support.,Python,451.0,5917.0

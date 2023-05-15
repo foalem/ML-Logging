@@ -9,6 +9,7 @@ from data__collection.get_repo_infos import *
 from data__collection.get_repo_metric import *
 from config.constant import *
 from data__collection.clone_repo import *
+from data__collection.get_developer_email import *
 from parser.convert_notebooks_python import convert_notebooks_to_python_recursive
 from parser.convert_python_2_to_3 import remove_lines
 from parser.function_call import FunctionCallVisitor, filter_libs
@@ -37,6 +38,8 @@ def main() -> None:
                         dest='PARSER', required=False, action='store_true'),
     parser.add_argument('-sloc', '--codesize', help="Compute size of Python code in a repository",
                         dest='CODESIZE', required=False, action='store_true')
+    parser.add_argument('-d', '--dev', help="Collecting developer email",
+                        dest='DEV', required=False, action='store_true')
     args = parser.parse_args()
     if args.DATA:
         collect_repo()
@@ -84,6 +87,12 @@ def main() -> None:
         project_path = os.path.join(f"{ROOT_DIR}{PATH_FILE['data']}clones")
         project_list = list_subfolders(project_path)
         save_lines_of_code_to_csv(project_list, f"{ROOT_DIR}{PATH_FILE['data']}project_size_final.csv")
+    if args.DEV:
+        repo_list = get_distinct_repo_names(f"{ROOT_DIR}{PATH_FILE['data']}repo_data_fitered.csv")
+        print(repo_list)
+        login_list = get_developer_logins(repo_list)
+        dev_info = get_developer_emails(login_list)
+        save_emails_to_csv(dev_info)
 
 
 if __name__ == '__main__':

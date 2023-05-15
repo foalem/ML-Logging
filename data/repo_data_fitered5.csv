@@ -1,4 +1,4 @@
-Repos,num_stars,num_forks,num_contributor,num_commit
+repository_full_name,num_stars,num_forks,num_contributor,num_commit
 OmdenaAI/omdena-philippines-renewable,32,7,11,129
 autorope/donkeycar,2216,1144,110,2126
 ericlavigne/CarND-Capstone-Wolf-Pack,40,23,15,221
