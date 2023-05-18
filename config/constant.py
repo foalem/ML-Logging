@@ -1,6 +1,6 @@
 GitHub_CONFIG = {
-    'token': ['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',
-              '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'
+    'token': ['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'
+              # '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'
 
               # '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',
               # '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',

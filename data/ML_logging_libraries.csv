@@ -1,0 +1,10 @@
+Librairies,repository_full_name
+Comet_ml,comet-ml/comet-examples
+Whylogs,whylabs/whylogs
+Wandb,wandb/wandb
+Tensorboard,tensorflow/tensorboard 
+Mlflow,mlflow/mlflow
+Neptune,neptune-ai/neptune-client
+Dowel,rlworkgroup/dowel
+Sacred,IDSIA/sacred
+Ml_logger,geyang/ml_logger
