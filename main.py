@@ -8,6 +8,7 @@ from data__collection.get_repo import *
 from data__collection.get_repo_infos import *
 from data__collection.get_repo_metric import *
 from config.constant import *
+from data__collection.get_issue import *
 from data__collection.clone_repo import *
 from data__collection.get_developer_email import *
 from parser.convert_notebooks_python import convert_notebooks_to_python_recursive
@@ -40,6 +41,7 @@ def main() -> None:
                         dest='CODESIZE', required=False, action='store_true')
     parser.add_argument('-d', '--dev', help="Collecting developer email",
                         dest='DEV', required=False, action='store_true')
+    parser.add_argument('-i', '--issue', help="Collecting issue", dest='ISSUE', required=False, action='store_true')
     args = parser.parse_args()
     if args.DATA:
         collect_repo()
@@ -80,7 +82,8 @@ def main() -> None:
                 print(f"Error on {file_path} : {e}")
         libraries_to_track = LIBRARY_CONFIG["import"]
         logger.info("saving logging function call")
-        filter_libs(libraries_to_track, all_call_function, ROOT_DIR + '/' + PATH_FILE['data'] + 'loggging_call_function5.csv')
+        filter_libs(libraries_to_track, all_call_function,
+                    ROOT_DIR + '/' + PATH_FILE['data'] + 'loggging_call_function5.csv')
         # __function_call = find_library_function_calls(f"{ROOT_DIR}{PATH_FILE['data']}clones", lib_)
         # print(__function_call)
     if args.CODESIZE:
@@ -93,6 +96,11 @@ def main() -> None:
         login_list = get_developer_logins(repo_list)
         dev_info = get_developer_emails(login_list)
         save_emails_to_csv(dev_info)
+    if args.ISSUE:
+        repo_list = get_distinct_repo_names(f"{ROOT_DIR}{PATH_FILE['data']}ML_logging_libraries.csv")
+        print(repo_list)
+        issue_list = get_repository_issues(repo_list)
+        save_issues_to_csv(issue_list)
 
 
 if __name__ == '__main__':
