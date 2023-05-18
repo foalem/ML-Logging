@@ -11,24 +11,29 @@ logger = configure_logger('github-data_logger', 'logging_file.log')
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # This is your Project Root
 
 
-def get_repository_issues(repos: str) -> List[Dict[str, str]]:
+def get_repository_issues(repos: List[str]) -> List[Dict[str, str]]:
     headers = {"Authorization": f"Bearer {random.choice(GitHub_CONFIG['token'])}"}
     issues = []
-    page = 1
-    while True:
-        delay_next_request()
-        url = f'https://api.github.com/repos/{repos}/issues?state=all&page={page}&per_page=100'
-        response = requests.get(url, headers=headers)
-        if response.status_code == 200:
-            page_issues = response.json()
-            if len(page_issues) == 0:
-                break
-            for issue in page_issues:
-                issue_data = {'title': issue['title'], 'body': issue['body']}
-                issues.append(issue_data)
-            page += 1
-        else:
-            continue
+
+    for repo in repos:
+        page = 1
+        while True:
+            delay_next_request()
+            url = f'https://api.github.com/repos/{repo}/issues?state=all&page={page}&per_page=100'
+            response = requests.get(url, headers=headers)
+
+            if response.status_code == 200:
+                page_issues = response.json()
+                if len(page_issues) == 0:
+                    break
+                for issue in page_issues:
+                    logger.info(f"Collecting issue: {issue['title']}")
+                    issue_data = {'title': issue['title'], 'body': issue['body']}
+                    issues.append(issue_data)
+                page += 1
+            else:
+                continue
+
     return issues
 
 
