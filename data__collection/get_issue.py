@@ -27,6 +27,8 @@ def get_repository_issues(repos: List[str]) -> List[Dict[str, str]]:
                 if len(page_issues) == 0:
                     break
                 for issue in page_issues:
+                    if issue['title'] == 'Fix example file path':
+                        continue
                     logger.info(f"Collecting issue: {issue['title']}")
                     issue_data = {'title': issue['title'], 'body': issue['body']}
                     issues.append(issue_data)
