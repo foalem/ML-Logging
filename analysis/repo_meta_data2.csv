@@ -1,0 +1,1769 @@
+repo_name,number_contributor,number_stars,created_date,description,language,number_commit,sloc
+Boilevin/AzuritBer,1,6,2019-05-11T17:48:31Z,Ardumower full odometry version,C,161,500330
+UM-Titan/DSPS23,1,1,2022-12-06T04:15:22Z,,Python,3,14332
+thomaslacour/TaxiFareModel,1,0,2021-11-23T14:33:30Z,TaxiFareModel kaggle challenge,Python,1153,11
+michaelzhouy/Competition,1,4,2020-04-17T03:37:50Z,,Jupyter Notebook,35,154054
+siddharth-dot/soft.github.io,1,0,2021-05-24T08:52:39Z,,HTML,8,10251
+saeedashraf/engageclients,1,0,2021-09-24T05:55:54Z,,Jupyter Notebook,1,3560
+donny-chan/mixada-sub2,1,2,2021-03-17T14:48:31Z,MixADA + SUB2,Python,1,36797
+mac2bua/mlflow-tutorial-ai-marketplace,3,8,2021-09-29T11:48:36Z,,Jupyter Notebook,2,158
+trinhansg/code,1,1,2020-07-30T17:45:02Z,,Python,9,93488
+DoganK01/YOLOV8-DeepSORT-Tracking-Vehicle-Counting,1,5,2022-11-29T12:30:19Z,Vehicle Counting Using Yolov8 and DeepSORT,Python,2,8409
+giacomopiccinini/SiameseTwin,1,0,2022-11-16T07:58:46Z,,Python,107,274
+chrisvle/mooc-deep-learning,1,0,2015-07-13T22:38:58Z,,Python,4,613792
+s4mik4dr/test_ship_yolov5,1,1,2022-10-11T16:57:02Z,,Jupyter Notebook,42,664981
+limingliu-eit-kth-tub/Upwork_Project_2,0,1,2022-03-08T11:28:21Z,Introduce Vanet protocol 802.11p to a machine learning algorithm for contention window control originally implemented for Wifi,Python,67,993
+EternityJH/DetSegAVM,1,0,2023-01-24T07:09:48Z,Deep Learning Framework for the Detection and Segmentation of Arteriovenous Malformations in MRI,Jupyter Notebook,26631,2289
+FrancescoSaverioZuppichini/Emotions-Detection,1,2,2020-02-12T08:21:00Z,"Detection of emotions (happiness, sadness) from a face photo using Deep Learning",Jupyter Notebook,1,3614
+lek34/YOLOV8-SAWIT,1,0,2020-08-23T09:04:36Z,,Python,3,38545
+prabhatdash/sentiment_analysis,1,6,2018-12-21T18:16:06Z,Zero-shot Classification of News Title - Final Project for IRTM NTU 2018,Python,293,1593
+adamlin120/Zero-shot_Classification_of_News_Title,0,0,2021-04-17T07:20:28Z,,Python,19,169210
+Sharmilendran/lubrigo_try,1,0,2021-01-31T05:52:09Z,,Python,30,7267
+SultanaOmar/Disaster-Response-Pipelines-Project,1,0,2022-03-19T16:35:40Z,,Python,1,2477
+kiarashza/Generating-the-Graph-Gestalt-Kernel-Regularized-Graph-Representation-Learning,1,3,2022-06-23T05:29:15Z,,Python,1,756
+chengyuwu-98/AutoML,1,0,2021-07-23T07:24:46Z,,Python,3,15
+ThierryJudge/CRISP-uncertainty,1,26,2016-10-23T00:24:15Z,⚙️ A Theano-based Python implementation of Factorization Machines (Rendle 2010).,Python,44,81
+marzooq-unbxd/ndcg_comparison,1,0,2023-02-06T17:21:08Z,Using Yolov8 to translate sign languages into text,Jupyter Notebook,1174,930901
+dstein64/pyfms,1,0,2022-10-27T03:07:19Z,,Python,43,200978
+TKovaks78/Sign_Language_Translation_with_Yolov8,2,0,2020-02-28T09:12:21Z,Summer Research Project in Privacy Defense,Jupyter Notebook,165,48934
+CoCoPIE-Group/MobileBERT-transformer,1,0,2016-09-25T21:09:06Z,,Python,63,147775
+chai915/srs2019,1,0,2022-11-03T00:33:50Z,,Python,4,25898
+vishalrajpal/ArithmeticProblemSolver,1,9,2021-07-27T20:09:14Z,Knowledge-Augmented Language Models for Cause-Effect Relation Classification https://arxiv.org/abs/2112.08615,Python,652,846
+Dongyang-Guo/Paper-code,2,4,2020-01-27T14:30:28Z,Deep learning based echocardiogram view classification using spatio-temporal features,Jupyter Notebook,81,99144
+phosseini/causal-reasoning,1,0,2021-10-13T14:25:39Z,,Python,43,124022
+Idodox/Deep-learning-echocardiogram-view-classification,30,0,2022-11-22T05:06:33Z,GitHub code,Python,20,918
+Personman000/CSCD01-Backup,1,0,2021-06-30T02:37:25Z,The project with the credit score company,Jupyter Notebook,1,2012
+tvenishkumar/testcode,1,0,2021-11-01T14:23:41Z,Repository for new experiments with less labeling on software reviews ,Python,21,148440
+BinZ-creator/Hackthon,1,0,2022-12-10T16:19:21Z,,Python,1,1960
+GoloMarcos/MVAE-RelevantReviews,1,3,2023-02-25T14:12:03Z,该项目可用于做yolov5+reid识别，可用于做跨视频人员检测,Python,283,1447
+Grey2John/YOLO_train,1,0,2021-06-22T08:38:07Z,,Python,3,52
+YINYIPENG-EN/yolov5_reid,1,0,2018-07-27T16:30:02Z,,Python,23069,187249
+dkobylianskii/leptonTag,8,0,2017-01-14T00:09:39Z,Generating realistic handwriting with Tensorflow,Python,7,36496
+sendilk/ml-class,1,0,2022-03-30T09:31:22Z,,Python,107,37443
+MikeHeaton/Handwriting-Generation,1,1,2022-10-16T12:57:49Z,A repository of code pertaining to UdeM's IFT6758 Data Science course project.,Jupyter Notebook,151,201034
+ludvikka/temp_oj,4,0,2021-06-19T13:37:33Z,,Python,2,18656
+stwhitfield/hockey_prediction_project,1,0,2023-01-30T01:32:17Z,,Python,472,133986
+Ssuwani/mlops,1,1,2018-12-28T13:14:17Z,caffe opencl version starting point,C++,4,8657
+bensonbs/FOXY_FIT,1,3,2012-02-20T21:20:45Z,my undergraduate thesis,Python,20,46160
+JEONGHYUN-LEE/Caffe-CL-Origin,1,0,2022-12-20T23:50:05Z,,Python,144,14957
+hannahrivers/Thesis,1,0,2023-01-18T15:42:08Z,Automatic Application Reviews Classification Model,Python,77,656
+AbdElrahman-Taha-99/gp,1,0,2022-12-16T10:39:50Z,,Python,35,1117
+drmingler/Automatic-App-Reviews-Classification-Model,1,3,2020-01-16T00:32:54Z,,Python,37,62303
+cjy123-lt/yolov5-master_new,2,26,2020-12-28T00:37:28Z,Transformers are Meta-Reinforcement Learners - International Conference on Machine Learning (ICML) 2022,Python,1,16398
+proganalysis/python3_types,30,1,2020-12-04T15:22:25Z,,Python,16,2
+luckeciano/transformers-metarl,1,0,2021-08-13T17:45:54Z,,Python,200,18652
+atomsos/cartlinear,1,0,2023-02-24T08:01:25Z,,Jupyter Notebook,13,866278
+ajayjalluri/FAKE-NEWS-CLASSIFIER,1,1,2021-08-05T13:02:42Z,,Python,100,6447
+lanh1301/hand_detection,1,12,2017-07-17T18:25:54Z,"modular face identification, tracking, and attribute extraction",C++,129,110638
+Rian-T/AudioDrivenTalkingHeadGeneration,0,1,2020-01-27T15:04:18Z,Sensor Fusion for 3D Object Detection for Driverless Cars,Jupyter Notebook,24,26418
+nd-z/fmxnet,1,5,2020-12-31T11:32:44Z,Extended QMix for playing Multi agent Starcraft II Challenge (SMAC),Python,101,2064
+YahyaAlaaMassoud/Sensor-Fusion,7,0,2023-01-21T06:19:03Z,,Python,11,926
+mahi97/XQMIX,1,9,2020-07-12T07:31:57Z,"微博谣言检测, 前端Vue,后端Flask",JavaScript,16,62036
+Lakaai/yolov5backup,1,10,2019-11-13T22:57:33Z,"Reproduction of OpenAI and DeepMind's ""Deep Reinforcement Learning from Human Preferences""",Python,305,535
+yonginggg/WeiboRumorClassify_Vue_Flask,3,0,2022-05-28T04:13:02Z,,Jupyter Notebook,2485,368613
+HumanCompatibleAI/learning-from-human-preferences,1,1,2023-02-17T14:28:00Z,This is a API for yolov5 version7 detect.py,Python,13,520
+usmanjavaid227/Complete_Data-Science,1,0,2020-10-19T04:03:45Z,CS6285 Project,Jupyter Notebook,29,353793
+Ender-William/YoloDetectAPI,2,0,2022-11-14T01:51:08Z,,,50,21844
+WenjieWWJ/KDplus,1,0,2021-12-03T14:50:22Z,,Python,57,22
+AnQiYan/tobacodetect,0,0,2021-09-28T20:58:30Z,,Python,584,3
+ShawnDong98/WennyEngine,1,0,2018-05-28T12:09:54Z,,Python,2,146244
+ShahradSarvarzadeh/predict-House-prices-from-Scout24,4,0,2019-04-17T01:59:46Z,craw about 10 housewebsites'information and this data would show in house_django project,Python,10,60
+StefanDeWitHR/Project78,1,0,2019-01-01T01:58:18Z,,Python,68,387176
+mygesty/house,1,0,2022-11-07T18:40:47Z,,Python,176,18
+humorbeing/python_github,1,0,2021-01-06T10:58:03Z,,Python,694,3
+renan-souza/flowcept,1,0,2016-08-15T20:30:16Z,,Python,459,54455
+pranavpandey2511/Generative-Adversarial-Network,30,0,2018-05-30T09:22:59Z,Python django blog ,Python,1,99975
+kundan2510/theano-cudnn-rnn,1,0,2021-06-16T20:00:15Z,,Jupyter Notebook,1999,4066
+LegalEd/django-blog,1,0,2022-10-07T01:54:48Z,2022-2 융합캡스톤디자인 9to6팀,Python,4,57501
+ju-mc/metis5-nlp,4,0,2020-01-18T22:32:45Z,,Jupyter Notebook,97,42726
+CSID-DGU/2022-2-SCS4031-9to6,3,3,2016-01-25T11:42:43Z,Python code for analysing Brains (electrophysiology stuff),Python,1172,2371
+ekeilty17/ECE421-Assignments,3,0,2022-11-29T20:26:58Z,,Python,84,48632
+georgedimitriadis/themeaningofbrain,1,0,2022-11-28T17:41:35Z,,Python,150,1982810
+rvavruska/DeepLearning,1,235,2018-11-17T00:50:09Z,Find best-response to a fixed policy in multi-agent RL,Python,1,5596
+USUBadBatch/5510-Midterm,5,0,2020-09-11T09:35:45Z,Bachelorarbeit,Python,424,23796
+HumanCompatibleAI/adversarial-policies,1,0,2021-09-24T19:44:02Z,,Jupyter Notebook,112,1616
+mellome/Deep-Representation-for-KWS-in-Chinese-Handwriting,4,11,2019-12-18T01:00:49Z,DESIGN AND IMPLEMENTATION OF A MACHINE LEARNING PLATFORM,Jupyter Notebook,2,3333
+6758-Project/hockey,3,0,2021-05-20T11:29:02Z,,Python,3,2985
+pingsutw/2019-minicourse-submarine,1,1,2020-08-13T15:42:54Z,This repository contains the code implementing and deploying content moderation for the Allay website.,Jupyter Notebook,13,32254
+ImadSidhoum/BDS_pipeline_reborn,4,0,2021-11-04T19:49:32Z,,Jupyter Notebook,733,110236
+alexmjn/allay-ds,3,2,2023-02-06T14:55:31Z,The code repository for AICity Challenge.,Python,1,162369
+xi-j/Incremental_Acoustic_Classification,1,0,2017-10-23T02:00:57Z,,Jupyter Notebook,271,56761
+cycv5/TBD,1,6,2019-09-08T14:09:58Z,Process Improvement using Data,Python,16,6106
+lidiaxp/newPyLayer,2,1,2020-12-01T22:59:36Z,Web scraping with python,Python,2,47
+kgdunn/process-improve,1,1,2022-01-13T15:32:55Z,Pytorch Lightning Implementation of StyleGAN,Python,1,267
+thomas-mecattaf/handwriting-recognition-test,1,82,2016-02-04T23:52:24Z,WebNav: A New Large-Scale Task for Natural Language based Sequential Decision Making,Python,21943,86
+fatihgnc/web-scraping,2,0,2020-09-04T09:18:58Z,first commit,Python,106,13541
+TerboucheHacene/StyleGAN-pytorch-lightning,1,1,2020-07-24T03:08:58Z,,Python,152,5205
+nyu-dl/dl4ir-webnav,0,2,2017-05-22T05:13:13Z,A high level framework for general purpose neural networks in Theano.,Python,185,490
+luzhihua407/AIBot,1,0,2021-04-05T09:24:47Z,,Python,24000,24
+Qianna00/mmcv,1,0,2023-01-20T19:12:42Z,,Python,28,20751
+justanhduc/neuralnet,1,0,2022-10-10T11:26:28Z,,Python,38,13093
+innerArsenio/Voice-project,30,0,2020-10-15T11:01:22Z,Extract publication metadata from web pages. Developed as part of my specialization project (TDT4501 @ NTNU).,Python,2,35
+khc800/Neural_Visionaries_Pothole,1,0,2022-12-07T14:06:19Z,,Python,61,65416
+Jeremy9910/Convertion_yolov5,1,4,2020-02-27T21:29:19Z,Generate lyrics with TensorFlow and the Genius API,Python,25,983
+olafapl/publication_extraction,1,0,2021-07-30T11:07:01Z,,Jupyter Notebook,49,11454
+vishvajitjambuti/ROS2_yolo,2,0,2022-01-12T18:11:22Z,,Jupyter Notebook,59,512979
+ggiuffre/tf-lyrics,1,3,2022-09-09T07:25:27Z,,Python,5,829
+ferraric/CloudCoveragePrediction,1,2,2021-04-26T04:44:52Z,"SIGIR'21 paper ""Bayesian Critiquing with Keyphrase Activation Vectors for VAE-based Recommender Systems""",Jupyter Notebook,27,39445
+bnbbdz/Python_code,1,1,2019-07-13T02:20:03Z,Easy to use tensorflow 2.0 implementation of invertible generative neural networks.  ,Python,129,176
+wahyu-adi-n/face-mask-detection,2,31,2021-11-30T09:33:46Z,Implementation of Hire-MLP: Vision MLP via Hierarchical Rearrangement and An Image Patch is a Wave: Phase-Aware Vision MLP.,Python,4,7184
+hojinYang/bayesian-critiquing-recommender,1,0,2021-06-23T19:06:27Z,A machine learning model capable of classifying the severity of lung cancer. The model trained using XGBoost,Jupyter Notebook,75,66
+anshuln/InvTF,1,1,2020-11-08T13:09:20Z,Analyse exploratoire et machine learning du dataset googleplaystore,HTML,1093,4417
+ggjy/Hire-Wave-MLP.pytorch,1,1,2021-12-10T13:04:59Z,"This is the perception pipeline for the CROWDBOT project, featuring person detection and tracking from multi-sensor modalities.",C,2,8657
+trizkynoviandy/streamlit_classifications,5,0,2022-11-23T09:03:15Z,,Python,106,13641
+Aziguy/DataScienceEDA,30,8,2020-02-15T08:37:30Z,Yandex praktikum consultation without data and solution code,Jupyter Notebook,19,7655
+VisualComputingInstitute/CROWDBOT_perception,1,0,2022-09-08T12:59:33Z,RobustBench extension with constraints,Python,5,444601
+junwei9638/YOLOv7_Classification,3,0,2021-04-22T02:13:41Z,,Python,3,24768
+alimbekovKZ/yandexpraktikum_consultation,1,0,2019-01-17T04:20:20Z,,Python,5,100
+boumpteryx/ConstrainedRobustBench,4,0,2019-06-06T09:48:17Z,,Python,6,6763
+kuri54/pytorch,1,0,2021-12-01T16:58:13Z,"Using Deep Learning with Keras to predict the taxi fare, and build a dashboard for showing the implementation using Flask.",Jupyter Notebook,40,5029
+18737581408/mearcal,1,0,2019-02-04T04:28:20Z,Course project for CSC2511,Python,13,136
+jgroschwitz/amr-labels,2,815,2016-11-19T02:42:09Z,Descriptive Deep Learning,Python,7,1873
+jacobceles/ChicagoTaxiTrips-DeepLearning-Dashboard,12,0,2021-11-24T00:31:19Z,"Code repository for the paper ""Computer Vision User Entity Behavior Analytics""",Python,136,1260
+StephAO/EmergentMAML,1,0,2017-08-16T06:41:12Z,Sharing unet models for hyperparameter searching,Python,27,4637
+deepgram/kur,1,0,2021-07-06T16:38:00Z,Triple-VAE for Event Detection,Python,266,196975
+CVUEBARepo/CVUEBA,1,0,2021-11-17T11:20:10Z,,Python,3755,21727
+microns-ariadne/runet_code,3,13,2020-09-22T18:59:23Z,,Python,178,864
+GoloMarcos/TripleVAE-Events,1,1,2020-07-14T00:05:16Z,,Python,8,111
+PLPWork/Emotional_Health_Expert,1,0,2017-11-21T21:40:24Z,courseware used for Machine learning from Lucas Biewald,Python,5,22949
+KavrakiLab/MetaTrans,8,0,2022-05-30T16:22:42Z,Best practices for integrating Databricks Repos with CI/CD workflows,Jupyter Notebook,1,115756
+bstriner/pytorch-igniter,30,20,2020-02-03T02:13:13Z,Model-based Trajectory Inference for Single-Cell RNA Sequencing Using Deep Learning with a Mixture Prior,Jupyter Notebook,10,807108
+LucasLvbj/ML-Training-Keras,3,0,2022-11-14T13:07:40Z,,Python,67,5187
+ederchy/Databrick-MLOPS-git-integration,1,0,2020-03-20T13:35:22Z,mlflow_project_tutorial,Python,32,2
+jaydu1/VITAE,1,0,2021-03-12T03:34:05Z,,Python,8,6432
+abhayran/thesis,1,0,2022-04-18T03:25:58Z,This project was cloned from original metaworld repository. This is for making sensory input to metaworld.,Python,1,224643
+sengupti/tutorial,30,1,2020-01-06T23:18:36Z,,Java,15,2965
+naya86/streamlit-Diabetes-Prediction,1,0,2018-10-19T10:36:35Z,study,Python,12,10597
+southglory/Sensory_extended_metaworld,1,0,2023-01-23T13:18:20Z,"YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT",Jupyter Notebook,46,37591
+preeti297/Sound-Based-Two-Factor-Authentication,1,0,2020-07-16T08:29:31Z,,Python,4,20316
+ZhiYinZhang/study,30,1,2022-11-21T06:52:42Z,"🌎 🌱Repo for all my 🧑🏻‍💻 re-implementations of papers, models that were created for works in AI Applications for Climate Change and Sustainability",Jupyter Notebook,183,696892
+Devika03/YOLOv8-DeepSORT-Object-Tracking,1,36,2023-02-01T13:47:04Z,Fire Detection using YOLOv8,Python,5,11376
+sandeepnair2812/MLflow-A-Machine-Learning-Lifecycle-Platform,1,1,2020-12-08T07:12:17Z,My wibu web,JavaScript,39,25977
+AdiNarendra98/AI-for-Environment,2,0,2022-07-15T19:17:57Z,,Python,3,800
+MuhammadMoinFaisal/FireDetectionYOLOv8,2,0,2021-08-02T16:42:24Z,Re-implementation of Eye Tracking for Everyone,Python,4,51545
+bichu136/Wibu_Web,1,430,2019-02-26T18:26:17Z,This repository lets you train neural networks models for performing end-to-end full-page handwriting recognition using the Apache MXNet deep learning frameworks on the IAM Dataset.,Jupyter Notebook,4,76502
+ncpaxton/old_255_main,7,2,2017-10-31T03:35:44Z,"This project used a combination of an N-Gram tagger, a Bayesian classifier, and a decision tree to determine the correct pronunciation of heteronyms (words that are spelled the same but pronounced differently, i.e. ""lead"") for text-to-speech implementations.",Python,3,40975
+DSSR2/gazecap,1,6,2020-02-26T14:19:08Z,"A repo for example code for technologies and platforms: MLflow, PyTorch, Python Language features, Spark and Scala, etc.",Jupyter Notebook,2,11507
+awslabs/handwritten-text-recognition-for-apache-mxnet,1,1,2022-12-09T06:07:14Z,This is the UCLA ECE M202A final project repo,Python,19,29795
+rlaskarl77/add-eoir,1,0,2020-10-11T03:21:13Z,Comparing IRL methods for efficiency and robustness,Jupyter Notebook,3,4326
+alex-parisi/Heteronymous-Ambiguity-Resolution,2,0,2019-10-01T11:20:25Z,,Python,65,604
+dmatrix/misc-code,1,291,2017-03-27T12:13:08Z,Crop Yield Prediction with Deep Learning,Python,41,609
+yukangZhuu/vision-voice-localization-camera,1,0,2021-05-18T09:17:09Z,,Jupyter Notebook,24,142419
+jamesborg46/robust_rewards_from_preferences,1,0,2021-05-19T09:50:30Z,,Jupyter Notebook,70,262338
+aenidrob/crop_yield_prediction,13,0,2023-01-16T15:19:40Z,,Python,85,544
+JiaxuanYou/crop_yield_prediction,1,1,2019-01-17T01:43:51Z,Make machine learning simpler with Galaxy (Moved to https://github.com/goeckslab/Galaxy-ML),Jupyter Notebook,96,504845
+wwZhang0215/dl_project,2,0,2016-12-10T20:17:44Z,,Python,1,57526
+khadarvalli/Object_Detection,1,1,2020-10-15T03:52:15Z,source code and additional information for IJCNN2021,HTML,18,46171
+MuhammadNaeem42/mini-project,1,1,2023-01-22T06:53:02Z,,Python,5001,999
+ohsu-comp-bio/Galaxy-ML,1,0,2021-04-15T04:04:13Z,,HTML,5488,8041
+adazey/Muzez,1,0,2021-02-14T04:37:39Z,,Python,3,35
+KinWaiCheuk/IJCNN2021.github.io,1,0,2017-06-12T19:44:39Z,,Python,4,45085
+AndyKong2020/RCdrone2022,30,0,2023-02-23T04:27:42Z,,Python,32,369
+gopalalok/video-recommendation-APP,1,2,2019-01-23T06:40:29Z,Semantic Segmentation Model for oct,Jupyter Notebook,5,22252
+cchalc/mlops-to-share,2,0,2015-06-21T02:07:02Z,"This repo contains codes and, selfcontained, some documentation about implementation of theoretical issues of my PhD thesis. This work is entitled ""Learning Kernels for Distributional Semantic Clustering"" in which we present a novel (distributional) semantic embedding method.",Python,498,5074
+Najah-lshanableh/Python,2,0,2022-09-30T16:25:48Z,,Jupyter Notebook,5527,27360
+Sasitilak/protection-of-crop-from-animals,4,0,2016-11-01T22:34:08Z,,Python,7,29575
+arjunsbalaji/seg_model,30,0,2019-12-04T10:17:26Z,Those are my code about learning some modules and methods.,C++,1031,24452
+iarroyof/distributionalSemanticStabilityThesis,1,6,2020-06-07T12:33:09Z,An open agent-based scenario of Los Angeles and San Francisco areas,Python,110,53461
+kafluette/deeplearning-toolkit-py,1,0,2020-07-03T15:07:55Z,,Python,7,53
+amandalmia14/hockey-primer-1,1,0,2023-03-01T15:27:40Z,,Python,2600,15394
+jdehotin/Theano,1,0,2021-03-16T13:27:43Z,,Jupyter Notebook,7,3291
+RiEnRiu/rer_learning_code,3,0,2020-12-20T03:10:50Z,,HTML,20,965
+eqasim-org/california,2,6,2020-04-19T14:12:23Z,handwritten text recognition with mxnet and gluon. Thanks to https://pythonawesome.com/handwritten-text-recognition-ocr-with-mxnet-gluon/,Jupyter Notebook,6044,123450
+pabloduque0/wmh_segmentation,1,1,2020-11-15T16:46:38Z,,Python,213,10090
+tmaior/xd,1,0,2022-11-30T10:26:55Z,Open-source code of our proposed DuCC,Python,1,62
+caiogasparine/azure-data-science-e2e,1,0,2018-03-24T16:33:15Z,Adaptive Vocabulary App Builder ,Python,153,149268
+ajana13/hackumass-viii,3,0,2020-11-03T10:57:05Z,,Jupyter Notebook,319,5938
+develooper1994/handwritten_text_recognition,1,0,2020-01-17T02:55:50Z,,Jupyter Notebook,7,14121
+kothakondachandhar/Machine__Learning_A-z,1,19,2020-11-18T13:41:58Z,,Python,182,239
+papercode2023/DuCC,2,0,2021-03-18T11:38:06Z,python的一些小项目,Jupyter Notebook,6,15491
+arun63/vocabulary-adaptive,1,0,2021-08-17T10:24:47Z,first full package for taxi fare estimation,Python,5,12
+dheerajshah13/Live-Stock-Prediction,1,2,2022-04-06T10:29:58Z,,Python,955,900
+blank54/kistec,1,1,2018-05-11T12:42:10Z,,Python,5108,13942
+e-mon/lish-moa,5,69,2019-02-19T13:31:47Z,✨ DJANGO3.1 网站，集成用户管理，文章博客管理，算法模型可视化系统等功能,Python,17,10573
+PandoraLS/python_toys,2,4,2019-02-20T02:02:02Z,,Python,23,5
+QSTC/TaxiFareModel,1,0,2021-05-17T23:55:11Z,,Python,26,51835
+OpenXLab-Edu/MMCV-Edu,1,0,2021-03-14T06:17:40Z,This repository contains the solutions to all the assignments that were done as part of enhancing the learning experience in the CS6910: Fundamentals of Deep Learning course offered by Indian Institute of Technology Madras. The course was taught by Prof. Mitesh Khapra.,Jupyter Notebook,11,1521
+benbenlijie/face_landmark_keras,2,0,2021-03-31T10:50:08Z,,Python,91,12219
+StrayCamel247/Django_web,1,0,2023-02-18T07:29:56Z,,Python,484,20755
+agtaweel/arabic-text-classification,1,1,2020-11-14T23:48:32Z,"An end-to-end web application using Flask, Docker, and Elastic Beanstalk by scraping tweets and providing in-depth insights about specific businesses that could save business owners hours of tweets reading and analyzing.",CSS,20,22765
+nathanlct/ray,2,0,2022-10-25T18:16:40Z,,Jupyter Notebook,3,18549
+ArupDas15/Fundamentals_Of_Deep_Learning,1,0,2021-02-16T19:27:03Z,,Jupyter Notebook,274,64255
+imjacobclark/pickles,30,1,2020-08-14T09:44:23Z,Few-Shot Segmentation of Clover and Grass,Python,1,44
+iiitvideotagging/TestRepo,1,0,2022-12-27T12:29:08Z,,Jupyter Notebook,65,185
+2020ai/Tweet_Detective,1,0,2022-07-29T02:22:34Z,CNN benchmarks for a project,Jupyter Notebook,441,3850
+Elemento24/Random_Repo,1,2,2023-02-06T13:36:59Z,,Python,8,121591
+lily48/azuremachinelearning,1,5,2020-05-16T08:15:10Z,,Jupyter Notebook,104,321841
+AA323/few-shot-clover-segmentation,2,0,2017-10-24T08:22:57Z,"Code of integrative DRW (TBC 2017 paper ""Integrative Pathway-based Survival Prediction utilizing the Interaction between Gene Expression and DNA Methylation in Breast Cancer"")",Python,45,3249
+DarthReca/RL-exercises,2,0,2020-06-14T16:38:57Z,add U-Net+GRU version for the source code of Magenta,Python,4,1424
+jeremy-qin/CNN-Magic,1,1,2023-01-06T08:31:38Z,,Python,5,30543
+Errant404/License-Plate-Recognition,1,0,2020-10-09T08:51:41Z,,Python,5,40821
+sirzzang/Lecture-Multicampus,1,3,2020-11-05T02:37:49Z,TensorFlow is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks. Tensorflow is a symbolic math library based on dataflow and differentiable programming. ,Jupyter Notebook,373,989183
+taerimmkim/iDRW,1,3,2021-04-11T02:17:59Z,PyMARL is WhiRL's framework for deep multi-agent reinforcement learning,Python,1174,57
+xdy970211/piano-music-transcription,1,0,2022-08-10T07:27:09Z,,Python,161,35529
+StashkunasDmitry/kursovoy,1,12,2020-07-29T08:43:33Z,ElasticSearch implementation of MlFlow tracking store,Python,6,408
+Ixuanzhang/mmdet,2,0,2022-10-21T10:34:27Z,,Jupyter Notebook,24,571684
+WeilerWebServices/TensorFlow,1,1,2020-01-10T22:39:05Z,,Python,1,40
+gingkg/pymarl,1,3,2022-11-09T13:50:42Z,Using SwinUNETR model architecture with a self-supervised training approache more remote sensing segmentation tasts,Python,25,1727
+Adwaver4157/how_to_use_metaworld,1,4,2020-08-05T15:29:37Z,,Python,5,403634
+criteo/mlflow-elasticsearchstore,4,0,2020-08-18T13:54:24Z,,Jupyter Notebook,9,4786
+HeeWoong97/2022_jongseol,1,1,2023-01-18T09:33:37Z,,Python,1826,13025
+rubensancor/pytorch_organisation_lang,1,1,2020-10-21T20:25:06Z,The repository contains the codebase for Relative Weight Change in layers of Deep Neural Networks.,Jupyter Notebook,152,52200
+AhmedHamdi101/SwinUNETR-Remote-Sensing,4,8,2019-07-12T18:26:49Z,"Deep Neural Network Optimization Platform with Gradient-based, Gradient-Free Algorithms",Python,3,95382
+bigdata-3team/Sign-Language-Translator,1,0,2022-10-11T15:06:38Z,vision application project back-end package,Python,60,515602
+123pratik/ToxicCommentProject,1,0,2023-02-27T05:17:36Z,,Python,6,91145
+tinhpx2911/Vehicle_Counting_YOLOv8_DeepSORT,30,1,2020-01-14T06:32:40Z,Combining Improvements in Deep Reinforcement Learning,Python,61,280710
+Manifold-Computing/Relative-Weight-Change,2,1,2020-12-04T03:09:59Z,,Python,9,59381
+AroMorin/DNNOP,3,0,2020-05-06T12:50:29Z,classification of feedback and comments i.e whether it is positive negative or neutral and generating corresponding rating on a scale of 5.,Python,15,9
+bbbjihan/vision_server,1,1,2022-01-14T08:11:33Z,Course project work to find volatility caused by issue of green bonds which should be differentiated from that caused by vanila bonds.,Jupyter Notebook,13,1854
+Samanvitha3740/mle-2.2_mlflow,1,0,2016-10-19T15:18:20Z,,Python,4,45565
+alirezakazemipour/Rainbow,1,2,2020-01-01T22:44:05Z,A Flask API that processes POST requests to classify ETDs,Python,4,13422
+DailinH/cs273-project,1,5,2021-08-20T09:55:24Z,Code for Hero Robot of HUST LangYa Team in RoboMaster Competetion.,C,20,1696
+sameerkr1/sentiment_analysis,1,1,2016-06-08T15:20:29Z,Django app which can track CNN training with caffe and provides other convenience tools. It uses the OpenSurfaces framework.,Python,73,109
+danelee2601/green_bond_analysis,1,0,2022-08-18T07:40:16Z,A collection of tasks to use Noise2Void.,Python,11619,12
+Jaspreet10/moody,1,0,2022-12-23T02:14:36Z,,Python,29,39307
+lightonphiri/etd_autoclassifier,1,9,2020-11-24T08:19:34Z,,Python,8,37689
+nArrow4/AutoAim,1,1,2020-01-08T19:42:22Z,The 1D mass-spring toy problem of hardware-software co-optimization using RL,Python,328,8056
+kovibalu/cnntools,1,0,2022-11-19T01:35:55Z,Generalization in Pruned Deep Neural Networks,Python,4237,91
+fmi-faim/n2v-tasks,1,22,2016-06-23T17:18:35Z,Article Rewriter or Spinner Written in PHP & Python ,Python,2,21159
+Phao1610/Demo-Cat-and-Dog-Face-detection-using-App-Streamlit,2,0,2021-08-17T08:32:44Z,all Machine learning algorithms,Python,7,11587
+BUTSpeechFIT/vae_dolphin,1,0,2023-03-01T03:42:29Z,,Python,10,2240
+roamlab/HWasP-toy-problem,1,0,2023-02-03T16:48:25Z,,Python,33,13785
+NguyenTriQuan/Pruned-DNNs,1,1,2019-05-20T13:44:45Z,optical flow based motion vector resize in HEVC,C++,3541,2217
+rafasashi/razzy-spinner,1,0,2018-07-31T08:03:09Z,,Python,1,36
+kafura0/Machine_learning_r_n_Python,1,0,2018-10-12T21:50:52Z,,JavaScript,3,578
+chenliuxing/-YOLOv5-7.0,1,0,2020-10-16T10:09:28Z,,Python,2,72
+prodevssp/mlflow-mt,1,0,2020-03-19T08:35:43Z,Is it covid or normal?,Python,1,80514
+HuYuzhang/MVDHM,1,0,2021-04-23T13:48:27Z,steganalysis model(pytorch lightning implemented version),Python,103,10477
+nkdinsdale/docClassifier,1,0,2021-02-23T08:00:35Z,,Python,3,340
+ianvnaeger/FIND,1,0,2021-04-07T19:28:26Z,Partial (filled-in) solution for VQE Solver to find ground state energy of hydrogen atom,Jupyter Notebook,11,239026
+lknf8888/flower,2,0,2022-11-28T13:32:45Z,,Python,1,68626
+thomhert/chest-x-ray-covid-recognition,1,1,2019-12-04T12:26:04Z,,Jupyter Notebook,20,1094275
+kevin2li/steganalysis_pl,1,0,2023-01-22T22:38:13Z,Image representation with Neural Network,Python,39,949
+andrewgcodes/geneRanker,1,0,2022-09-15T04:27:39Z,,Python,18,908
+WaywardPhoton/QSciTech-QuantumBC-Workshop-Team4-Solution,1,2,2021-02-01T15:48:17Z,"Code for the paper Learning Deep Energy Shaping Policies for Stability-Guaranteed Manipulation, IEEE RA-L, 2021",Python,15,14138
+bohblue2/maicon_exp2,1,0,2019-09-07T16:12:15Z,,Hack,4963,64
+schwobr/grade_classif,1,1,2020-10-01T01:23:22Z,,Jupyter Notebook,46,57207
+RusAlmighty/ImageRep,1,0,2021-03-02T19:09:32Z,,Python,24,54784
+sjnaj/yolo,30,0,2021-03-02T14:15:09Z,Challenge Kaggle,Python,4078,82
+shbz80/energybased_stable_rl,1,0,2022-02-22T13:59:25Z,taxi,Python,30,9
+Andri202/naiveBayesClassifier,1,0,2021-01-07T13:43:21Z,Implementations of NeRF,Python,106,7532
+rsmarinho/pylayers,1,103,2019-05-14T01:33:11Z,"D-VAE: A Variational Autoencoder for Directed Acyclic Graphs, NeurIPS 2019",Python,26319,13661
+Vitervo/Scikit-learn,1,7,2021-08-07T11:53:36Z,Sentiment Analysis on Twitter data using Bernoulli Naïve Bayes,Python,1,4593611
+nicolashuyghe/TaxiFareModel,2,0,2022-01-31T10:05:37Z,Python Backend for Nolaria App,Python,158,48784
+PierreCeraH/TaxiFareModel,1,1,2021-06-29T06:21:29Z,,Jupyter Notebook,2427,517728
+Riksi/nerf,5,0,2022-01-24T05:23:09Z,Files to scrape Dungeon Master's Guild. An online collection of user-created D&D Adventures.,Python,1287,213
+muhanzhang/D-VAE,1,1,2020-07-12T19:05:42Z,,Python,10,75242
+SarahHannes/tweet-sentiment,2,1,2013-10-21T13:28:30Z,,C,8,117704
+shifttogit-deepanshu/nolariapy,1,0,2020-02-09T23:06:38Z,"Code for latest Quizbowl models (e.g., Bert)",Python,2,226
+scey26/srdualglow,1,1,2021-01-31T17:00:15Z,"This is the Deep Learning project we presented on February 1st, 2021, at the end the Jedha Fullstack Bootcamp in Paris. My goal was to go as far as I could in the creation of an app capable of transforming photographs of documents written in cursive Hebrew into a text file.",Jupyter Notebook,9,29356
+russDA/DnD_Adventure_Predictor,1,0,2018-07-25T06:18:26Z,Darbiniai reikalai,Python,417,25354
+datalab-georgetown/topic_modeling,1,0,2021-01-27T09:17:56Z,,Python,7,3761
+pietersavenberg/thesis,1,0,2022-12-02T15:48:02Z,,HCL,209,472
+ignasbra/Bakalaurinis,1,4,2020-11-23T00:02:00Z,,Jupyter Notebook,14,2655
+EntilZha/qb-bert,2,1,2023-01-15T14:31:15Z,13th Place Solution to Wadhwani AI Bollworm Counting Challenge ,Jupyter Notebook,27,13173
+Guilhem-Dubernet/Handwritten_hebrew_recognition,1,0,2021-06-08T15:30:16Z,,Python,49,15
+Babkes/Babkes,1,0,2018-02-06T17:37:44Z,,Python,10,98314
+anshshankar/Dictionary,1,0,2018-04-21T08:13:52Z,,Python,11366,51
+isilsgit/Mlops-Test,5,0,2023-03-03T04:45:19Z,,Python,16,5383
+hancia/ToxicSpansDetection,0,1,2023-02-10T08:32:29Z,通过手动标注数据集，训练老人摔倒的模型,Python,6,184994
+CuriousMonkey7/Bollworm-Counting-Challenge,1,22,2014-06-26T03:14:13Z,Gaussian Process optimization algorithm for Hyperopt,Python,1,148
+AnaJessica15/ml-gradio-mlflow-streamlit,1,3,2019-08-06T16:31:54Z,Pytorch implementation of meta-reinforcement-learning algorithms.,Python,57,121
+jhagle4/SSU_Preserve,1,0,2022-11-10T05:20:17Z,,Python,174,244
+dssg-berlin/hackathon-borderstep,1,0,2020-08-14T20:51:05Z,Private fork from https://github.com/huggingface/transformers,Python,202,21112
+thanhtonvk/AIPlatfrom,30,2,2020-12-13T00:38:44Z,"Paper, code, data, and supplementary material for our paper ""On the Softmax Bottleneck of Recurrent Language Models"", which got accepted at the main track of AAAI 2021.",Python,21986,16661
+CHNAICORP/yolov5-detection-algorithm-for-elderly-fall,1,0,2021-11-17T22:04:57Z,Application of Big Data,Jupyter Notebook,18,4275
+hyperopt/hyperopt-gpsmbo,2,0,2021-04-28T22:05:16Z,,Python,4,33870
+zhanpenghe/meta_agents,1,0,2022-11-25T00:22:40Z,This Repo contains all the code related to YOLOv5 Experiments.,Python,6,1079
+Qohey/inv-manager,1,2,2020-11-23T12:27:12Z,A web page using Convolutional Neural Networks for classify xray images. ,CSS,61,19030
+lucidworks/transformers-clone,1,0,2020-12-16T18:48:02Z,"Create a web service that uses machine learning to make predictions based on the data set Power Production. The goal is to produce a model that accurately predicts wind turbine power output from wind speed values, as in the data set. You must then develop a web service that will respond with predicted power values based on speed values sent as HTTP requests.",Jupyter Notebook,3,3464
+yottabytt/awd-lstm-lmkit,1,1,2023-02-14T11:26:00Z,基于YOLOV5的口罩检测，使用NVIDIA GTX1060 6G训练。MAP@0.5达到0.9058，MAP@5:0.95达到0.629180。需要权重文件可以联系：s2371160103@163.com,Python,218,20596
+aprag/AppOfBigData_Project,1,0,2023-01-18T06:34:32Z,,Python,3,14191
+danil99152/DirectumTasks,1,1,2021-10-28T17:13:32Z,Example of logging RLLib runs to Comet,Python,1,4
+lekhrajsaini01/YOLO_Experiments,1,0,2020-10-13T16:05:59Z,,Python,9,19510
+LeoFrancaBessa/-Django-Covid19-XRay-Prediction-WebApp,30,0,2021-05-07T08:31:49Z,"Single layer, multilayer perceptron ",Python,401,593
+daithimarkham/Machine-Learning-Project,1,0,2023-03-01T03:40:13Z,,Python,1,859
+Stephen-SMJ/MaskDetection,1,0,2022-06-10T16:20:30Z,,Python,81,8720
+keihsgw0605kgsm/yolov5_sample,1,19,2016-10-27T03:16:14Z,,Python,3,779
+comet-ml/rllib-example,1,0,2019-10-30T07:25:52Z,The repository consists of the Applications created by Virtusa using the data as a service from vLife platform.,HTML,2,25025
+noopurdhawan/transformers,1,0,2020-02-28T16:46:48Z,,Python,2,990071
+shikhasthakur/Tensorflow-,1,0,2020-10-17T17:33:21Z,,Python,53,19611
+ChristinaXinny/2023_GraduationDesign_yolov5_6.1,30,0,2021-08-01T11:36:59Z,,Jupyter Notebook,47,126
+quan3a1dvt/rams_ed,1,0,2022-06-22T02:01:41Z,starcraft bot,Python,1247,57
+poojakaur23/Tymlo,2,0,2020-05-04T14:08:23Z,,Python,77,198476
+ermongroup/Crop_Yield_Prediction,1,0,2021-01-25T01:28:19Z,,Python,7,10
+jadalmiro/aws_sagemaker,1,0,2022-02-23T09:50:09Z,,Python,10,10918
+Virtusa-vLife/Applications,30,0,2021-11-23T11:03:45Z,,Python,8,753
+jantje676/cross-modal,1,1,2019-06-28T18:11:10Z,Biological Language Modeling for CAFA Challenge,Python,53,185512
+magress/BaseMRC,1,1,2019-07-29T11:38:19Z,TensorFlow/Keras ResNet on CIFAR-10,Python,15,9535
+sanyamsood1210/object-classification,1,0,2020-12-13T08:40:18Z,,Jupyter Notebook,410,1226
+shishkosv/starcraft-bot,1,0,2023-01-30T23:19:24Z,we tried,Python,11,6905
+minhlong26052001/fashion_recognition,30,6,2020-04-30T08:30:13Z,Selected experiments with distributed Evolutionary Strategies,Python,18,18727
+mesakh123/imagepredict-linux,1,0,2020-06-11T15:01:57Z,,Python,229,115736
+mtashi/Recommendation-System-Using-MXNET-on-AWS-Sagemaker,1,1,2020-12-07T08:55:44Z,,Python,155,21430
+Qiza-lyhm/mmcv_on_mlu,30,5,2020-12-19T12:58:28Z,,Jupyter Notebook,65,5572
+luohwu/TemporalContextNAO,1,0,2019-01-23T18:21:03Z,,Python,9,464981
+panaali/bilmo,5,0,2022-11-21T19:53:00Z,Inference server for truck detection (waste reduction project) at Code for Israel,Python,7,28621
+mrahtz/tf-resnet,2,0,2021-02-09T12:41:37Z,,Python,12,9007
+tyo-yo/spell_correction,0,8,2017-12-02T21:55:10Z,"An aggregation of methods and functions for lidar and photogrammetric point cloud processing.  This kit is designed for use in the Near Earth Imaging Lab, but contributions and uses outside of this are welcome.",Python,3419,422471
+GeorgeFashho/Machine_Learning_Algorithims,2,6,2016-10-16T20:57:52Z,Submission to the InformatiCup2017 classification challenge ,HTML,52,616509
+GoodAI/distributed_es,4,0,2020-09-27T15:20:22Z,"By ThreeJS, programming brain 3D Web Viewer 🤳",JavaScript,83,434725
+yhliu918/simclr-noisy-label,1,10,2015-03-16T13:16:29Z,,Python,1,258
+funny000/huggingface-transformers01,1,6,2016-09-01T14:52:26Z,"Java wrapper around several sentiment analysis tools, that was created for MixedEmotions project, created by BUT.",Python,122,13166
+wuyi1405/DLLXW-data-science-competition,1,9,2021-11-30T01:19:40Z,,Python,30,182640
+Lap1n/ift6135,1,3,2017-04-03T11:12:59Z,"A mxnet implementation for network quantification include binary, log, uniform and so on",C++,324,23240
+Code-For-Israel/truck-detection-inference-server,1,0,2020-12-04T19:04:40Z,,Jupyter Notebook,28,145
+JavieW/sklearn,1,0,2020-07-02T14:46:49Z,,Python,4,11537
+thomaspingel/neilpy,30,0,2017-05-23T22:22:08Z,temporary version before merge to main branch,C++,80,16013
+eytancanzini/rl-fixture-design,30,0,2021-07-30T13:48:03Z,,Python,2353,25
+appoll/gh-repo-classifier,1,4,2021-09-07T13:31:51Z,,Python,127,943
+terajh/Brain_3D_WebViewer,1,0,2020-06-07T11:12:17Z,Classifying whether a patient has Covid 19 or not.,Python,4,2930
+m00nlight/hackerrank,1,0,2020-07-07T06:37:36Z,My Solution for Global Wheat Detection,Python,81,58
+xingyuezhiyun/yolov8test,2,3,2016-10-16T14:21:37Z,Event Detection on Twitter - LSH implementation in python,Python,27,1822
+MixedEmotions/but_sentiment,1,0,2016-01-11T02:59:49Z,,Python,87,68
+bashendixie/ml_toolset,0,4,2020-09-29T23:24:28Z,Lung CT image generation by identifying novel semantic masks in PCA space using Deep Reinforcement Learning from user preferences,Python,139,68023
+achao2013/mxnet-quantify,3,8,2020-10-02T15:00:26Z,,Python,20,53020
+FGpramodgupta/Cotton-Disease-Prediction-Deep-Learning,4,3,2020-03-08T19:33:29Z,"An attempt to develop a system for detecting distracted drivers and warn the responsible person against it was done. The system is a CNN based system that detects and identifies the cause of distraction. The base architecture for the CNN is VGG-16 and is modified for this task. Various activation functions (Leaky ReLU, DReLU, SELU) were used in order to investigate performance. ",Python,49,51902
+cversteeg/garage,1,0,2020-10-22T03:19:08Z,,Jupyter Notebook,69,2470
+GrassSunFlower/mxnet_tmp,1,0,2017-09-18T06:18:06Z,,JavaScript,1,139234
+EshaanJames/multipage_app,0,0,2021-06-16T02:00:30Z,,Python,29,17019
+jfzhuang/ST_Memory,2,27,2019-09-08T18:57:23Z,,Python,3,1528555
+Saikrishna22/COVID_19-Detection,6,0,2021-12-13T19:08:59Z,,CSS,942,8602
+R1ck29/kaggle-global-wheat-detection,1,0,2023-01-19T16:24:15Z,,Python,3,14533
+sameraamar/Twitter-New-Event-Detection-version1,1,2,2021-03-09T16:03:07Z,,Python,1340,4664
+gulby/minimal-django-file-upload-example,1,1,2019-06-14T12:34:25Z,Mini Projects,Jupyter Notebook,12,1214113
+kedarbartake98/CT_Image_Generation,3,0,2021-04-06T07:10:44Z,Deterministic DOP,Python,28,90
+BorgwardtLab/topo-ae-distances,1,0,2021-06-12T23:23:16Z,Our work on implementing a quantum kitchen sink.,Python,1,1627
+Biplab097/DistractedDriverDetection,2,0,2017-04-10T23:33:11Z,,Python,2412,10078
+DristantaNirola/Image-Classification-Tea-Plant-Disease-Classification,2,1,2022-11-21T15:24:31Z,[ 팀프로젝트 ] 차량 위변조 감지 기능을 탑재한 주차 관리 시스템 개발 프로젝트,Python,27,235642
+YONG-FU/ScikitLearn-Intelligent_Reviewer,1,36,2020-05-19T19:48:32Z,DeepSentinel: a sentinel-1 and -2 self-supervised sensor fusion model for general purpose semantic embedding ,Python,4075,732
+156385/LS-Net,2,0,2022-11-09T15:01:04Z,,Python,2373,208698
+OshriHalimi/shape_completion,4,0,2021-09-10T12:34:37Z,Network embedding aided vaccine skepticism detection,Python,1,160
+vignesh-11/restaura1,1,0,2016-10-26T19:35:54Z,,C++,578,22411
+cuteboyqq/YOLOV5-rasp,1,41,2021-06-04T13:59:35Z,Increasing Renewable Energy Access in Philippines through AI,Jupyter Notebook,27,492254
+ArunRengaraman/Covid19-Deep-learning-app,11,0,2020-03-28T12:57:07Z,Basic tutorial for those who want to start diving into data science and python,HTML,21,1087
+nitishtalekar/ProjectsGit,1,1,2020-09-04T07:55:18Z,This repository contains the code used in the paper titled:  ‘Neural-Signature Methods for Structured EHR Prediction’. BMC Medical Informatics and Decision Making,Jupyter Notebook,5,1559
+drdh/DDOP,1,79,2020-10-28T08:17:32Z,🥶Vilio: State-of-the-art VL models in PyTorch & PaddlePaddle,Python,40,10883
+diracq/quantum-kitchen-sink,2,1,2023-02-02T05:09:54Z,Fire-Detection-using-YOLOv8,Python,24,26046
+PB12203006/Largedata,1,0,2022-07-30T22:36:14Z,,Python,35,14493
+SHINDongHyeo/Anti-spoofing-car-project,30,1,2021-05-07T07:32:20Z,,HTML,13,17628
+Lkruitwagen/deepsentinel,7,3,2020-09-18T16:12:01Z,"Implementation of our paper ""NwQM: A neural quality assessment framework for Wikipedia""",Python,10,683
+charliebobmiller/ECEN4273-Project2,1,2,2021-11-17T13:15:43Z,,Python,6,19238
+ferencberes/covid-vaccine-network,1,0,2022-03-23T10:47:55Z,Cross-Modal Consistency Type Identification,Python,34,109
+xcgoner/ps-mxnet-new,2,12,2020-05-22T22:09:58Z,,Python,10,67
+OmdenaAI/omdena-philippines-renewable,1,1,2017-03-17T00:00:21Z,,Python,44,7966
+ahacalabria/python-tutorial,1,0,2020-08-27T16:19:36Z,,Python,2,10
+andre-vauvelle/doctor-signature,0,1,2019-05-08T09:04:19Z,docker templates for deep learning project,Python,1,2711
+Muennighoff/vilio,1,0,2021-08-17T09:51:06Z,LeWagon_TafiFareModel_Prediction du tarif des courses d'un taxi,Python,1,15
+noorkhokhar99/Fire-Detection-using-YOLOv8,1,4,2020-10-20T19:02:22Z,"Code supporting the NeurIPS 2020 publication ""Robust Disentanglement of a Few Factors at a Time""",Python,12,14986
+SarangGawane/transformers-metarl,1,50,2022-03-02T02:44:10Z,YOLO 3D Object Detection for Autonomous Driving Vehicle,Python,32,25491
+TechLabs-Berlin/st21-jobzilla,1,0,2022-08-21T13:53:08Z,,Jupyter Notebook,2396,697523
+sasibhushan3/NwQM_EMNLP,1,0,2023-02-07T05:19:32Z,,Python,211,1581
+timongurcke/sufficiency-assessment-generation,11,0,2021-08-22T08:37:05Z,AI VTC PYTHON 04,Python,2,205312
+VaianiLorenzo/CMCTI,1,0,2023-02-17T16:28:46Z,app for UTEP,Python,5,14231
+Divadi/detection-toolbox,1,454,2021-03-12T09:36:58Z,"Official implementation of Monocular Quasi-Dense 3D Object Tracking, TPAMI 2022",Python,2,1997
+yassienshaalan/L2RP,5,36,2018-11-30T16:24:59Z,Knowledge base construction from raw scientific documents,Python,1,382715
+mndrake/mlflow-project-demo,14,1,2022-10-17T22:34:10Z,Monte Carlo Forest Search: an algorithm for finding small search trees within a forest that retains the benefits of the best MCTS approaches.,C++,13,135
+double-y/deep_learning_docker_cluster,1,114,2019-08-09T13:14:51Z,Code implementation of Data Efficient Stagewise Knowledge Distillation paper.,Jupyter Notebook,21,136996
+SaukratesK/TaxiFareModel,4,0,2019-05-13T01:51:40Z,sleep staging,Python,9,19
+besterma/robust_disentanglement,1,2,2019-09-14T02:47:28Z,Automatically identify code behavior differences across Python and R corpus from Kaggle.,Jupyter Notebook,4,28094
+ruhyadi/YOLO3D,1,21,2017-06-14T13:29:13Z,This is an example of using Tensorflow to build Sparse Autoencoder for representation learning. ,Python,3,195
+Farzana09/CSE499-Traffic-Control-System,1,1,2022-04-18T06:40:57Z,,Python,26,304958
+ldbang/yolov8_old,1,0,2023-02-25T14:25:25Z,,Python,29,942
+dongtv2/VTC_PYTHON_04,1,0,2021-09-09T20:37:27Z,Codebase for EECS 441 team,Python,4,339551
+Takuonon/UTEP_app,9,81,2023-01-10T10:20:21Z,:fire: Official YOLOv8模型训练和部署,Python,26,6813
+SysCV/qd-3dt,1,4,2022-09-19T21:05:50Z,,Python,3,550122
+UW-COSMOS/Cosmos,4,0,2021-02-09T08:37:38Z,,,88,1724565
+ChrisCameron1/MCFS,3,0,2023-01-07T02:50:15Z,,Python,4,44030
+IvLabs/stagewise-knowledge-distillation,2,67,2019-04-23T21:30:21Z,MLFlow Spark Summit 2019 Presentation,Jupyter Notebook,73,186
+qdbp/sleep_staging,0,3,2017-05-29T16:18:43Z,Deep learning and computer vision techniques to identify jet substructure from proton-proton collisions at the Large Hadron Collider,Python,78,37
+nischalshrestha/automatic_wat_discovery,1,2,2017-08-04T18:30:41Z,python code that runs in AWS lambda to move twitter data from s3 to Elasticsearch,Python,23769,14815
+zhiweiuk/sparse-autoencoder-tensorflow,1,0,2020-11-06T08:10:54Z,,Jupyter Notebook,4,11674
+liliucn/gitProject,1,4,2019-04-22T08:25:29Z,One-shot face identification using deep learning,Python,8,1690
+huashu996/yolov8,1,0,2022-10-11T13:32:45Z,교육 중 학습 내용,Jupyter Notebook,1,289603
+wassinkl/Vigilantes,1,0,2018-07-18T20:46:03Z,Machine-Learning Algorithm for Supernova Classification,Python,4,348
+DataXujing/YOLOv8,1,0,2021-07-01T11:40:36Z,"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",,2,91061
+Capstone2022Group2/tennis_commentator_ai,30,89,2017-09-25T01:35:19Z,The project contains tutorials and resources for the sequence to sql technieques.,Scala,21,104927
+SpeciesDecipit/Thesis-PML-DL,1,0,2023-02-28T00:51:19Z,Using yolov5 for crack detection and segmentation.,Python,13,4272
+HRI-Center/Digital-Theme-Park-BodyGesture,1,1,2020-11-23T12:14:33Z,,Jupyter Notebook,8,16470
+amesar/mlflow-spark-summit-2019,5,0,2021-03-07T00:10:49Z,,Jupyter Notebook,25581,24490
+SebastianMacaluso/Deep-learning_jet-images,1,2,2021-05-10T07:15:08Z,,Python,34,74405
+IllinoisSocialMediaMacroscope/twitter_s3_to_es_lambda,1,0,2016-08-15T11:18:59Z,,Python,126,10635
+tycoer/yolov4,30,0,2019-09-10T06:14:40Z,Tensorflow2.0 Deep Tricks,Python,3,38
+tomasmikeska/face-identification,1,0,2020-03-23T16:31:28Z,,JavaScript,16,156214
+NoirCade/MS-AI-School,1,1,2021-10-28T20:46:24Z,Formulate Saliency Maps as Optimization Problem.,Jupyter Notebook,2,149945
+evevkovacs/ML-SN-Classifier,1,0,2016-12-06T12:57:18Z,demo when I learn python,Python,9,108886
+sana-at-chime/incubator-mxnet,1,0,2020-10-12T02:29:47Z,892_4_45,Python,10077,7071
+dadashkarimi/seq2sql,1,10,2021-09-14T11:40:08Z,Robomaster S1 autonomous lasergaming for HU,Python,1418,34620
+LxPenguinQAQ/YOLOv5_crackSet,7,62,2020-11-16T11:38:08Z,,Python,17,216558
+contatc2/green_mood_tracker,27,0,2019-09-17T18:15:13Z,Python 3.7 docker container for GenePattern modules running on AWSBatch ,Python,15,178
+Pragya2000/EEG-Brainwave-prediction,1,1,2019-04-06T07:57:59Z,,Python,52,13252
+jjonhwa/Table_Extraction_Kor-benchmark,1,24,2021-09-07T15:02:21Z,A Tensorflow based library for Time Series Modelling with Gaussian Processes,Python,33,27492
+zuowang/mxnet,5,0,2020-08-20T16:50:26Z,,Python,7,493
+yuanjie-ai/DeepTricks,0,2359,2020-05-09T15:25:47Z,"Visualize and compare datasets, target values and associations, with one line of code.",Python,1403,16791
+mesakh123/imagepredict,5,2,2020-06-01T08:12:40Z,信用违约风险判断 xgboost,Python,738,9
+tpatzelt/best-attributions,1,0,2022-04-24T06:25:32Z,,Python,450,345
+ChenLiangbo/Learning-python,1,0,2022-12-26T23:10:46Z,,Python,1,47
+parkjungkwan/hama-flask-review,0,1,2020-05-03T12:43:44Z,AI example,Jupyter Notebook,11,10097
+HU-ICT-LAB/RobotWars,1,0,2021-11-16T20:37:23Z,Speech Emotion Recognition Framework Comparission : Thesis  2021,Jupyter Notebook,10,1453
+Ascend/samples,2,0,2018-05-02T06:48:40Z,"Project summary for Harvard's AC209b course, Spring 2018.",Jupyter Notebook,20,25616
+genepattern/docker-python37,2,28,2019-05-10T02:50:00Z,A little logger for machine learning research,Python,3,83
+lilyplanter/spam_sorting,7,0,2021-06-03T17:39:10Z,Examples scripts demonstrating raytune and comet-ml usage.,Python,3,5
+secondmind-labs/markovflow,1,1,2021-11-16T06:30:35Z,Task-related Saliency Network,Python,250,2355
+Shikhar8990/dgl,1,72,2012-11-28T16:24:31Z,LambdaMart python implementation,Python,3,136
+fbdesignpro/sweetviz,1,0,2020-08-26T10:07:07Z,,Python,38,16941
+lxueqian/Fraud-Detection,30,1,2021-01-29T23:06:01Z,,Python,5,9
+phamvanhanh6720/MLOps-HW,1,0,2020-07-29T01:52:49Z,,Python,32,601212
+cameronosmith/dynamic_surfnerf,1,9,2021-03-06T16:03:38Z,Streamlit APP to recommend movies based on 3 different systems,Python,4,1365
+HuynhPhamDuy/AI-example,1,0,2021-05-07T15:46:35Z,,Python,62,21
+luantber/ser-framewework,2,0,2021-06-03T13:46:30Z,,Python,2,159878
+VincentCa/videogeneration,30,2,2021-04-13T16:19:47Z,,Jupyter Notebook,46,10287
+rlworkgroup/dowel,6,0,2020-09-29T09:39:45Z,Kaggle Competition - Mechanisms of Action (MoA) Prediction,Jupyter Notebook,2,24439
+jacobkj314/python-packages,1,1,2020-01-31T18:53:06Z,Cohort 18 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.,Python,3,130555
+Shivanshu-Gupta/raytune-comet-examples,5,2,2020-12-01T13:36:07Z,Test repo for github actions workflows,Python,203,104976
+giraffe2021/TRSN,30,0,2020-07-16T03:36:55Z,,Python,1,52
+discobot/LambdaMart,1,0,2021-12-02T01:38:58Z,,Python,23,115215
+hilberthit/transformers,2,1,2023-01-29T12:01:39Z,Qhacks2023 Project!,Python,15,50928
+PeterSulcs/mlflow-issue,1,1,2021-01-26T14:36:54Z,,Jupyter Notebook,1,5714
+MarlNox/Obstruction,1,3,2020-02-28T19:28:52Z,A transition-based top-down AM dependency parser.,Python,1,3674
+jasoromir/movie-recommender-streamlit,1,3,2022-11-02T21:37:59Z,,Python,2950,13122
+piratehacker/ml-project,30,1330,2018-11-16T09:34:48Z,🔎 Monitor deep learning model training and hardware usage from your mobile phone 📱,Jupyter Notebook,42,105089
+coldenheart/123,7,0,2021-12-10T03:54:19Z,,Jupyter Notebook,170,15620
+perovai/deepkoopman,2,2,2021-07-14T06:11:05Z,BITS MTech Dissertation,Python,44,15486
+navitacion/mechanisms-of-action-prediction,1,0,2020-12-05T12:28:26Z,A project of my dissertation,CSS,2566,21647
+georgetown-analytics/Air-Pollution,1,0,2020-10-19T21:30:06Z,,Python,1372,22942
+ogrisel/scikit-learn-github-actions,1,82,2020-06-01T14:14:29Z,"Implementation of Hang et al. 2020 ""Hyperspectral Image Classification with Attention Aided CNNs"" for tree species prediction ",Python,9,287775
+SkyLoveGR/Maca2,3,0,2020-10-27T01:51:09Z,AutoML-Tools,Jupyter Notebook,4,67685
+williamaramosc/backend-recomendacion,1,0,2019-06-02T06:12:42Z,,Python,21,34362
+RelativelyFine/Parking-Detection,1,13,2018-05-01T21:20:52Z,"Code for the paper ""The Feeling of Success: Does Touch Sensing Help Predict Grasp Outcomes?""",Python,8,521
+lionfish0/calibration,1,2,2022-05-19T15:49:50Z,,Python,2,7654
+coli-saar/am-transition-parser,1,0,2023-03-07T17:01:42Z,,Python,290,96588
+chroma-core/chroma-yolov5,1,1,2019-03-11T10:15:29Z,,Python,527,3703
+labmlai/labml,24,1,2021-03-04T20:02:51Z,,Python,736,15
+IreneZhou0129/IFT6758-docker-project,1,0,2018-05-10T04:49:55Z,,Python,561,36292
+gsa245/Continual_Learning,1,2,2021-05-13T12:50:17Z,Discovery and Learning of Minecraft Navigation Goals from Pixels and Coordinates,HTML,1,169264
+haianh30198/fiho,2,28,2021-12-02T05:35:38Z,A pipeline for making highlighted text stand-alone.,Python,25,7379
+Jwuthri/Aristote,1,53554,2010-08-17T09:43:38Z,scikit-learn: machine learning in Python,Python,16,151423
+weecology/DeepTreeAttention,30,0,2021-09-16T11:50:45Z,,Jupyter Notebook,1,4805
+jianzhnie/AutoML-Tools,1,5,2022-06-13T17:44:05Z,,Jupyter Notebook,5,8616
+yodsawadee/iqa-kmitl-v2,1,3,2022-10-05T14:13:29Z,Crowdsensing-based Road Damage Detection Challenge (CRDDC2022),Python,8,1740
+robertocalandra/the-feeling-of-success,1,0,2017-11-02T22:06:31Z,,Python,6,58
+saforem2/mlops,1,21,2018-10-08T03:25:42Z,Activity Recognition using Temporal Optical Flow Convolutional Features and Multi-Layer LSTM,C++,21555,56468
+k223kim/fydp,1,1,2020-08-19T20:03:51Z,,Python,2462,1964
+tmpaul06/dgl,4,0,2021-12-10T13:37:33Z,,Python,7,5
+AmrMKayid/fatima,0,0,2016-09-07T19:08:47Z,Learning to Rank algorithms for identify tasks based on log data from desktop.,Java,256,7534
+dhruv5995/Wine-Quality-Prediction,1,1,2022-02-22T11:10:34Z,,Python,41,103801
+imatge-upc/PiCoEDL,30,1,2022-05-09T17:04:45Z,General Cross-Architecture Distillation of Pretrained Language Models into Matrix Embeddings: code for IJCNN 2022 paper,Python,412,445
+paulbricman/decontextualizer,1,0,2018-12-12T12:24:40Z,,Python,33,722
+scikit-learn/scikit-learn,4,0,2020-11-11T08:46:48Z,Hierarchical Agglomerative Clustering that can adaptively learn the number of cluster,Python,60,5077
+hugostuijt/deep-SABR-volatility-calibration,1,1,2019-08-16T12:15:32Z,Template repository for DL projects using PyTorch and Sacred.,Python,2,15
+jaimesabalimperial/jaisalab,1,0,2022-12-18T14:51:30Z,,Python,2,13632
+dongjuns/CRDDC2022,30,0,2023-01-24T14:51:09Z,,Python,9,1295
+preesr/machine-learning,0,183,2019-09-19T21:13:25Z,DroneDeploy Machine Learning Segmentation Benchmark,Python,1,14055
+Aminullah6264/Activity_Rec_ML-LSTM,4,11,2021-11-30T00:35:18Z,,Jupyter Notebook,831,4772
+pnb/fairfs,1,8,2021-10-26T23:38:36Z,Code repository accompanying the Heuristic Guided RL NeurIPS'21 paper,Python,1,1108896
+kdhyun2/mlflow-test,4,1,2022-10-19T11:17:50Z,,Jupyter Notebook,3,992
+Wengxinyu/MasterProject,1,0,2022-11-28T21:38:49Z,,Python,5540,7927
+rohankumardubey/ray,1,34,2019-02-28T00:09:11Z,"TPU enabled Tensorflow implementation of ""Large Scale GAN Training for High Fidelity Natural Image Synthesis"" (BigGAN)",Python,34,2182
+lgalke/cross-architecture-distillation,5,0,2020-12-15T19:42:13Z,So eine Art Diplomarbeit?,Jupyter Notebook,9,4256
+blessengeorge/compare_gan,1,0,2018-09-04T19:53:08Z,Analysis of Kaggle Meta Data 2016,Python,51,4032
+SCHENLIU/AdaptiveHAC,1,0,2016-07-19T12:49:14Z,Fork from Theano merged with surban's Theano Fork,Python,146,47768
+mmrl/pytorch-project-template,30,0,2018-11-29T15:24:29Z,,Python,118,209657
+MihailDimitrov1235/YoloV5-App,1,0,2022-03-25T14:25:12Z,Customization of mlflow sagemaker docker image,Python,2,43
+hami987/DatabricksImageClassifierCNNMLOps,1,0,2021-10-19T23:54:41Z,,PureBasic,3,16038
+dronedeploy/dd-ml-segmentation-benchmark,1,0,2021-12-30T15:49:23Z,"A simple univariate time series analysis tool using streamlit. It compares the results of different approaches like seasonal Holt-Winters, SARIMA and ITSA",Python,2,824
+ejmichaud/precision-ml,1,0,2022-12-03T07:56:39Z,,Python,137,94431
+microsoft/HuRL,1,4,2021-10-15T07:34:38Z,,Python,6,14262
+philippvb/biasing-Laplace-towards-VI,5,2,2019-07-15T10:26:55Z,Semiconductor data practice for Samsung Electronics,Python,28,2613
+rrarrais/yolov5-IMA,1,0,2019-05-08T17:26:26Z,,Jupyter Notebook,15,208
+Octavian-ai/BigGAN-TPU-TensorFlow,1,4,2020-12-08T08:42:09Z,repo with progress on courses from datacamp (mainly),Jupyter Notebook,3,858561
+blacksph3re/schiffe-versenken,1,0,2021-03-13T10:43:09Z,,Python,1,93
+Keesiu/meta-kaggle,1,2,2017-11-28T08:05:30Z,We have used the phishing website database for comparing a strong classifier like SVM with ensemble classifiers like AdaBoost and Voting classifier. The dataset contains 30 features. Feature elimination algorithms like Recursive feature elimination (RFE) and Univariate feature selection (UFS) algorithm were used for dimensionality reduction. The results showed that ensemble classifiers give a much better prediction accuracy than a single strong classifier with less number of features.,Python,189,610
+gwjensen/Theano,0,0,2019-12-08T11:16:15Z,Introduction to Machine Learning,Jupyter Notebook,40,513
+licheng5625/data-science-task,1,136,2020-03-07T03:18:17Z,"Solutions to the exercises and problems in the book: Learn From Data_A Short Course by Yaser Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin",Jupyter Notebook,3,22543
+jose-turintech/mlflow-aws-custom-image-build,1,0,2015-12-17T23:49:00Z,,Python,6,5861
+mauri9rivera/Brain-tumor-classification-task_CNN-model,1,0,2020-09-29T13:15:53Z,Projeto destinado a tracking automático do processo de treinamento de nossos modelos de Machine Learning (por meio da ferramenta MLFlow).,Python,5,118
+wobiero/SGBV-Time-Series,3,0,2020-03-01T23:13:10Z,,Python,4,8585
+kghzvi/ML_Triangles,1,0,2020-01-25T04:10:16Z,,Python,284,29705
+RichelieuRosa/Lqwhooljhqw-Sbwkrq-Y,0,0,2022-04-07T13:09:10Z,,Jupyter Notebook,1486,47392
+ydy8989/PHM_Study,2,2,2021-06-29T06:13:18Z,,Jupyter Notebook,57,425059
+azeltov/mlflowdemo,2,2,2017-07-14T06:32:18Z,,Python,2,17382
+castorfou/data-scientist-skills,3,0,2019-01-21T06:39:55Z,,Python,11,139538
+bweber1205/newRepo1,4,0,2020-03-21T01:07:51Z,,Python,33,14271
+NishitaNarvekar/Phishing-website,30,0,2023-02-19T14:13:19Z,,Python,3,88848
+MarySherry/IML,1,1088,2016-10-19T18:22:39Z,Precompiled packages for AWS Lambda,Python,80,1888356
+niuers/Learning-From-Data-A-Short-Course,8,7,2021-01-21T04:38:05Z,"Code for Parsimonious Parser Transfer paper, EACL 2021",Python,42,45
+twcanty/tweetr,1,3,2021-02-19T07:37:44Z,Social Computing Project,Jupyter Notebook,54,57124
+Nasajon/mlflow_training_tracking,4,6,2021-04-15T14:53:11Z,,Python,1,2131
+3One0Seven/AIOPS-Assignment5,1,0,2022-10-08T20:45:59Z,,Python,24,14974
+sanjivko/datasc,1,0,2022-12-14T23:28:33Z,,Jupyter Notebook,101,202068
+xKwan/CZ4034-Information-Retrieval,2,0,2020-12-29T13:26:26Z,,Python,3,305937
+Elmecio/IForestStudyAndMVIForest,1,0,2022-10-10T17:05:39Z,ball tracking system based on yolov5,Python,3,943
+zhuhd15/Demo-System,1,1,2018-11-30T07:12:44Z,Not cloned on Desktop,Python,53,5964
+jay-kakkad/StockMarketPrediction_using_SVR,1,1,2022-08-03T23:45:45Z,Test-time Augmentation for Active Learning,Python,17,47
+avflor/mlflow-deploy,1,0,2022-08-10T08:43:54Z,,Jupyter Notebook,250,369864
+duy1009/Keep_babies_safe,1,25,2018-03-21T12:29:07Z,An visual summary of representative DNNs and their evolutionary relationships,JavaScript,1773,18642
+ryfeus/lambda-packs,4,0,2019-09-15T21:43:51Z,,Jupyter Notebook,5321,14827
+kmkurn/ppt-eacl2021,1,1,2019-10-24T15:07:45Z,Code for kaggle competition: Severstal steel defect detection 2019,Jupyter Notebook,12,8108
+VAIBHAV-2303/Hateful-Memes-Classification,0,17,2017-05-29T17:19:06Z,Simple Twitter crawler based on Twython,Python,1,559
+chris-chris/mlflow-tutorial,1,1,2021-02-07T18:27:35Z,gui based image classifier that creates its own dataset,Python,4,29705
+baselhusam/Playing-Cards-Detection-with-Tarneeb,1,3,2021-01-17T14:25:59Z,基于pytorch-lighting框架搭建的端到端语音识别模型，目前还在实验中，性能在不断优化,Python,62,247
+Tes-star/Remote_Sensing_Gyrocopter,1,0,2019-09-26T21:57:28Z,Analyzing the Galaxy Halo connection using different Machine Learning techniques.,Jupyter Notebook,1,3425
+Manjunatha1997/python_programs,2,3,2021-01-16T15:37:28Z,"Python web app built using Flask, Keras, and Tensorflow to predict the outcome of any given NBA game. Built for HTNE 2021.",Python,909,640
+heisenberg-kim/ball_tracking,2,0,2023-02-05T15:39:23Z,Lear MLFlow. The aim is to track ML models using MLFlow,Python,8,18775
+ejlok1/Keras-Serve-Digit,1,0,2016-10-17T17:08:12Z,Python code for ML algorithms,Python,2,22055
+melinphd/TAAL,1,12,2019-10-09T14:46:33Z,Code for Disentangle Align and Fuse for Multimodal and Zero-shot Image Segmentation,Python,81,195
+seena05/test_mmsegmentation,1,0,2022-11-19T11:37:20Z,,Python,164,15476
+wangqianwen0418/DNN-Genealogy,30,0,2022-05-02T18:51:56Z,,Python,93,112086
+gdreiman1/thesis,1,0,2020-08-10T13:52:49Z,A meta tool for detecting abusive speech. ,Python,7257,248762
+ashwan1/Severstal_steel_defect_detection,2,0,2021-04-07T22:17:44Z,Web App to classify diaster reponse messages into response categories,Python,11,4997
+ferencberes/twitter-crawler,1,0,2022-12-27T06:28:13Z,,Python,8,961
+anmoljindal/fathom,1,4,2022-09-13T16:22:58Z,Measure the diameter of fibers 10x faster,Jupyter Notebook,221,11481
+kouyt5/lightning-asr,4,0,2021-06-28T09:46:30Z,"A book recommendation system , trained with collaborative-filtering techniques",Python,97,12199
+florpi/GaHaCo,0,8823,2018-12-27T23:58:12Z,Data-centric declarative deep learning framework,Python,237,31634
+rohatgiy/basketball-predictor,30,1,2022-11-28T10:14:47Z,使用YOLOv5的模型進行訓練，取最佳權重，並使用修改後的detect.py來偵測deepfake,Python,6,15364
+esettecase/MLFlow_0,1,0,2022-06-24T12:31:02Z,,Python,1,6688
+yawenz/ML,2,0,2019-01-22T13:00:39Z,Graduation Project on Reinforcement Learning. Application of DeepMind's DQN on Atari.,Python,4120,389147
+agis85/multimodal_segmentation,1,0,2023-02-08T14:00:33Z,,Python,30,952
+ade-fh/anpr-api,1,4,2020-12-18T12:00:21Z,"Repositery for the paper ""QVMix and QVMix-Max: Extending the Deep Quality-Value Family of Algorithms to Cooperative Multi-Agent Reinforcement Learning""",Python,74,46
+sonicpierre/Music_VAE,1,3,2022-07-03T16:32:14Z,,Python,41,1200
+amittos/OnlineHarms-Metatool,2,0,2021-06-13T16:45:17Z,,Jupyter Notebook,1,80762
+as2leung/disaster_alerts_classifier_web_app_project,1,49,2019-02-01T19:35:42Z,super-monorepo for machine learning and algorithmic trading ,Jupyter Notebook,14,910665
+UltraLytic/yolov5,1,0,2022-09-08T10:50:26Z,Semparl/FIN-CLARIAH project aiming to train deep learning models with data of speeches held in the Finnish parliament,Jupyter Notebook,953,265
+fcossio/FiberDiameter,1,0,2020-08-10T12:34:36Z,,Python,19,7396
+Inquiring-Nomad/book-recommender-system,0,1,2016-10-29T19:29:52Z,Geo Distributed Machine Learning using a Parameter Server,C++,40,248922
+ludwig-ai/ludwig,2,1,2019-06-17T22:09:51Z,TEAM-LSTM: Player trajectory prediction in team sports,Python,22203,215
+aiya714/detect_deepfake,1,0,2022-10-20T18:24:45Z,🥇 A repository with the code created by the team 🦕paretodactyle during AKAI Code 2022. The project was awarded as the best prototype.,Python,66,567
+kazukiOmi/MDL_Action_Recognition,3,0,2021-03-31T03:00:31Z,,Python,76,37
+Louis-Bagot/AtariRL,1,22,2021-02-17T09:16:52Z,,Jupyter Notebook,23,119018
+ivrubtsov/yolo,3,2,2019-11-23T21:08:08Z,My course task for ITMO University,Python,3,30239
+PaLeroy/QVMix,1,1,2022-03-03T08:30:52Z,,Jupyter Notebook,1,2532
+moratodpg/marl_struct,1,0,2020-01-19T10:08:11Z,,Python,30,1018
+Neel12-coder/Smart_Mirror,1,0,2022-03-02T19:34:26Z,,Python,15,10991
+timothyyu/ml_monorepo,1,0,2022-09-18T15:12:42Z,Project Files to import for Object Recognition,Python,2,6413
+TurkuNLP/parliament-speech-project,30,0,2022-11-14T15:43:59Z,,Jupyter Notebook,80,87063
+jene4ekjene4ek/my_mlflow,1,0,2019-03-15T18:25:22Z,,Jupyter Notebook,63,542953
+smihir/gdml,1,0,2023-02-08T10:00:21Z,,Python,162,48049
+setarehc/team-lstm,1,0,2020-08-09T02:16:07Z,,Python,7,286230
+jkarolczak/akai-code-2022,1,0,2023-01-25T19:29:43Z,,Python,73,8700
+xiaoqinnsmc/mytestsegmentation,1,0,2021-04-09T18:26:33Z,,Jupyter Notebook,10,446
+SchubertLab/mvTCR,1,2,2020-10-01T06:59:08Z,,Python,35,515
+blakexdd/INF_course_job,4,2,2021-08-02T09:56:18Z,An edited version of SegFormer neural network,Python,73,76754
+briemadu/scorekeeping,5,6,2022-09-21T02:52:09Z,Backend implementation for running MLFlow projects on Slurm,Python,74,135
+krishpop/sqrl,2,2,2022-02-17T13:24:21Z,Use CycleGAN with Attention inference crack segmentation,Python,1,4037
+katarinagresova/AgoBind,1,0,2022-11-30T02:31:35Z,,Python,391,122077
+ripark2/Project-Archaeus,2,0,2022-10-15T14:12:11Z,Major Project,Python,4350,931
+MarianoCaccavale/Framework-GUI,1,2,2016-10-26T07:34:38Z,Mxnet in windows is compiled and modified by myself,C++,3,29454
+samuelsmal/drosophVAE,1,0,2023-02-17T00:34:41Z,MLFlow Backend Plugin For Anaconda Enterprise,Python,118,2896
+rajgokul-it21/vehicle_detection,1,18,2022-03-30T03:14:38Z," On Uncertainty, Tempering, and Data Augmentation in Bayesian Classification",Jupyter Notebook,9,23743
+hxiaom/SFGAN,1,1,2020-02-20T23:51:22Z,Partial re-implementation of fever models based on google language repo,Python,4,500
+stefannica/zenml-gitflow,1,14,2022-09-22T19:34:17Z,,Python,135,20
+shankhsuri/Musical-Instrument-Classification-Project,1,0,2020-10-25T11:24:02Z,,Jupyter Notebook,3,8165
+htn274/momo-rps,2,0,2023-03-06T15:48:17Z,,Python,5,972
+GhadeerElmkaiel/SegFormer,1,805,2018-04-09T20:15:34Z,A project template to simplify building and training deep learning models using Keras.,Python,114,112
+ncsa/mlflow-slurm,4,1,2020-05-09T21:09:23Z,,Python,8,73
+LovingThresh/RepairerGAN,1,0,2020-03-31T15:12:05Z,,Jupyter Notebook,5942,84023
+micpan0312/EmbedSys_Sunseeker,30,0,2020-11-20T19:59:21Z,,Jupyter Notebook,29,149526
+AKIF30001/Repo1,1,0,2023-01-27T13:07:46Z,,Python,14,30970
+sunshineInmoon/Mxnet-windows,1,4015,2014-03-31T18:05:29Z,"Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.",Python,163,6168
+shapeandshare/anaconda.enterprise.mlflow.plugin.backend,30,0,2021-07-23T05:12:07Z,"Audiobook Engine is a tool for restoring the sound quality of audiobooks, with a particular focus on audiobooks ripped from cassettes.",Python,326,471683
+activatedgeek/understanding-bayesian-classification,1,1,2019-11-24T18:43:23Z,,Python,28,128809
+EntilZha/fever,2,1,2022-06-21T16:56:07Z,,Python,19,2191
+KristenKehrer/schoolbus_yolov5,1,0,2019-08-16T16:04:53Z,A dockerized version of ml-flow deployed on AWS,Python,4,29
+korbash/table_control,1,0,2021-10-24T00:21:16Z,,Jupyter Notebook,10,432
+carrotFoxx/ultralytics,1,0,2022-10-05T17:22:38Z,,Python,1,12766
+Ahmkel/Keras-Project-Template,30,0,2022-12-23T05:21:57Z,,Python,2,440
+cookie1monster/mlflow-project-template,1,0,2021-01-04T11:11:07Z,,Python,25,341668
+mlaisolutions/mlainotebooks,2,1,2019-03-14T05:12:12Z,,Jupyter Notebook,15,181817
+ya-stack/Cotton-Disease-Prediction,1,0,2016-07-04T07:36:58Z,,C++,299,8033
+Looong01/pyg-rocm-build,30,0,2023-03-02T14:57:01Z,,Python,3,14168
+IDSIA/sacred,30,0,2021-04-29T23:59:29Z,,Python,2,10157
+RMosen/Audiobook-Engine,1,0,2022-09-21T12:27:12Z,,Python,29,12754
+bnymnsntrk/Digit-Recognition--Machine-Learning,30,0,2022-06-07T21:26:05Z,Florian Dargel et Aroua Akhzame (Génie Logiciel),Jupyter Notebook,117,1202
+ISMD-TU-Darmstadt/VADer,1,512,2020-09-14T23:09:07Z,A collection of Google research projects related to Federated Learning and Federated Analytics.,Python,8,3645
+pschluet/ml-flow-aws,30,1,2021-09-27T02:16:06Z,Fall 2021 Introduction to Deep Learning - Homework 1 Part 2 (Frame Level Classification of Speech),Python,11,189
+sirusb/DL_genomics_example,1,0,2021-05-30T18:56:31Z,,Python,6,146
+DeGirum/yolov5-dg-export,1,1,2020-07-25T22:30:13Z,,Python,2,115767
+NghiGia/Fire_Detect,1,45,2018-05-11T22:27:27Z,A Convolutional Neural Network to identify spoken digits.,Python,4,30054
+ArielBlG/SearchEngineBest,1,1,2020-04-20T17:41:18Z,"This repository hosts the source code used for the project ""Cost aware inference with early exits"".",Java,41,16266
+rickyHong/tfoptflow-repl,2,0,2022-10-20T07:40:41Z,,Python,11,68087
+starimpact/mxnet_self2,0,42,2018-12-21T12:22:22Z,Experiments with Neural ODEs and Adversarial Attacks,Python,75,61
+thangible/detection_bsc,1,0,2021-09-28T23:23:48Z,,Python,22394,72
+rajpatel5/scikit-contributions,1,0,2021-07-18T12:27:46Z,COTTON DISEASE CLASSIFICATION PROBLEM USING CNN,Jupyter Notebook,6,141
+gypsycoco/yolov5,1,0,2021-04-24T18:47:52Z,using the twitch chat to generate a visual mood feedback,Python,71,24542
+florian534/Classification_Vertebral_Column,2,0,2021-06-09T18:34:52Z,,Python,245,21657
+google-research/federated,1,0,2019-08-23T05:23:55Z,A little sandbox environment for FiLM layer implementations,Python,32,21
+ryanquinnnelson/CMU-11685-Frame-Level-Classification-of-Speech-using-Deep-Learning,1,2,2020-09-30T21:45:24Z,,Jupyter Notebook,640,130294
+zhengzangw/pytorch-classification,1,7,2021-10-22T17:22:40Z,Architectural Patterns for Ray and Anyscale Enablement.,Jupyter Notebook,143,476
+jonathanyin12/grammarVAE,0,2,2018-09-04T06:24:27Z,,Python,14,13138
+adhishthite/sound-mnist,1,0,2022-10-03T10:48:42Z,Implementation of a convolutional neural network for regression and classification tasks,Python,135,71
+vishal-keshav/cost-aware-inference-source-code,1,0,2019-09-12T00:46:43Z,,Python,535,315
+PaulGeorge24cyf/cyzmm,1,0,2023-03-01T17:01:55Z,,Jupyter Notebook,9,75207
+rajatvd/NeuralODE,2,1,2019-05-29T03:50:01Z,,Jupyter Notebook,2,12741
+SimoneCaldarella/NLU_FirstAssignment_2021,1,1,2017-11-10T14:57:52Z,Lecture notes from my weekly ML sessions.,Python,9,12032
+Joshua-Ogbebor/deep-net,1,0,2020-08-19T17:08:09Z,last version working on area 51m laptop,C++,71,39074
+navaneethramesh30/COTTON-DISEASE-PREDICTION,1,2,2021-10-15T17:45:33Z,Files included code and scripts related to my final bachelor thesis.,Python,1,146
+ctrlav/td-mood-board,1,0,2021-05-14T03:03:00Z,"Log machine learning metrics to Comet, Neptune, local, etc with same interface",Python,643,3
+arpitbyahut/filedrive,1,2,2020-11-29T11:11:37Z,A set of algorithms for computer vision and robotics,Jupyter Notebook,52,131017
+fgolemo/film-test,1,0,2022-09-26T14:23:27Z,,Python,1,1819
+Trebolium/VoicePerception,1,0,2020-01-05T14:43:57Z,Answer Evaluator using Universal Sentence Encoder,Python,6,3
+anyscale/architectures,1,3,2020-07-17T10:35:46Z,Implementation of P300 waveform detection algorithm proposed by the winners of BCI Competition III,Jupyter Notebook,1,62301
+Sivaneshmsc/MixedEmotions,1,0,2021-11-01T21:09:53Z,Course Project for Unsupervised Learning,Jupyter Notebook,8,14332
+giacomopiccinini/CNN,2,0,2021-06-20T13:49:59Z,,Python,1,22
+bonbonben/MachineLearning,1,0,2022-09-29T12:51:27Z,,Python,14,12983
+beeduchai/YOLOv8-DeepSORT-Object-Tracking,30,0,2014-10-16T13:58:41Z,,Python,521,37267
+ainklain/pearl_tf2,1,0,2016-03-19T15:49:59Z,my first public repo,Python,9,2926
+vishal-keshav/yet-another-ml-lectures,1,0,2021-05-13T15:38:44Z,,Python,237,19350
+haimeh/mxnet_a51m,2,0,2020-10-07T20:10:07Z,Example for the Comet and Pachyderm integration,Python,422,16814
+HOSSENkhodadadi/bachelor-thesis,0,1,2019-09-24T12:12:31Z,Attention for RL ,Python,34,55
+powergee/common-ml-logger,1,0,2020-04-28T01:19:45Z,,Jupyter Notebook,123,941
+jaidevshriram/Vision-Robotics-Algorithms,1,0,2013-08-11T14:59:18Z,add the crossmapnorm to the lenet,C++,195,6792
+rishabhfrinks123/acg_demo,1,0,2021-08-15T16:38:17Z,,Python,4,3
+bharathrajcl/Answer-Evaluator,1,0,2020-10-27T03:55:47Z,Code for the CS 285 Deep Reinforcement Learning Final Project,Jupyter Notebook,1723,484
+belya/p300-eda,2,1,2019-11-23T19:14:08Z,,,20,33318
+nilax97/UML-Project,1,0,2022-04-28T12:31:43Z,,Python,369,2
+ebaduldufbs/CodeDeployGitHubDemo.,0,0,2021-12-27T13:21:34Z,,Python,2613,252
+moumed/myylov5,1,2,2019-01-17T02:22:29Z,mlflow学习代码,Python,53,195648
+vpetrescu/proto_cnn,1,0,2020-08-22T12:01:43Z,A Simple ChatBot,Python,3,139244
+fromgop/test,2,0,2021-02-11T04:54:58Z,,Python,1,1303
+Dazhuzhu-github/running-robot,1,41,2019-10-26T22:56:58Z,"pytorch implementation of ""Efficient Communication in Multi-Agent Reinforcement Learning via Variance Based Control""",Python,16,695
+comet-ml/comet-pachyderm-demo,1,2,2019-07-09T16:12:17Z,,Python,5,41239
+rompear/attention_rl,1,2,2020-05-04T21:45:11Z,,Python,3,1813
+robertosemp/tweets_emergency,3,6,2022-09-13T07:47:22Z,Crowdsensing-based Road Damage Detection Challenge (CRDDC2022),Python,8,74471
+hch661100/lenet_fer2013_crm,1,0,2021-08-07T12:54:18Z,,Jupyter Notebook,37,24635
+Santoshvelamala/DiabetesProgression,1,5,2021-01-31T13:57:20Z,,Python,12,34630
+AVSurfer123/adversarial-cooperation,1,40,2019-03-28T15:51:59Z,"Code to accompany the paper ""Constrained Bayesian Optimisation for Automatic Chemical Design"" https://pubs.rsc.org/en/content/articlehtml/2019/sc/c9sc04026a",Python,13,47220
+malefs/security-smell-detector-python-gist,1,0,2022-01-12T19:39:11Z,ML Engineering Playground,Jupyter Notebook,35,16008
+ravikanth1979/mlflow-example,1,0,2020-01-04T15:07:36Z,,Python,48,31
+utisetur/russian_superglue_task,2,4,2021-01-05T10:29:57Z,,Jupyter Notebook,9050,49017
+lqkweb/learnMLflow,1,0,2022-11-23T21:36:40Z,,Python,9,57331
+AyushSojitra/ChatBot,1,0,2021-02-05T16:31:20Z,,Python,4,42398
+Aashvik/Bot-1,1,582,2016-11-02T13:50:16Z,Generative Adversarial Text to Image Synthesis / Please Star -->,Python,5,773
+saizhang0218/VBC,4,0,2018-07-03T18:19:03Z,,Python,7,57027
+jfpferreira/Fusao_e_Recuperacao_de_Imagem_Satelite_para_NDVI,30,0,2022-10-03T09:16:44Z,Segmentation CMR,Python,3,161
+panargirakis/CS534_AI_FinalProject,1,0,2020-11-15T20:48:54Z,,Python,185,43345
+hehualin-tut/YPLNet,0,0,2020-02-19T11:13:10Z,a fork of main returnn repository ,Python,85,1803
+innerArsenio/Projects-I-participated-in,1,11,2018-09-07T11:47:04Z,TensorFlow implementation of Sensors 2018 paper: Divide and Conquer-based 1D CNN Human Activity Recognition Using Test Data Sharpening,Python,8,139528
+Liangtaiwan/self-training-mcqa,1,0,2021-04-02T06:34:25Z,,Python,18,202950
+Ryan-Rhys/Constrained-Bayesian-Optimisation-for-Automatic-Chemical-Design,1,2,2022-02-04T10:43:44Z,,Jupyter Notebook,51,176174
+wujack83/ML-Engineering,1,0,2021-02-03T13:47:42Z,,Python,46,79192
+PimDijt/cartpole,1,0,2022-10-04T07:53:21Z,,Python,76,1058
+tomer92808888/Machine-Deep-Learning-Computer-Vision-Projects,1,0,2022-01-18T23:27:28Z,,Python,316,94152
+VimsLab/yolov5,1,1,2017-02-17T18:21:37Z,,Python,5104,30899
+NetasDev/NetworkTraining,0,0,2022-11-24T09:42:14Z,,Python,2,14254
+zsdonghao/text-to-image,1,1,2021-10-04T14:53:13Z,,Python,18,285684
+YanzhaoWu/Theano-1,1,0,2017-11-02T15:09:14Z,机器学习记录,Python,7,10829
+matiascalandrelli/cardiacMRI,1,82,2019-05-29T23:04:39Z,"Source code to reproduce the results in the ACL 2019 paper ""Syntactically Supervised Transformers for Faster Neural Machine Translation""",Python,3,207
+krison44/text2HandWriting,2,0,2023-02-09T16:47:17Z,,Python,5,27270
+papar22/returnn-my-branch,1,0,2017-04-05T12:37:10Z,,Python,83,31165
+heeryoncho/sensors2018cnnhar,30,0,2022-10-02T08:58:11Z,,Python,109,31588
+DonielMoins/FlaskDatabaseViewer,1,0,2019-05-19T04:30:57Z,,Python,1,2600
+livcms/DDPG-for-tracking,1,37,2020-12-01T15:58:39Z,"Focus on Algorithm Design, Not on Data Wrangling",Python,2,1203
+odaga/FlaskAPI,2,0,2018-04-04T18:26:21Z,,Python,1,115131
+njrogel/2022iv5,1,1,2017-04-07T17:40:55Z,,Jupyter Notebook,19,1510
+kbenmus02/test_app_flask,1,0,2022-11-03T20:53:17Z,Do some analysis based on AI main conferences,Python,75,182
+shkupfer/sklearn_modified_tree,1,0,2014-10-08T04:13:32Z,,Python,18,21743
+weidong1/object_detection,1,7,2020-06-29T13:50:10Z,"Data Visualization, EDA , Model Building and Deployment etc..",Jupyter Notebook,4,57390
+noname30081/NCKU_BioIR,1,1,2021-10-03T00:30:08Z,,Python,8,1597
+Kutim/ML,1,335,2016-06-14T14:37:14Z,The RWTH extensible training framework for universal recurrent neural networks,Python,21,24969
+dojoteef/synst,30,0,2020-08-23T03:31:56Z,Lifespan prediction research for the Illinois Risk Lab. ,Jupyter Notebook,25,6250
+mariswarycharan/pimples_detection_webapp,2,0,2021-03-10T18:45:11Z,,Python,3,48104
+kyper999/Theano,30,250,2017-03-08T12:52:10Z,"Code for the ""Grammar Variational Autoencoder"" https://arxiv.org/abs/1703.01925",Python,163,129267
+s42411562266/Meal-Analysis-System-,2,0,2023-02-17T11:11:49Z,,Python,1849,40568
+andreyyruski/AI,1,0,2021-11-25T15:49:42Z,,Python,11,57538
+zensors/datatap-python,30,0,2021-10-18T09:48:38Z,,Jupyter Notebook,23082,95
+rojimaharjan/USSupremeCourt,1,0,2022-10-09T08:59:34Z,,Python,38,75991
+kemin-li/MachineLearning,2,0,2022-11-27T07:30:49Z,Safe Planning and Parking for Wheeled Robots in Unstructured Environments,C++,3,8519
+george-gca/ai_papers_analysis,4,1,2016-12-09T13:08:37Z,The project over 2 year of HSE Faculty of Computer Science 2016-2017,Python,1,6488
+liuzhengzhe/SLR_data_processing,1,2,2020-02-22T22:06:03Z,PySpark / MlFlow project template,HTML,23,887
+bharatc9530/Machine-Learning,2,125,2016-01-20T20:28:35Z,tool for collectively summarizing large discussions ,JavaScript,1,111345
+mona-14/SliDetect,12,0,2022-07-03T13:44:02Z,A semi-supervised learning collection built on JAX/Flax,Python,47,1376
+rwth-i6/returnn,1,0,2019-08-24T04:09:43Z,,Jupyter Notebook,433,24456
+rustom/lifespan-prediction,1,3,2019-06-12T17:48:59Z,Modeling Drosophila larval connectomes,Jupyter Notebook,44,11326645
+c-w-m/hgf-datasets,1,0,2020-12-05T12:23:39Z,transfer learning from pre-trained models.,Python,283,110
+mkusner/grammarVAE,1,0,2018-01-09T05:57:42Z,,Python,41,10
+hemantsummit/yolov5,1,0,2019-09-13T04:52:53Z,,Python,11,2632
+rohankumardubey/scikit-learn,1,0,2021-10-08T15:48:48Z,,Python,22810,67581
+utisetur/nlp_template,1,0,2023-03-02T07:33:28Z,yolov5 deployment via django web service,Python,32,1100
+SaurabhNiket231/capstone_final_yolov5,1,0,2015-12-22T06:07:53Z,,HTML,160,665
+nefario7/planning-parking,1,2,2018-11-17T21:27:07Z,mlflow with cpp api,Makefile,4,41458
+NickVeld/scikit-learn-proj,1,0,2022-12-15T02:31:08Z,kaggle比赛常用的库,Python,18,30488
+nickponvert/ml-flow-ds-project,1,0,2022-03-26T21:54:04Z,,Jupyter Notebook,367,31
+amyxzhang/wikum,1,0,2021-09-17T12:57:28Z,,Jupyter Notebook,6744,1262
+h-terao/Missel,1,7,2020-06-24T07:47:29Z,,Python,16,3002
+ttpro1995/crowd_counting_framework,1,1,2018-07-20T14:35:10Z,,Jupyter Notebook,4,1595
+neurodata/maggot_models,1,1,2022-01-11T11:53:37Z,,Jupyter Notebook,43,49373
+MoozIiSP/kaggle-dogs-vs-cats,4,1,2020-01-16T21:22:43Z,DENN project for IJCAI,Jupyter Notebook,5,783
+sethah/kaggle_web_traffic,1,0,2016-03-23T20:33:02Z,,Python,17,39686
+Zenghao-CQ/chinese-text-classfication,2,0,2021-11-16T13:44:43Z,packaged ML project for the NY taxi fare prediction dataset from Kaggle,Python,1,12
+0xiNach/NLP,1,15,2020-03-27T11:16:38Z,"Code for ""Lifting Monocular Events to 3D Human Poses"" - CVPRw 2021",Python,1560,33427
+andre-zh/django_yolov5,2,1,2022-12-02T21:19:19Z,Trained with 300 epochs only + exported to tflite for android application,Python,3,61427
+taikongfeizhu/trydocs,1,0,2023-03-02T08:05:10Z,,Python,524,65580
+sepidehhosseinzadeh/mlflow-cpp,1,0,2022-01-15T08:44:40Z,,Python,25,34949
+1152545264/KagglePackages,1,0,2020-05-26T17:36:12Z,,Python,77,702
+nansuwang/IDS721_Class_Project3_MLOps_-Databricks,2,0,2022-12-04T13:03:14Z,Hardhat detection using yolov5,Python,8,48314
+authoranonymous321/ood_estimators,1,3,2020-08-09T20:17:02Z,"A toy chat bot which uses a simple LSTM model to generate replies to inputs, refreshed.",Python,4,87
+zhuchen03/MVA,1,0,2021-03-17T10:09:07Z,,Jupyter Notebook,10,18030
+wararaki718/scrapbox,3,4,2021-06-07T21:07:15Z,,Python,2831,1685
+zcapjdb/UKAEAGroupProject,1,0,2020-01-08T02:58:09Z,,Python,5,51864
+maxwab/denn-ijcai,1,1,2021-12-08T05:56:56Z,"Noise detection using transfer learning. The model used for transfer  learning is YAMNet found on tensorflow(https://tfhub.dev/google/yamnet/1). The dataset used is the Microsoft Scalable Noisy Speech Dataset (MS-SNSD)( https://github.com/microsoft/MS-SNSD ) which consists of two classes clean and noise,This dataset contains a large collection of clean speech files and variety of environmental noise files in .wav format sampled at 16 kHz. We have also hosted the model on local host using flask.",PureBasic,571,18860
+sammychill/Final-Project,2,5,2020-11-02T05:38:57Z,Solving the CarRacingv0 OpenAI Gym environment with an Actor-Critic Network and Proximal Policy Optimization using pytorch,Python,11,281708
+mberneaud/TaxiFareModel,1,0,2021-10-24T18:04:06Z,AA228 final project,Python,122,21764
+gianscarpe/event-based-monocular-hpe,2,0,2022-02-22T19:49:30Z,Framework for training deep learning models,Python,113,165
+K4elthaz/Use-of-Yolov5-archi-pill-detector,1,0,2020-10-27T02:17:25Z,Learning Comet ML via Iris dataset.,Python,2,2
+mhh0318/ControlNetDuo,1,0,2022-08-25T08:55:49Z,,Python,4848,3086
+hothienlong/classification-server,1,0,2022-10-23T07:12:09Z,,Python,5,1113
+archanamehta/MLOps-Databricks-Labs,0,11,2020-07-13T17:07:16Z,Geometry Regularized Autoencoders (GRAE) for large-scale visualization and manifold learning,Jupyter Notebook,121,23944
+Airdexx/Yolo_hardhat,3,0,2021-02-10T05:30:23Z,Important Library to start ,Python,3,7496
+PhotonQuantum/neo_baka_chat,1,2,2018-06-04T14:51:36Z,,C++,115,42887
+nati-ghatan/ATS-ROCKET,4,2,2021-07-01T02:00:17Z,pytorch dreamer v2 implementation,Python,54,174
+MKamyab1991/garage_quadcopter,2,0,2022-02-08T08:36:40Z,,,4,31
+tkazusa/lambda_calls_sagemaker,0,0,2022-12-11T10:27:19Z,都市観測システムの物体検出用サーバー。,Jupyter Notebook,31,31876
+Mrbruh79/Noise_detection_using_Transfer_Learning,1,9,2019-12-12T07:29:39Z,python datasets for code completion,Python,8,208253
+praveenVnktsh/CarRacingv0-PPO-pytorch,1,1,2022-11-01T06:31:14Z,OpenAI Gym compatible implementation of Google Snake Game,Python,33,272
+Eyshika/MARL-Overgeneralization,2,11447,2018-04-20T14:49:09Z,"Python package built to ease deep learning on graph, on top of existing DL frameworks.",Python,40,24094
+ryanquinnnelson/octopus,30,0,2021-05-31T15:54:43Z,,Python,2707,8644
+rvernagus/comet-iris,1,0,2014-06-08T19:46:40Z,Code associated with the dhlv blog,Python,171,196836
+uverma/Few-Shot-Semantic-Segmenation-of-Forest,1,0,2022-11-18T08:31:48Z,,Python,535,12858
+sarthak395/Megathon,30,0,2020-10-07T08:18:51Z,,HTML,14,249563
+KevinMoonLab/GRAE,2,0,2022-08-27T12:48:25Z,,Jupyter Notebook,44,62
+vedkharche538/scikit-learn,1,1,2016-06-27T09:08:57Z,Summer project of Bo Wang in WIS,Python,5,2805
+vohoaiviet/3dmm_cnn,1,2,2022-12-22T19:52:00Z,Detecting cards with Contrastive learning and YoLo-v5,Python,87,21231
+jamesborg46/pytorch-dreamerv2,30,0,2020-05-05T21:36:01Z,,Python,27,21661
+sgzZ123/GRE,30,0,2018-11-29T17:13:58Z,final project,HTML,41,544
+observation-system/yolo-server,1,1,2019-04-03T19:45:25Z,DIGITS,HTML,9,36768
+LiuFang816/SALSTM_py_data,1,0,2022-05-06T16:15:01Z,,Python,5,25274
+Dev-Jahn/GoogleSnake,2,0,2018-05-20T06:28:34Z,,Python,2,99239
+dmlc/dgl,1,0,2022-01-28T15:02:20Z,,Jupyter Notebook,122,23483
+quendee/auto-ml,1,5,2019-07-26T13:14:13Z,Experiment Mangement in Pytorch,Python,315,502
+lucianionita/dhlv,8,0,2019-03-27T22:12:16Z,,Python,42,87199
+neophack/yolov5-seg,2,39,2017-03-23T01:39:05Z,思维误区: 用理想模型来思考复杂现实问题,Jupyter Notebook,76,10745
+juanjo3ns/mineRL,1,4,2019-03-11T11:26:45Z,,Python,43,406
+swynml/movie_rating_model,1,1,2021-11-27T13:39:52Z,,Jupyter Notebook,13,24649
+GroupingEffects/GRMF,1,0,2021-10-30T19:10:24Z,,JavaScript,77,12288
+WISDelft/WIS-Intern-Summer2016-Wang,1,0,2021-07-23T07:01:42Z,Deep Implicit Coordination Graphs,Python,81,502
+skylooop/CYLo_cards-Detection,2,0,2021-05-04T06:45:48Z,"Using machine learning to improve a classic algorithm, Marker algorithm is a online algorithm for caching",Python,9,96
+JulibethTinoco/mlflowD,1,0,2022-02-24T13:06:05Z,,Python,4,82917
+Gloriayu1/stat289,1,0,2021-03-10T09:09:45Z,,Python,167,59
+gabusleon/DIGITS,1,31,2021-02-03T21:10:08Z,Deep Implicit Coordination Graphs,Python,27,484
+fff321755/pdlsp-final-project,1,0,2021-02-09T19:03:32Z,,Jupyter Notebook,254,1924
+wwwiii1/jongsul_jango,1,0,2020-11-22T21:09:06Z,,Python,8,13
+LeKiet258/INTRO-DATA-SCIENCE,1,1,2022-03-26T18:27:27Z,,Jupyter Notebook,39,308
+xserban/mtorch,1,1,2020-07-16T15:57:51Z,,Python,10,41037
+HumanCompatibleAI/interactive-behaviour-design,1,0,2021-05-21T17:48:42Z,,Jupyter Notebook,102,78
+yuanjie-ai/tql-Python,1,3,2021-03-11T17:11:48Z,,Python,17,61529
+MJLagerwerf/nn_fdk,1,1,2021-11-24T02:19:57Z,ElecDaug: Electromagnetic Data Augmentation for Model Repair based on Metamorphic Relation,Python,3,2184
+flavioschneider/hand-3d-keypoint,1,1,2021-01-20T11:22:25Z,用於臺語的語音辨識,Python,4276,417
+radovicstef/cineast,1,0,2018-08-23T01:13:15Z,,Python,16,44167
+xLiQuiDz/DICG,30,1,2022-11-16T14:13:33Z,,Python,32,13279
+namkolgnottw/MarkerAlgorithmWithMachineLearning,30,0,2019-09-06T05:13:50Z,,Jupyter Notebook,20,9733
+Gabcddrc/Twitter-Sentiment-Analysis,1,76,2013-02-08T10:15:37Z,tools around preparing TIMIT for HMM (with HTK) and deep learning (with Theano) methods,Python,55,2244
+naya86/streamlit-Car-Puchase,1,0,2021-12-27T04:51:57Z,,Jupyter Notebook,46,2966
+sisl/DICG,3,0,2023-02-19T01:56:57Z,,Python,5,65779
+raj1701/Web-Search-Application,4,261,2019-12-19T02:01:19Z,Code for Kaggle and Offline Competitions,Python,9,690
+BlockCat/trading-bot,7,1,2020-07-10T07:43:17Z,현대 NGV 전문가 검색,Python,9,4824
+OfirKedem/fligh-slicer,1,5,2022-02-03T07:52:45Z,"Code for paper ""Improve Chinese Spelling Check by Reevaluation""",Python,71,61521
+isi-vista/adam-visual-perception,2,0,2018-04-17T03:04:13Z,This guy is lazy and has left nothing,Python,967,57915
+Galeos93/tensorflow_bootstrap_trainer,1,0,2021-05-11T10:36:16Z,,Python,236,98326
+khaled-rahman/FusedMM4DGL,1,0,2016-11-21T03:20:23Z,,Python,6579,16949
+ehhhhjw/ElecDaug,1,5,2019-04-24T13:07:30Z,Master's Thesis: Conversation-aware Classification of News Comments,Jupyter Notebook,77,51367
+JerryJack121/Speech_Recognition-PyTorch,1,8,2022-01-15T09:51:02Z,"Code for ""A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising"" WSDM 2022",Python,5,47
+souravbose1991/scikit-learn_implementations,0,826,2017-11-21T17:28:45Z,Deepdrive is a simulator that allows anyone with a PC to push the state-of-the-art in self-driving,Python,15,4401
+LinirZamir/YOLOv5-VisualInspection,5,4,2015-10-21T04:47:28Z,,Python,2329,42512
+LizJnuzyt/zyt,1,1,2021-04-22T16:46:32Z,,Python,10,33687
+syhw/timit_tools,0,5,2022-09-10T07:13:47Z,code for ROMANCE,Python,22,130913
+LeKiet258/DS-Project03-Fake-News-Detection,1,12,2022-04-20T04:11:18Z,,Python,2,69924
+Navezjt/jcnt-ControlNet,30,0,2022-04-27T12:00:20Z,,Python,162,35073
+nyanp/nyaggle,1,2,2014-03-24T02:58:39Z,my master graduate thesis code,Python,3,3308
+minju0329/Search_expert,1,0,2021-06-20T08:45:48Z,Official Repository created for Eye Disease Detector of a team from Malineni Lakshmaiah Womens Engineering College.,Jupyter Notebook,41,5046
+zuoyecihua/CSC,1,15,2013-04-29T12:49:00Z,Scraps of random machine learning code,Python,112,36
+lizzie8023/AutomaticWB,1,0,2021-11-02T13:40:02Z,,Python,7,117479
+muzztafa/Flask_Melanoma,1,5,2020-09-06T07:30:52Z,,Python,2838,961
+ralic/NPU-CS550_HW11,1,0,2018-09-19T14:43:01Z,,Jupyter Notebook,71,25118
+jfilter/masters-thesis,2,1,2022-06-22T16:28:24Z,,Python,3,43108
+chaovven/maab,2,0,2022-06-06T17:03:00Z,,Python,7,1001
+deepdrive/deepdrive,1,0,2021-03-19T05:38:28Z,,Jupyter Notebook,7,379
+ray306/IPython-Notebooks,1,0,2020-10-07T17:53:18Z,Image classification of cotton leaf/plant and used transfer learning for prediction. Last created UI for any new prediction,Jupyter Notebook,25,136
+taylorkwan111/NLPMACQ,1,0,2018-09-20T18:11:02Z,AI classifiers to predict the likeliness of diseases,HTML,87,4096
+zzq-bot/ROMANCE,1,0,2021-02-22T22:26:53Z,,Jupyter Notebook,49,7048
+Ascend/ModelZoo-PyTorch,2,5,2021-08-10T02:48:48Z,Group 24's repository for software engineering honour's research project in testing self-driving vehicles.,Python,1,651
+Bichoshka/final-project-rsapp,3,0,2022-09-16T03:21:49Z,,Python,14,15814
+vinson0526/Master_Graduate_Thesis,1,93,2019-06-10T10:20:30Z,,Python,24,28
+madblocksgit/eye-disease-detector-mlwec,1,0,2018-04-27T14:21:21Z,,Python,2,26134
+bmcfee/ml_scraps,1,2,2020-05-11T14:26:33Z,M5 competition,Python,16561,84
+SamTDickinson/scikit-learn-lambda,1,0,2021-12-16T06:04:58Z,,Python,114,17387
+happpyosu/reflection-enhancement-gan,1,0,2022-04-05T05:07:38Z,,Python,3,22645
+alxthm/S3R,1,0,2020-11-04T10:02:24Z,,Python,145,3
+thepbordin/Obstacle-Detection-for-Blind-people-Deployment,1,0,2021-09-05T11:38:12Z,,HTML,624,595
+jburzy01/GNN,1,1,2022-04-16T05:46:39Z,Advanced Neural Network 2022 (XAI 612) Course Assignment,Jupyter Notebook,4,48127
+heyshantu13/cotton-predict,1,0,2022-02-04T20:44:00Z,,Jupyter Notebook,1,3329
+ShubhamGoel2295/Cotton-leaf-plant-condition-prediction,1,0,2022-11-15T18:12:57Z,,Python,2,12954
+nmzz209741/SanjivaniDiagnosis,1,5,2022-05-11T03:39:52Z,,Python,15,59
+ab-transformer/transformer,3,0,2021-05-24T09:20:21Z,Neural network solution to finding the minimum of two MNIST images.,Jupyter Notebook,105,22632
+mushi333/2021-FIT4003-SBSE-for-self-driving-cars,1,12,2020-12-31T02:38:54Z,An Abstractive Summarization(for Datasets in English format) Implementation with Transformer and Pointer-generator,Python,8,200
+arclxngth/yolo-image,1,2,2017-06-14T07:09:16Z,deep direct methon,Python,158,594
+RobinBruegger/PartiallyReversibleUnet,1,0,2020-07-22T21:29:14Z,Reinforcement Learning policy based on Stable Normalizing Flow Dynamical System,Jupyter Notebook,145,14638
+RHohensinner/ci2018,1,0,2019-03-12T14:45:27Z,Predicting recipe cuisine based on ingredients - General Assembly Data Science course final project,Jupyter Notebook,1,8397
+Erlemar/M5,1,1,2020-05-30T07:20:14Z,Diabetes Prediction Using Machine Learning Algorithms,HTML,7,1869
+dhruv0507/Voice-Based-Personal-Assistant-main,1,0,2019-01-24T23:27:39Z,Caffe Deep Learning Software with Model Compression by Sparse Coding (Backend: OpenCL),C++,10,28793
+cameronosmith/cameronosmith.github.io,2,0,2022-03-19T03:28:32Z,,Python,29,19
+Charlestng/mlflow_keras_solution,1,0,2022-10-10T08:49:05Z,,Python,21,27467
+chrlsrey/Coding-Assignments,1,0,2018-09-12T13:21:41Z,Open source platform for the machine learning lifecycle,Python,316,5466
+1pha/ann-2022-project,30,0,2023-01-23T23:03:10Z,,Python,2564,54454
+kim0930/template2,30,103,2017-03-15T14:16:43Z,,HTML,16,48105
+sudheeshe/Turbine_Detection_YOLO_SAHI,30,5,2022-06-08T07:22:59Z,Reproducibility Repo for mvTCR paper,Jupyter Notebook,19,190462
+outerbounds/data-science-guides,2,0,2022-12-08T14:44:17Z,,Python,20,513909
+feldnerd/MNIST_FindingMino,1,0,2017-03-01T21:52:55Z,,Python,4,65
+shengqiangzhang/transformer-pointer-generator-for-english-dataset,1,33,2021-04-14T07:46:37Z,"Code for ""Lifting Monocular Events to 3D Human Poses"" - CVPRw 2021",Python,2,13152
+yuayi521/deep-direct-regression,2,0,2018-04-01T12:06:06Z,digits test,HTML,141,36771
+navigator8972/normflow_policy,1,19,2023-02-06T02:09:38Z,Code and results accompanying our paper titled CHiLS: Zero-Shot Image Classification with Hierarchical Label Sets,Python,87,332
+aligorithms/cuisine,1,1,2021-11-02T08:41:20Z,,Python,4,91
+Saurabh-Tambe/Diabetes-Prediction-System,1,0,2020-06-23T18:45:24Z,,Python,1168,2791
+sanglee/caffe-mc-opencl,1,6,2021-05-14T08:47:16Z,deploying MLflow on Minikube and Openshift 4,Python,3,76
+GodwinAN/Project3_databricks_AutoML,1,6,2021-03-11T16:19:57Z,Text preprocessing package for use in NLP tasks https://pypi.org/project/textcl/,Python,2,912
+tewika2106/yolov5-vehicle,2,1,2022-11-08T15:00:33Z,,Jupyter Notebook,344,327941
+eric-erki/mlflow,1,0,2021-03-07T08:01:42Z,"Sample training and deployment using Docker-Compose, MLFlow, and FastAPI on WSL2.",Python,92,33
+erickserr125/traffic-detection-yolov5,1,68,2020-09-17T17:49:16Z,Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows,Python,3,123879
+gheinrich/DIGITS-GAN,1,0,2023-01-26T16:49:20Z,Bayesian Quadrature for Neural Ensemble Search,Python,17,121
+SchubertLab/mvTCR_reproducibility,1,0,2019-09-02T07:21:50Z,,Shell,77,121474
+huyquang-bka/C9,3,22,2020-01-27T11:51:07Z,Full-Glow: Fully conditional Glow for more realistic image generation,Python,10,34796
+krm9c/HierarchicalDimensionReduction,1,1,2017-04-01T09:06:26Z,,Python,41,11602
+IIT-PAVIS/lifting_events_to_3d_hpe,1,8,2020-10-22T19:58:32Z,,Python,3,64
+Benedict93/test,1,0,2020-01-22T08:15:18Z,The code of Jole,Python,27,459
+acmi-lab/CHILS,1,1,2022-11-11T06:01:04Z,streamlit app for comparing and visualizing A/B test results from a selection of MLflow runs.,Python,360,501
+eternax/nonobjective-audio-classification,1,48,2021-10-25T13:25:28Z,,Python,166,75
+sosojing/reinforcement-learning-mofan,1,0,2017-10-11T12:11:50Z,,Jupyter Notebook,9,9815
+steve3p0/cs545,1,0,2021-08-02T19:57:10Z,Variational Deep Learning models for non Euclidean structure,Python,12,21044
+pdemeulenaer/mlflow-on-kubernetes,1,0,2020-06-13T15:21:15Z,,Python,11,968
+alinapetukhova/textcl,1,0,2022-06-12T04:50:31Z,ros2 ,Python,55,898054
+ryezaku/yolov5_pothole_detection,1,9,2019-06-06T20:22:29Z,Make machine learning simpler with Galaxy,HTML,115,643101
+T-Sumida/mlflow_example,6,17,2017-12-01T03:49:08Z,Vietnamese Sentiment Analysis,Python,163,998259
+Brindha-m/Leafine,3,4,2022-06-09T06:56:46Z,,Python,188,23015
+KunalMGupta/NeuralMeshFlow,30,2,2020-08-02T12:16:04Z,,Python,14,63221
+saadhamidml/bq-nes,30,0,2021-03-27T08:45:24Z,,Python,90,6862
+rajagurunath/ETML,0,5,2020-08-25T23:27:21Z,LSM implementation with the P-CRITICAL plasticity rule,Python,46,252
+MoeinSorkhei/glow2,1,0,2020-07-23T04:46:57Z,,Python,1,35860
+karlerss/poll-the-trump,1,30,2018-06-12T04:45:05Z,Source code for OpenAI Retro Contest for Sonic the Hedgehog ,Python,3,89198
+inouye-lab/feature-shift,1,2,2019-07-15T21:26:09Z,Scheduler Machine Learning Models Using Knapsack,Python,3,170682
+JoleProject/Jole,1,9,2022-12-19T02:58:53Z,,Python,9,5352009
+ml-starter-packs/mlflow-viz,30,0,2022-11-18T06:36:18Z,Demo of the YOLOv5 architecture for object detecetion.,Python,1,12698
+oxwhirl/facmac,1,0,2022-11-20T05:13:09Z,,Python,307,11230
+pcortajarena/tf-sne,2,0,2018-11-11T10:15:03Z,This app predicts the TB patient case severity for the RNTCP Aasha workers using a trained Random Forest Classifier.,Python,11,85344
+kbronik2017/Non_Euclidean_UCL,0,0,2019-02-17T06:29:30Z,,Jupyter Notebook,3,13126
+sunnysuman/LeadScore,30,1,2022-10-24T15:17:08Z,,Python,601,44675
+jianwei/machine,1,0,2017-07-07T16:10:35Z,In this repository we try to get the amalgamation script to work to create a working 32-bit libmxnet_predict.so for Android devices,Cuda,11123,12846
+goeckslab/Galaxy-ML,1,0,2022-03-20T20:09:28Z,cs520 project on ML toolkits,Jupyter Notebook,10097,69323
+undertheseanlp/sentiment,3,2,2018-08-18T21:00:23Z,There are examples of how to use Scikit learn to do Machine Learning and use Tensorflow to do deep learning,Jupyter Notebook,10,46301
+csiro-mlai/RL-BOED,1,47,2015-07-24T05:21:04Z,,Jupyter Notebook,12,132840
+AmeerHajAli/ray2,1,0,2016-01-18T00:08:27Z,,Python,2,317050
+nguyenvanhoang7398/cs5260,1,0,2023-02-21T17:26:47Z,,Python,6,293311
+NECOTIS/PCRITICAL,1,0,2021-02-17T16:11:06Z,,Python,4,77929
+locdoan12121997/Indoor_Segmentation,30,6,2020-04-23T01:53:46Z,Supervised Learning Benchmarks for Point Goal Navigation in indoor cluttered environments in Habitat-API,Python,2,3574
+flyyufelix/sonic_contest,1,0,2022-10-16T07:45:32Z,,Python,8,1008
+imirzadeh/knapsack-scheduler,1,5,2020-03-09T09:50:27Z,Investigating the use of Transformers as memory mechanisms in reinforcement learning. ,Jupyter Notebook,652,18268
+szu-advtech/AdvTech,2,0,2022-02-28T19:21:25Z,Goal Transformer: Dynamics-Aware Motion Prediction using Multidimensional Transformers and Gaussian Processes,Python,35,1282
+MoezAbid/YOLOv5-Object-Detection-Demo,1,0,2021-04-10T21:54:47Z,,Jupyter Notebook,286,53182
+4catgirl/OpenSourceTermProject,2,1,2021-08-25T08:25:14Z,,Python,34,255
+route2sabya/ecsws_predictorApp,1,22,2017-02-12T02:51:17Z,Today I Learned,Jupyter Notebook,5,28502
+mukehvier/tensorflow-prob,1,77,2020-10-01T19:36:47Z,A graph neural network tailored to directed acyclic graphs that outperforms conventional GNNs by leveraging the partial order as strong inductive bias besides other suitable architectural features.,Python,4,11582
+spacegoing/myray_2.0.0,2,0,2017-03-27T17:27:19Z,,Python,36,39538
+HPI-DeepLearning-PlaceRecognizer-SS17/AmalgamationMxnet,1,0,2020-04-16T23:34:07Z,,Python,28,298
+hkjit/cs520-ml-toolkits,1,0,2021-04-11T09:14:45Z,Reinforced Graph Neural Networks for Collaborative Filtering,Jupyter Notebook,2440,336057
+Apollo1840/Machine-Learning-Tech,4,0,2023-01-09T22:59:43Z,,Python,32,568926
+nuri428/deep-learning,1,1,2016-07-14T12:15:46Z,based on mxnet v0.7.0,C++,7,8215
+timt51/pokerbot,30,1,2018-01-13T12:50:51Z,My Workspace,Jupyter Notebook,25,53306
+DvirAchitov/Apple-Detector,1,2,2021-02-10T20:08:33Z,,Jupyter Notebook,19,8608890
+hidibelan/jjp1,2,20,2018-09-26T04:51:10Z,Recalling node properties from a knowledge graph,Python,9,93
+zubair-irshad/pointgoal_navigation_benchmarks,2,2,2021-04-08T02:55:03Z,,Jupyter Notebook,1,19314
+Aldino168/yolo_benih,1,0,2020-08-25T20:08:04Z,,Python,23,4412
+TomMakkink/transformers-for-rl,1,0,2019-08-23T00:10:57Z,,Python,81,26661
+alextsolovikos/goal-transformer,1,3686,2019-07-24T16:09:50Z,High-performance TensorFlow library for quantitative finance.,Python,19,17653
+MatthewChristian/BigDataProject,30,0,2021-10-19T05:44:37Z,mlops test using mlflow and fast api.,Python,286,9
+clementpoiret/bagginghsf,0,1,2020-08-26T03:39:44Z,,Python,205,6701
+zzsza/TIL,1,0,2021-08-26T20:36:31Z,,Python,141,184
+vthost/DAGNN,1,0,2017-09-09T23:50:03Z,,Python,7,81475
+imayassi/datum,30,0,2016-12-10T20:56:51Z,,Python,16,56913
+asmaalegat/initial_dashboard_with_Dash,1,4,2019-01-22T06:10:54Z,This project is dedicated to the task of citation extraction and segmentation in EXCITE,Python,94,367236
+walkersilas/CIL-Project,4,0,2022-01-28T09:43:02Z,,Python,1,152250
+jwilliams219/IronBlimps,0,0,2021-03-18T07:26:21Z,,Python,527,114789
+starimpact/mxnet_basedv0.7.0,1,1,2018-09-04T06:20:46Z,,Python,4835,107771
+RyosukeCla/MyPythonWorkspace,0,71,2022-01-10T09:50:28Z,"Semantic segmentation deep learning for aerial, high density Lidar point clouds.",Python,635,55947
+clrkwng/exploring_compositionality,6,0,2021-01-26T02:47:03Z,,HTML,4,85876
+Octavian-ai/gqa-node-properties,0,0,2022-10-14T14:34:23Z,,Python,28,182868
+hitachi-rd-cv/influence-estimation-for-gans,1,0,2021-10-05T09:37:27Z,"python, keras, tensorflow, scattering imaging",Python,21865,6
+taq12345/Tweet-Sentiment,1,0,2020-08-18T08:17:37Z,,Python,61,8742
+Abmwc16/Clase-Python,0,0,2023-02-14T09:59:34Z,"Luxonis ML library which abstracts logging, tracking, and other useful functionalities.",Python,19,64
+google/tf-quant-finance,3,1,2021-05-09T12:41:11Z,for dbdoc,Python,69,7622
+hgcdev/mlopstest,1,6,2019-08-08T22:00:41Z,Automatic grayscale image colorization using deep learning,Python,7,805
+basic1aw/CMB_Fintech_Datascience,1,0,2021-06-02T16:49:53Z,A cocktail recipe recommendation web application with complete serverless backend(AWS),Python,129,212686
+Joshua-Ogbebor/hyper_param-optim,1,2,2019-11-01T15:44:35Z,Run DeepRacer Locally,Python,5,179284
+KueskiEngineering/scikit-learn,1,0,2018-06-05T04:39:18Z,Kaggle Deep Learning Assignments,Python,67,10
+todd9527/cs229-project,1,1,2019-03-24T02:43:56Z,,Jupyter Notebook,1,92271
+exciteproject/Exparser,1,0,2020-10-22T14:01:58Z,A repo for the Reinforcement Learning course.,Jupyter Notebook,23878,204082
+anon2022europe/icml2022,3,4,2020-11-10T00:47:02Z,Face Oversampling SMOTE based method using pSp (StyleGAN) as a backbone,Jupyter Notebook,14,61511
+priteshraj10/Depth_recognition,2,0,2022-11-12T09:34:55Z,this repo is made for ds3 project ,Jupyter Notebook,25,86023
+fgadaleta/deeplearning-stuff,1,1,2020-12-02T09:01:39Z,,Jupyter Notebook,333,70119
+IGNF/myria3d,1,0,2019-12-01T19:41:03Z,This repository contains the notebooks used during my talk in Python Sevilla Meetup about MLFlow and Databricks.,Jupyter Notebook,30,1450
+abdelatifsd/Yolla-app-demo,1,1,2019-08-02T15:02:22Z,Transformer based neural network model for time series tasks.,Python,18,74
+AlexGeniusMan/Polyus-Hack-2022-RealityX-ML,1,5,2020-10-01T21:14:54Z,Codes for projects by the iVMCL group at NC State,Python,11,11718
+Alice660/YGAN,1,0,2018-03-24T17:51:37Z,Network Science project,Python,159,1395
+dspashish/Sentiment-Analysis-Using-Python,1,0,2017-12-02T23:23:21Z,"This repository contains the required files and code of finderBuddy-a Procurement chatbot.The main purpose of this chatbot is to make procurement process and inventory handling easier in busy organizations like government offices of PWD,education etc.",Python,9,21016
+luxonis/luxonis-ml,1,0,2022-03-18T14:58:49Z,,Python,7,70751
+ktmrmshk/dbdoc,1,0,2023-01-31T02:36:27Z,The project aims to detect and count people moving from right to left or vice versa in a video. ,Python,3,86625
+tomasmikeska/deep-colorization,2,0,2013-11-10T02:57:14Z,toolkit for desktop usage,Jupyter Notebook,26,2409
+kcherianthomas/Blend-Cocktail,1,2,2020-01-28T07:48:56Z,Research to incorporate autoregressive flows into SAC models to improve performance,Python,56,392163
+ggiallo28/aws-deepracer-local,1,0,2022-03-27T03:08:28Z,This is project3 for duke ids721.,Jupyter Notebook,10,3159
+r5sb/Kaggle-Deep-Learning-Track,1,133,2016-08-20T21:09:06Z,"Source code for our ECCV16 paper, Face Detection with End-to-End Integration of a ConvNet and a 3D Model",C++,6,15858
+fnever520/DeepLearning,1,0,2022-12-26T13:09:48Z,,Python,3,13864
+miczed/learny-mc-learnface,1,23,2020-04-01T16:09:40Z,A global power system model generator for OSeMOSYS,Jupyter Notebook,38,129430
+plutasnyy/FaceOversampling,7,0,2022-12-04T15:21:39Z,,Python,1,20416
+adi232004/Lane-TrafficSign-Detection,1,0,2021-10-26T20:37:34Z,Working out the practical tasks of the machine learning class developed by Andrew Ng on Coursera using Python and show the common mistakes and what are the resources that you could use to learn more about Python and ML.,Python,78,68
+johanneskruse/LUKE_thesis,1,0,2022-01-08T10:13:16Z,,Jupyter Notebook,1,69646
+FernanOrtega/pythonsevilla2019,1,0,2016-05-03T14:12:03Z,,Jupyter Notebook,2,41046
+khirotaka/Typhoon,30,1,2021-06-08T17:11:29Z,Checking out MLFlow,Python,24641,8498
+tfwu/iVMCL-Release,1,1,2022-12-05T17:54:15Z,,Python,10,67472
+mhsamavatian/CSE5245,1,1,2017-01-16T08:56:34Z,Making sense of large and noisy FB pages,Python,34,111660
+amanvars/finderBuddy_ZHCET_WARRIORS_RGH,1,2,2020-09-05T21:36:32Z,Deep Learning solution for Navigation Assistance for the Visually Impaired + Functioning Android app for prototyping. Developed as part of my McGill SURE 2020 Research work at the Shared Reality Lab.,Java,29,204035
+alainray/learnhard,1,6,2020-09-03T08:53:52Z,,Jupyter Notebook,4,262
+oguzcanbekar/YOLOv8-DeepSORT-Object-Tracking,1,116,2019-07-26T23:10:04Z,Toolkit to train base-resolution deep neural networks on functional genomics data and to interpret them,Jupyter Notebook,590,4288
+laisj/Toolkit,4,17,2020-09-11T14:44:57Z,"Implementation of the paper: ""High-dimensional Bayesian optimization using low-dimensional feature spaces"".",Jupyter Notebook,89,25950
+aguerra7002/ARSAC,1,0,2018-08-18T16:48:45Z,,Jupyter Notebook,2464,36651
+kaifeng-yu16/Drink_classification_Databricks_AutoML,1,2,2020-07-09T21:36:24Z,,Jupyter Notebook,3,10278
+tfwu/FaceDetection-ConvNet-3D,4,1,2022-10-29T10:46:10Z,,Jupyter Notebook,2,288254
+garvit586/yolo5,1,0,2020-11-22T22:41:20Z,A mirror clone of the transformers library repository from GitHub user huggingface,Python,5,40115
+OSeMOSYS/osemosys_global,30,0,2022-06-18T21:18:58Z,,Python,31237,8108
+tieuhoangtuan/DetectClassroomObjectByYOLOv5,1,0,2022-11-23T10:33:42Z,,Python,15,931
+Msaleh87/Machine-learning-Coursera-Andrew-Ng-in-Python,1,0,2019-01-17T04:57:49Z,,Python,100,100
+TerboucheHacene/gans-specialization-coursera,4,17,2021-01-05T14:41:57Z,Implementation of [MNTDP](https://arxiv.org/abs/2012.12631),Python,1,144
+manishrdmishra/Thesis,1,0,2021-05-04T00:39:58Z,Investigating the use of a DL system for detecting errors in code. ,Python,151,128391
+DrShushen/check-out-mlfow,1,5,2019-11-18T18:42:37Z,Cookiecutter for evaluating algorithms and training models in nussl,Jupyter Notebook,160,10885
+sainishwanth/Crime-Scene-Analysis,3,0,2021-04-12T19:01:26Z,,Python,14,19
+tmoravec/thematic,1,98,2021-09-05T11:44:04Z,[ICCV 2021] Instance-level Image Retrieval using Reranking Transformers,Python,81,110107
+D1vyanshGupta/icml18-jtnn-py3.6.7-pytorch1.0-rdkit-2018.09,1,2,2020-08-17T15:31:18Z,Deep learning with tensorflow 2.0,Jupyter Notebook,93,1944501
+nat06/Navigation_Assistance_for_the_Visually_Impaired,1,1,2020-10-06T09:15:48Z,Science4Fashion Refactoring,Jupyter Notebook,40,92568
+krishnaik06/SStain_classification,3,3,2018-10-16T03:44:20Z,NLU task (sentence semantics matching and classification) in tensorflow with simple software architecture.,Python,1,35858
+kundajelab/bpnet,1,19,2021-03-31T13:22:40Z,Kafka variant of the MLOps Level 1 stack,Python,9,342787
+rm4216/BayesOpt,1,0,2021-06-06T08:39:07Z,"The notebook is completely dedicated to Image Classification from scratch using Convolution Neural Network , in this project I have not used any kind of Transfer Learning Technique.This is a end-end project.Kindly refer to the ipython notebook for more details",Jupyter Notebook,74,6259
+k-jingyang/Risk-Adaptive-FYP,1,2,2022-01-13T02:52:38Z,An implementation of the ConvNeXt architecture built on the PyTorch-Lightning API,Python,203,27
+wendy-meyer/final_project,1,0,2016-11-24T11:33:21Z,My MXNet,C++,288,73520
+Yu-Lingrui/Project-deployment-and-landing,1,0,2020-05-11T07:55:02Z,,Python,65,38
+markusfleck/transformers-mirror,1,0,2019-06-17T10:50:43Z,Python Codes in previous semesters,Python,20,162253
+EphraimX/model-tracking-and-experimentation-with-comet-ml,1,0,2020-06-03T13:59:27Z,,Python,311,4
+TimeEtcher/yolov5,1,0,2020-06-17T14:00:34Z,,C++,6,42998
+18737581408/1,4,0,2023-03-01T11:57:52Z,,Python,2,34770
+TomVeniat/MNTDP,1,0,2018-07-30T20:01:20Z,,Python,135,16626
+ShvetankPrakash/CodeErrorDetection,8,50,2019-10-22T03:17:03Z,Learning Individual Intrinsic Reward in MARL,Python,7,28
+pseeth/cookiecutter-nussl,1,74,2018-02-01T16:19:24Z,GitHub gists and the dockerfiles needed to run them.,Python,2,12235
+NatDuart/projeto,1,1,2020-11-19T21:52:42Z,"conducting the decision tree for capabilities of frameworks, that assist in reproducing results in Machine Learning: wandb, guild.ai and mlflow",Jupyter Notebook,125,2845
+uvavision/RerankingTransformer,1,0,2021-09-07T18:37:13Z,,Python,11122,26
+udaypratapyati/DeepLearning_With_Tensorflow2,1,5,2018-06-25T13:36:36Z,Simple character-based language model using keras,Python,1,204
+i-Dare/Science4Fashion_ref,4,0,2021-10-12T09:38:13Z,repost,Python,20,43841
+zqhZY/nlu_tools,1,0,2020-10-25T08:47:41Z,,Python,174,1551
+jmeisele/ml-ops-kafka,1,122,2016-11-27T23:56:14Z,"Evaluation code with models for the paper ""On the Quantitative Analysis of Decoder-Based Generative Models""",Python,61,62056
+nilay121/End-End-Image-Classification,1,1,2019-09-29T04:01:38Z,,Python,156,18
+jlehrer1/ConvNeXt-lightning,1,0,2020-03-11T02:44:39Z,,Python,15,6
+hauklau/mxnet_hl,1,1,2022-11-17T16:22:09Z,Reinforced Graph Neural Networks for Collaborative Filtering,Python,1,304136
+debbieliske/cookiecutter-data-science-deep-learning,1,0,2022-09-18T17:28:46Z,,Jupyter Notebook,28,11858
+KyleYueye/Python-Codes,1,411,2022-10-31T03:02:21Z,Text generator written for Stable Diffusion workflows.,Python,2,9639
+craigng/mlflow_test,4,0,2022-04-10T16:24:02Z,Deploying Models to Production with MLflow and Amazon Sagemaker,Python,26,4756
+sagpant/3dmm_cnn,1,0,2021-11-16T13:44:01Z,ML package predicting Uber pricing in NY,Python,426,9
+deanDev5200/Python,1,11,2021-11-15T04:31:05Z,"Yolov5 Object Detection In OSRS using Python code, Detecting Cows - Botting",Python,1,82473
+200502002/ml-class,1,0,2017-11-19T21:49:35Z,Final Project Colon We're Making Spam,Python,1,460312
+yalidu/liir,3,0,2017-09-22T11:16:23Z,,Python,95,98694
+gistable/gistable,1,0,2017-05-05T03:36:27Z,This library works on macOS Sierra.,Python,13,755939
+pandorica-opens/Reproducibility-Tools-in-Machine-Learning,1,0,2022-11-19T14:34:31Z,,Jupyter Notebook,24530,293403
+aakshay001/Diabetes_Prediction,1,0,2019-11-06T13:12:12Z,This project examines the game of San Jego with different rule sets.,Python,4,138
+OCR-D/ocrd_keraslm,2,0,2017-12-12T02:46:36Z,,Python,61,83521
+swlee9087/django-react-algorithm,30,0,2021-05-14T22:08:37Z,,C++,9,86857
+zunzzzzz/DL_competition1,30,0,2022-10-02T19:00:47Z,Projet du cours IFT 6758 Automne 2022,Jupyter Notebook,5,37556
+tonywu95/eval_gen,4,3,2021-11-06T14:47:33Z,,Python,9,24582
+xiwenchao/UF_code-dealing-with-microsctucture,2,1,2023-02-28T23:11:36Z,final project repository for cs7980 computer vision FAS collabrative course project codes,Jupyter Notebook,7,98958
+kazukiyo17/AIProject,4,3,2022-08-23T16:36:36Z,,Python,1218,28523
+lfwa/reinforced-gnn,3,0,2021-02-22T11:45:33Z,Package for Kaggle Taxi fare challenge,Python,5,2449
+angelqva/reconocimiento-texto,1,0,2020-01-13T10:58:14Z,,Python,1,43776
+ThereforeGames/unprompted,1,21,2021-03-30T07:50:14Z,Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy,Python,24,12903
+jishipp-repo/Deploy-ML-MLFlow-AWS,1,3,2018-05-09T21:39:53Z,Code for the ICML Self-Supervised Workshop paper: Supervise Thyself: Examining Self-Supervised Representations in Interactive Environments,Python,5,2929
+spreters/TaxiFareModel,1,1,2020-05-31T02:37:20Z,Differential Evolution algorithms configuration by iterated racing procedure,Python,20,1332
+slyautomation/osrs_yolov5,1,0,2016-11-29T14:31:52Z,GA Boston Data Science ,Jupyter Notebook,5,383491
+jrockwel/SpamHub,11,0,2021-09-16T11:41:26Z,,Python,4866,56835
+anu71195/new-svm,30,0,2021-03-22T19:37:11Z,Graph Attention Matrix Completion,Jupyter Notebook,1305,1524
+EnjoyLifeFund/macSierra-py36-pkgs,3,1,2017-09-29T17:39:38Z,,Python,33,103549
+morge2002/snooker-vision,1,0,2021-04-21T14:17:26Z,,Python,1,4
+merkrafter/SanJego,1,0,2020-09-02T08:23:33Z,"Scared Experiment Manager to organise experiments running locally, on clusters, and on docker.",Python,30,179
+sky660099/mopeye,2,139,2019-11-05T12:49:04Z,Basic and advanced MLflow examples for many ML flavors,HTML,64,1264
+tylerjohnhaden/cloud-project-8,1,0,2019-10-14T06:23:26Z,,Jupyter Notebook,13,509
+an-li/nhl-analysis-project,1,1,2022-12-23T07:47:25Z,Final project for AI Class,Python,85,2704
+flavioschneider/rl-transfer-learning,2,0,2021-02-25T22:54:19Z,,Python,100,5
+ShangXiaoNEUCS/CS7980_Computer_FAS,1,5,2019-12-30T08:01:00Z,,Python,11,1176
+russelldj/informative-path-planning-toolkit,2,0,2020-06-30T00:15:28Z,This modified example taken from https://github.com/mlflow/mlflow/tree/master/examples/multistep_workflow was designed to run inside of a Databricks notebook,Python,9,32469
+Vishal151/TaxiFareModelOld,2,1,2021-12-25T01:10:23Z,,Python,82,57840
+zongwangZ/src,30,0,2020-08-25T02:23:55Z,,Python,32,5010
+hqucv/dmtrack,0,1911,2015-09-01T20:52:50Z,Machine learning lessons and teaching projects designed for engineers,Jupyter Notebook,4,139523
+eracah/supervise-thyself,14,0,2021-06-16T07:12:39Z,all night..insomnia,Jupyter Notebook,69,3962
+quality-attributes/autoML-models,2,1,2022-05-08T07:41:08Z,,Python,268,13251
+mohsseha/DSI-BOS-students,1,2,2020-11-22T15:55:02Z,This repo is used to solve problem in shopee NDSC,Jupyter Notebook,2,54997
+mojokageni/scikit-learn,1,4,2023-01-17T07:02:32Z,,Jupyter Notebook,586,37658
+jsicheng/gatmc,1,0,2021-11-08T01:51:07Z,,Python,9,86506
+OlinAlvarez/openCV,1,0,2022-11-17T14:24:42Z,,Python,417,65497
+johanlaursen/mlflow_ork,1,0,2023-02-28T16:50:08Z,,Python,344,209
+defaultobject/sdem,2,2,2022-04-10T04:11:07Z,,Python,562,5
+amesar/mlflow-examples,1,0,2022-12-17T02:52:06Z,,Jupyter Notebook,6,7571
+DotaArtist/paper_clustering,1,9,2020-10-12T20:04:08Z,U-Net network architecture for semantic segmentation with EfficientNet-B0 encoder,Python,21,229
+laiyingxin2/Memory-based-Few-Shot-Medical-Image-Segmentation-with-Attention-Mechanism,1,11,2020-08-27T19:01:00Z,Energy-based Surprise Minimization for Multi-Agent Value Factorization,Python,10,14440
+snassimr/cml_mlflow,1,0,2023-03-06T14:37:06Z,,Python,1062,935
+hacors/Drug,1,2,2020-10-27T14:58:58Z,,Python,3,90
+loganrudd/mlflow-multistep-pipeline,1,1,2020-03-22T22:21:27Z,Fast pitch detection using a deep neural network trained on audio fingerprints,Python,2,47
+40104/Scikit-Learn,1,1,2021-09-18T07:54:52Z,,Python,817,6614
+LEOCUIZHIHAO/kp_cv,1,0,2022-12-29T12:21:35Z,,HTML,87,1460
+lukas/ml-class,5,0,2020-03-28T11:34:20Z,,JavaScript,123,1649
+wook1990/insomnia,1,0,2019-08-13T18:15:17Z,,Python,723,76455
+hirak-saharia/MLFlow-AIOPS,2,0,2022-11-26T04:21:12Z,"Proyecto final de la asignatura de Deep Learning Avanzado con el profesor Juan Carlos Perafan Villota. El proyecto consiste en la implementación de los módulos de atención ""SE: Squeeze-and-Excitation Networks"" y ""CBAM: Convolutional Block Attention Module"" y la explicabilidad de las inferencias con el método Grad-CAM",Python,14,33430
+dianingty-tkp/shopee_ndsc,30,13,2018-10-20T21:24:57Z,https://beta.mxnet.io/,R,3439,70475
+noorkhokhar99/YOLOv8-Object-Detection-with-DeepSORT-Tracking,14,2,2022-12-28T13:49:20Z,,Python,8,13916
+Ham-jinhee/final.py,1,0,2021-02-02T07:51:39Z,Training for Deeplepton outside CMSSW,Python,9,105
+zxlzhangxiaolan/starfish,2,0,2021-08-07T10:11:35Z,Code for SRMRL,Python,2,37885
+attilasimko/multimodel-optimizer,1,0,2023-03-07T11:18:15Z,Coming Soon...,Python,8,918
+shabnamshirdel/Local-Aggregation-for-Unsupervised-Learning-of-Visual-Embeddings,1,0,2021-04-20T11:19:24Z,,Python,113,155
+realbeathanyz/7773-Amex,1,0,2023-01-23T10:33:29Z,,Python,70,929
+LovreAB17/Eff-UNet,1,53,2017-07-22T21:28:47Z,Workshop for Spark and Databricks,HTML,1,86591
+karush17/emix,1,1,2017-12-13T09:41:20Z,,Python,2,3424
+allaan08/Fall-E,1,2,2021-06-25T07:18:30Z,,Python,1,54148
+comet-ml/mlops-actions,30,4,2022-04-28T06:56:58Z,,Python,5,614
+carlmoore256/FingerprintDNN,1,43,2020-01-31T12:32:19Z,Riemannian optimization for quantum technologies,Python,1,11561
+mianfei71/RNAPar,5,0,2023-02-27T23:06:07Z,,Python,3,378207
+vorodrigues/mlflow-export-import-mod,30,55,2019-12-19T10:31:38Z,,Jupyter Notebook,1,508970
+vinayaksh42/vinayaksh42-gmail.com,2,2,2020-06-08T03:54:37Z,The project is modified from mmcv 0.5.9. We fixed the bug in syncbn.,Python,6,4555
+butler-julie/PDNNI,1,0,2020-01-21T11:33:11Z,Django web-app which has 4 functionalities to help farmers make informed decisions,HTML,1,24311
+jhonpineda/uao_YOLOv5_modulos_atencion,0,0,2021-05-18T05:20:32Z,,JavaScript,4,83028
+mli/new-docs,1,0,2020-08-10T12:31:32Z,,Python,1,7420
+fennnnnn02/Object-detection-using-fast-api,0,0,2023-02-21T08:48:22Z,,Python,28,518
+HephyAnalysisSW/DeepLepton-Training,1,0,2020-05-17T06:33:23Z,,Jupyter Notebook,48,114983
+l519185243/SRMRL,1,0,2021-07-22T03:44:51Z,,Jupyter Notebook,20,545
+gbatsis/compeval,1,0,2022-10-14T11:06:20Z,,Python,35,4605
+Jihun22/PycharmProjects,1,0,2022-10-18T07:14:48Z,,Python,132,22110
+huguang1/yolov5,1,1,2019-08-12T21:32:04Z,Repository for Malware Visualization and Preprocessing work by Dr. Rakesh Verma and Alec Davila,Python,17,36
+dmatrix/spark-saturday,1,1,2020-01-11T14:46:34Z,,Jupyter Notebook,2,178091
+StoyanVenDimitrov/BachelorThesis,2,37,2021-04-20T03:56:11Z,CL-Gym: Full-Featured PyTorch Library for Continual Learning,Python,2,185
+XingxingZhang/hf_datasets,1,381,2020-06-30T08:06:10Z,"Knowledge-Aware machine LEarning (KALE): accessible machine learning from multiple sources for interdisciplinary research, part of the 🔥PyTorch ecosystem",Python,35,16645
+momo-xiaoyi/pymarl_HDA,15,24,2018-08-12T21:21:04Z,Automatically generate environment configurations as Dockerfiles,Python,1,11910
+LuchnikovI/QGOpt,2,3,2021-08-18T13:42:04Z,,Python,14,976
+MohAlshahrani/Yolo-straw,7,0,2019-05-29T12:28:30Z,Doodle prediction website it is based on Google's quick draw project. In order to get the feel of AI predicting half drawn images we make use of timers,Jupyter Notebook,48,750
+nasir6/zero_shot_detection,1,0,2021-08-12T05:23:07Z,,Jupyter Notebook,178,55913
+whai362/mmcv,1,0,2022-10-03T10:42:34Z,Simple implementation of a Siamese Network,Python,8,72
+srijan-srivastav/FarmAlert,1,22127,2019-03-31T00:45:57Z,"Deep learning framework to train, deploy, and ship AI products Lightning fast.",Python,4,123112
+tariqaziz21/predicting-covid,30,1,2020-09-16T22:09:14Z,,Jupyter Notebook,22247,1966
+jene4ekjene4ek/mlflow,1,15,2018-03-11T22:35:22Z,Autonomously learning to race autonomously,Python,1251,120635
+GoGoGodeep/Bone-age-detection-based-on-YOLOv5-and-ResNet,4,13,2020-02-09T04:36:36Z,Experiment management with Hydra and MLflow,Python,401,7
+abhijeetmote/ObstructionRemoval,1,0,2019-07-25T20:34:05Z,Regression Model using Keras+TF for The Kaggle Housing Prices Competition,Jupyter Notebook,40,1255056
+krisograbek/comet,1,0,2022-09-13T13:31:13Z,Our project for the 3. semester,Python,116,160006
+DCUSnSLab/skin_lesion,2,0,2018-04-15T22:18:54Z,,Python,9,8207
+zhangbo2008/cold_diffusion,1,0,2020-11-05T15:43:45Z,,Jupyter Notebook,7,242
+FullPint/Malware-Visualization-and-Preprocessing-Methods-for-CNNs,1,1,2022-11-30T12:58:21Z,,Jupyter Notebook,24,54888
+airqo-platform/calibration,4,2,2022-03-14T10:32:49Z,"Implementation of the work ""Closing the Loop: A Framework for Trustworthy Machine Learning in Power Systems"" submitted to IREP 2022",Python,4723,12283
+shaheerakr/cheating-detector,1,4,2018-12-25T04:13:13Z,Black Box Adversarial Attacks,Jupyter Notebook,449,3138
+imirzadeh/CL-Gym,2,0,2020-06-24T10:41:08Z,,Python,2,7833
+pykale/pykale,1,1,2021-04-06T10:54:54Z,An App that can take a picture of a flower and return its name and a short description,Jupyter Notebook,44,51383
+dockerizeme/dockerizeme,1,6,2022-09-30T17:51:55Z,UQGAN: A Unified Model for Uncertainty Quantification of Deep Classifiers trained via Conditional GANs,Python,23,1297
+cathyhxh/CTDS,1,0,2018-04-14T00:42:34Z,,Jupyter Notebook,955,150498
+rishabhk1/doodle-prediction-website,3,0,2022-10-23T12:47:48Z,,Python,2759,107020
+Tahimari/OCR-iam,1,2,2020-04-26T04:25:00Z,,Python,958,5271
+giacomopiccinini/SiameseNetwork,5,0,2020-06-27T21:53:15Z,Pytorch based Neural Network Language Modeling (NNLM) Toolkit for easier and faster NNLM research and development. Result of my Master's Thesis work.,Python,14,77
+Lightning-AI/lightning,1,2,2021-03-12T09:35:24Z,,Python,42,15706
+jairopinilla/AnalisisSentimental,2,1,2022-04-10T05:31:57Z,Stable baselines 3 PPO in custom gym env with self play,Python,206,3479
+linklab-uva/deepracing,1,3,2019-07-29T09:49:33Z,,Python,135,230
+ymym3412/Hydra-MLflow-experiment-management,5,0,2022-09-15T09:27:07Z,빅데이터 분산처리와 인공지능을 활용하여 환경오염에 대한 경각심을 제공해주는 웹 서비스입니다.,Python,2568,212433
+MFpizza/YoloV5-with-flask,6,7,2018-07-18T06:53:24Z,Working Modified Caffe for AMD GPU's OpenCL for Windows 10 .,C++,70,42970
+ariel-frischer/Kaggle-Housing-Prices,30,0,2022-10-20T19:33:06Z,,Jupyter Notebook,1,49
+TheChef42/P3,1,0,2020-07-18T02:23:54Z,My firsts steps using MLFlow library to develop an end-to-end machine learning pipeline,Python,1,8217
+Keqinli33/mobile_team,1,1,2019-07-10T17:55:10Z,,Python,226,81
+Dhruvi289/Artifacts_classification,1,20,2021-06-11T20:35:33Z,[ICML 2021] DFAC Framework: Factorizing the Value Function via Quantile Mixture for Multi-Agent Distributional Q-Learning,Python,741,1155
+routb68/Zummit_Infolab,1,2,2020-07-07T09:36:58Z,,Python,3,427
+jbesty/irep_2022_closing_the_loop,1,1,2018-11-03T19:49:31Z,2018 Capstone Project for Computer Science at Earlham College.,HTML,41,10586
+joeybose/BlackMagicDesign,1,0,2020-05-23T06:54:26Z,,Jupyter Notebook,795,66963
+afriksv/MLFlowProject,1,0,2019-05-10T19:19:18Z,Script de consultas a Influx y MySql DB,Python,11,311
+CormacS/FlowerRecognitionApp,1,0,2018-12-23T15:48:51Z,,Python,7,84028
+RonMcKay/UQGAN,1,0,2015-05-09T21:19:44Z,,Python,27,152
+Wrestlemaniaa/Automation,0,0,2020-08-23T01:17:27Z,,Jupyter Notebook,158,181980
+2691018635/Yolov5-Cat,1,0,2022-12-17T14:05:30Z,Портфолио учебных проектов по data science,Jupyter Notebook,6,6499
+dizwe/BabyCry_Siren_classify,1,0,2018-09-28T03:08:49Z,,Python,85,84
+RikoNyberg/matsulm,3,7,2019-05-15T01:01:48Z,"NOT DONE, made by wooramkang models for Image / Viedo inpatinting",Jupyter Notebook,79,82810
+MichaelArbel/OT-sync,1,0,2021-04-09T01:38:28Z,,Python,3,3196
+SpideyZac/AirsoftAI,1,5,2020-07-24T20:09:27Z,Repository for summer 2020 internship on analyzing climate-related financial disclosures,Python,83,425
+neyugncol/tensorflow-keras-triplet-loss,2,0,2021-03-13T15:58:17Z,This is to detect the diseases in plant,Jupyter Notebook,1194,441
+spy03128/ZirraForming,2,2,2018-11-13T03:34:21Z,Pointnet2_PyTorch-master,Python,1,234
+abhiTronix/caffe-opencl-windows-amd,1,0,2019-11-06T06:33:07Z,Information-Theoretic Definitions for Disentanglement: CS 236 project,Python,2,9229
+KKogaa/mrc-spanish,1,1,2016-10-17T16:13:44Z,,Python,26,41386
+anjosma/mlflow_experiments,1,0,2023-01-23T10:05:52Z,Tweaking Ultralytics' Yolo8,Python,1,30
+andrecianflone/perm_attack,1,44,2022-07-13T10:47:41Z,"Deepsort with yolo series. This project support the existing yolo detection model algorithm (YOLOV8,  YOLOV7,  YOLOV6,  YOLOV5,  YOLOV4Scaled,  YOLOV4, YOLOv3', PPYOLOE,  YOLOR,  YOLOX ).",Python,162,34063
+j3soon/dfac,1,0,2020-04-08T13:12:10Z,Using Python and Flask,Python,462,96603
+Neronjust2017/DL-TSC,2,0,2018-07-22T05:04:42Z,,Python,41,51424
+mashres15/FakeNewsCapstone,30,0,2021-07-09T04:47:26Z,The course project and homeworks in MLG,Jupyter Notebook,3,11626
+Noba1anc3/trash_classify_competition,1,9,2020-10-22T16:07:17Z,,Python,5,79
+Ariel-Vako/SensoVal,1,0,2023-01-08T22:30:19Z,,Python,91,960
+khuongnguyenBlue/sentiment,1,0,2021-07-18T15:13:50Z,,Python,1,10748
+jlenaghan/VariousUtils,30,0,2021-05-05T22:09:05Z,Convert data in rosbag format to numpy. Specific to ros message structure in rosbag.,Jupyter Notebook,3,81757
+qianna97/kkn-sanansari,1,0,2018-09-14T04:51:50Z,,HTML,187,36770
+gumaonelove/data_science,1,0,2021-08-05T00:03:39Z,,Jupyter Notebook,26,3670
+adiwijaya/mlflow-example,1,0,2016-07-22T03:24:04Z,,Python,9,28351
+wooramkang/Image-and-Video-Inpainting-with-Deep-NN,30,0,2023-02-27T02:44:20Z,大三下作业,Python,1,26488
+hcheckeye/nltk,1,1,2019-08-11T11:47:02Z,Adaptive Multi Column Stacked Sparsed Denoising Autoencoder,Python,2554,14738
+sashavor/climateNLP,1,0,2021-06-14T16:00:58Z,Image denoising algorithms implemented in tensorflow,Python,4120,567
+Sandeep-Yadav2/Plant-disease-detection,1,3,2022-10-04T14:14:32Z,T22_034_han_shi_hao_CRDDC_2022_SourceCode,Python,1,13317
+xurui1217/Pointnet2_PyTorch-master,1,0,2022-01-11T10:21:04Z,,Python,1,7773
+its-gucci/disentanglement,1,0,2022-10-02T07:37:34Z,,Python,2,16902
+TrofimovAssya/DankMeme,1,0,2020-05-07T13:55:14Z,,Python,6,1163
+giacomopiccinini/Yolo8,2,0,2020-06-19T12:37:25Z,"Simulator for different representation learning methods (e.g. Witness Autoencoder, Topological Autoencoder etc.)",Python,3,2066
+xuarehere/yolo_series_deepsort_pytorch,1,0,2021-01-24T16:10:43Z,,Python,388,38695
+murari2401/ChatBot,2,0,2021-05-05T05:11:03Z,,Python,253,17948
+Shuhuasong/Sage-Maker,7,1,2018-06-12T03:14:31Z,,Go,70,96302
+jaywu109/MLG_Machine-Learning-with-Graph,2,1,2022-10-23T21:49:30Z,,Jupyter Notebook,6,309883
+lingchunkai/ACNet,4,0,2013-08-30T14:54:35Z,,Python,11,90643
+burakkyilmaz/yolov5,1,0,2016-08-31T06:35:48Z,,Python,73,51380
+arian1995/dgl1,30,0,2022-02-03T16:54:07Z,code to reproduce results from Fine-Tuning Transformers For Genomic Tasks paper,Jupyter Notebook,36,4942
+saitejamalyala/rosbag2numpy,2,0,2022-01-21T02:28:46Z,,Python,1177,11358
+data-kwon/test,3,2,2020-03-13T04:34:22Z,,Python,9,12274
+bwbelljr/learn,2,0,2020-08-28T10:40:37Z,,Jupyter Notebook,7,6314
+xblbaby/xbl-Theano,3,0,2019-11-03T04:02:36Z,kaggle competitions solution files,Python,25,2000
+kqnan/HomeWork,1,0,2021-07-06T18:00:41Z,,Python,1,67145
+Prayushi9/AMC-SSDA,1,0,2021-11-11T05:23:48Z,,Python,3,28886
+Viva-Lambda/image-denoising-tf,0,0,2021-04-08T22:54:47Z,General covid analysis I've done that I don't mind sharing,Jupyter Notebook,25,11252
+KentHan19980609/T22_034_han_shi_hao_CRDDC_2022_SourceCode,1,0,2019-06-02T06:18:13Z,An application for building intuitions about neural network inferenece and evaluation.,Python,21548,8248
+ChoeMinji/scikit-learn-0.24.2,1,0,2022-06-21T08:40:20Z,,Python,9,38
+vindaklewo/Yolov5_object_detection,1,0,2021-03-10T18:44:04Z,,Python,25,25334
+9harshit/Breast-Cancer-Detect-Using-ANN,30,5,2022-02-06T11:47:56Z,TFLEX: Temporal Feature-Logic Embedding Framework for Complex Reasoning over Temporal Knowledge Graph,Python,1599,30216
+MrBellamonte/AEs-VAEs-TDA,1,0,2022-01-27T19:00:55Z,Image Colorization using Auto Encoders and Generative adversarial networks,Jupyter Notebook,6,19720
+sahildigikar15/Anomaly-Detection-in-Surveillance-Videos,1,87,2020-05-17T18:19:53Z,"A PyTorch implementation of  ""Graph Convolutional Networks for Text Classification."" (AAAI 2019)",Python,7715,26143
+Hunter833838/cscd01-project,1,0,2017-05-03T07:36:16Z,,Python,24,100017
+spacetiller/experiment,30,0,2021-10-05T21:33:43Z,"Fall 2021 Introduction to Deep Learning - Homework 2 Part 2 (face classification, face verification)",Python,50,663
+hzahid99/EECS-Final-Project,1,0,2021-03-03T12:44:38Z,Modelnya belom akurat bro. cuma project iseng orangnya lagi sibuk kerja + kuliah (belom sempet),JavaScript,1,27389
+jacoblsmith/DeepLearning,1,0,2021-11-15T18:40:16Z,Trabajo de fin de grado sobre el reconocimiento acústico de las emociones del conductor mediante Deep Learning,Python,1,2096
+tensor-tang/theano,1,0,2021-09-25T17:52:42Z,,Python,2,19479
+ML-Bioinfo-CEITEC/paper_FineTuning_Transformers_For_Genomic_Tasks,1,0,2021-01-30T08:49:52Z,Classification of keypoints,Jupyter Notebook,32,17453
+nirav8403/Machine_Learning_A-Z,1,11,2019-02-11T06:29:48Z,A simple Tensorflow implementation of DCGAN for Waifu face images generation.,Python,393,884
+Jwuthri/Maupassant,1,7,2021-11-27T10:29:56Z,A multi-tenant multi-client scalable product categorising demo stack,Python,10,16285
+jordiclive/fsdl-text-recognizer-project,1,74,2016-03-04T11:56:51Z,My code for Telstra Network Disruptions Kaggle competition,Jupyter Notebook,4,3427
+PraveenAdepu/kaggle_competitions,2,1,2019-12-13T01:40:09Z,"使用CNN，pytorch实现图像分类, implement image_classification with pytorch and comet.ml tools",Jupyter Notebook,1,3334
+ask-waldo-archive/ask-waldo-keyphrase-extraction-serverless,1,0,2023-03-07T18:07:45Z,,,18,864844
+gnaynad/quasi-scikit-learn,6,0,2021-03-10T00:55:50Z,,Python,4,739
+MarvinT/covid_analysis,1,0,2021-02-09T00:36:38Z,,Python,96,13042
+sonineties/macaque-reloaded,30,0,2019-04-06T15:45:00Z,,Jupyter Notebook,117,53314
+misoyuri/ViT_MAPConv,1,0,2022-03-09T11:40:11Z,,Jupyter Notebook,47,2439
+c-w-m/hgf-transformers,1,23,2020-06-24T14:52:33Z,Threshold independent detection and localization of diffraction-limited spots.,Python,1395,345466
+LinXueyuanStdio/TFLEX,4,0,2017-01-29T11:46:14Z,,Python,26,313514
+UttaraD/Image-Colorization-using-deep-learning-Techniques,2,0,2021-06-25T11:17:07Z,Fork of ousia/luke for my thesis,Python,109,1178
+codeKgu/Text-GCN,1,0,2019-11-19T20:26:48Z,Brain to brain learning for Hasson Lab project.,Jupyter Notebook,443,102971
+L706077/NLTK,2,0,2021-07-01T14:08:39Z,,Jupyter Notebook,61,18979
+ryanquinnnelson/CMU-11685-Face-Classification-Verification-using-Deep-Learning,5,0,2022-12-12T14:19:05Z,,Python,3,23068
+fadhelmurphy/Realtime-streaming-classification,1,21,2020-07-07T13:19:14Z,"Code for the ECCV2020 paper ""A Differentiable Recurrent Surface for Asynchronous Event-Based Data""",Python,990,4212
+javihl17/TFG,1,0,2023-02-24T12:02:34Z,,Python,3,3022
+riishiiiii/cat-and-dog-Classification,1,1,2020-05-11T21:47:15Z,,Python,4462,1112423
+FrancescoSaverioZuppichini/scientists-keypoints-classification,1,407,2016-06-16T10:46:43Z,An open-source tool for sequence learning in NLP built on TensorFlow.,Python,4,14179
+zikuicai/WaifuGAN,17,2,2023-02-12T05:28:30Z,,Python,19,39561
+radcheb/product-categories-4all,1,0,2022-10-19T01:21:27Z,,Python,33,9663
+gereleth/kaggle-telstra,1,2,2020-10-19T17:03:21Z,,Python,3,6096
+dxzmpk/image_classification,2,0,2021-03-25T22:31:44Z,,Python,50,105
+khaledfayed/dl-lab-project,1,0,2021-06-03T15:59:41Z,,Python,33,17
+ElementoLab/covid-metabolomics,1,0,2020-05-16T00:40:35Z,Skeleton Structure of my ML projects,Python,3,10
+bioannidis/my_dgl,1,1,2016-04-05T19:17:21Z,,Python,13360,145331
+shivam00/Ducat,1,0,2019-08-05T19:40:38Z,Write ML algo from scratch for better understanding,Jupyter Notebook,38,336
+CrisSchez/cml_mlops_churn,1,27,2021-07-30T12:21:17Z,,Python,6,974
+BBQuercus/deepBlink,3,0,2021-07-02T21:29:09Z,Springboard,Jupyter Notebook,5,829824
+miachenberkeley/DataProjectStartup,1,11,2020-09-30T22:23:05Z,🔧 Train off-the-shelf machine learning models in one line of code,Python,18,606
+jspunda/luke,1,136,2019-01-18T10:11:29Z,"Re-Implement ""Graph Convolutional Matrix Completion"" (PyTorch and PyTorch Geometric)",Python,1,387
+theodormarcu/brain2brain,2,0,2021-03-08T20:51:39Z,Thesis,Python,20,184
+KabeloMbewe/unsupervised-learning-team-mm1,1,25,2018-07-16T10:23:00Z,"Corresponding implementations for the IROS 2018 paper ""Modular Sensor Fusion for Semantic Segmentation""",Jupyter Notebook,5,1521
+charityYao/covid-19-kit-identification,3,0,2021-11-16T13:41:50Z,,Python,130,12
+marcocannici/matrixlstm,1,0,2022-12-28T20:43:49Z,,Python,89,55010
+master-ljh/yolov5,3,0,2021-11-28T21:05:38Z,,Python,7,1490
+smith-kyle/animalese-to-text,2,0,2020-08-16T06:14:09Z,,Python,1843,16727
+ufal/neuralmonkey,30,0,2020-12-21T13:53:15Z,,Python,26,99892
+pramodh-sirpi/yolov5,30,0,2021-04-20T08:18:01Z,,Jupyter Notebook,3,153960
+makitayugo/mujoco_irp,1,0,2019-10-26T16:20:44Z,,Python,4702,333
+fringsoo/NDQ,7,24,2020-10-02T06:47:55Z,TextHide: Tackling Data Privacy in Language Understanding Tasks,Python,16,346
+kangyuansbu/Text2image,1,16,2019-09-09T22:13:34Z,Work on designing a graph co-attention algorithm.,Python,5842,167957
+Steven-Carter-Data/NLP_Text_Classification,4,0,2018-06-15T12:29:57Z,,Jupyter Notebook,451,24899
+Divadi/ml-project-skeleton,1,0,2022-01-16T14:30:58Z,,Python,32,1379
+kellyhennigan/cueexp_scripts,1,0,2022-05-25T13:49:31Z,,Python,13,26364
+msank00/ml_algo_from_scratch,2,0,2018-03-05T16:53:47Z,Project Files,Python,1,1770
+valeoai/PCAM,1,0,2023-02-02T22:23:26Z,,Python,2,1875
+anmorgan24/Springboard,1,0,2021-12-16T04:49:38Z,,Python,392,586209
+jrieke/traintool,2,0,2021-04-27T15:56:53Z,,Python,10,477
+tanimutomo/gcmc,1,0,2016-11-26T18:15:49Z,,Python,2,42983
+HridoyRafid26/Sign-Language-Generation-with-Neural-Network,2,0,2021-02-09T00:29:39Z,,Python,10,111160
+ethz-asl/modular_semantic_segmentation,1,0,2021-08-18T05:47:47Z,,Python,12,89966
+ayelenklas/TaxiFareModel,1,0,2019-12-13T12:59:14Z,Old ray repo pre-upgrade to 0.7.6,Python,60,23231
+judicaeldehotin/MYRIA3D,30,4,2021-08-16T16:51:53Z,Repo for buzz-based honey bee ML models in task of anomaly detection. ,Python,42,1906
+FRL-Project/macaw-min,1,0,2022-01-03T16:32:23Z,,Python,129,754
+MauiDesign/HugginFaceTransformer,1,1,2021-07-13T22:26:57Z,"Speech command recognition contains a dataset of the words ""ON"", ""OFF"", ""0"", ""25"", ""50"", ""75"" and ""100"" recorded without noise by 9 men and 5 women with a total of 851 .wav files for training and audios with noise made by 5 men and 1 woman for testing of deep learning. ",Python,806,156495
+luanagbmartins/ray,1,0,2016-06-07T11:18:35Z,,Python,70,6922
+clrkwng/clevr_network,10,0,2023-01-31T06:54:16Z,,Python,3,167037
+KCharoenpitaks/Clone-for-thesis,1,1,2018-05-06T17:18:20Z,LodeRunner map procedural generation using machine learning,JavaScript,23,40648
+Hazelsuko07/TextHide,1,0,2022-05-31T04:23:05Z,taxi fare prediction simple model,Python,342,12
+andreeadeac22/graph_coattention,1,0,2021-02-17T12:56:59Z,,Jupyter Notebook,86,21685
+MarieRoald/summer_2018,1,0,2017-07-31T05:20:19Z,누구나 쉽게 나만의 이미지 검색 엔진 만들수 있습니다.,Python,3,100251
+thama23/ludwig,1,34,2022-01-21T09:53:22Z,Python client for MLflow REST API,Python,13360,670
+ban-epfl/ROL,4,1,2019-03-21T15:22:35Z,,Java,24,360553
+mhsamavatian/CSE-5429,1,0,2019-08-16T09:03:43Z,My research on improving Population Based Training.,Python,185,13809
+aminrabinia/frame-replace,1,0,2020-03-31T09:41:09Z,,Python,2,6127
+GitZWH-hub/DeepLearning,1,0,2015-12-03T19:51:52Z,,Python,250,4092
+moonosign/pink_moon_04_21,1,8,2016-05-03T16:58:12Z,"Utilizing machine learning  algorithms to predict various features of Facebook users such as gender, age and personality traits on the Big Five Personality Model. Age and gender prediction is treated as a classification task while personality prediction is treated as a regression task. Many machine learning algorithms like naive bayes, perceptron, linear regression and random forest were used to construct an ensemble framework which gave 70% accuracy.",Python,14,101867
+Igor-Yudin/autosite,1,2,2020-02-12T19:56:53Z,End-to-end trainable mask generation,Python,15,210
+jadna/GRS_POI,4,6,2020-10-01T16:42:44Z,,Java,8,24360
+Albert-learner/ObjectRemovalAndRestore,12,0,2018-10-01T07:57:33Z,,Python,1,36
+internetcoffeephone/old_ray,0,88,2016-03-15T16:16:58Z,,Jupyter Notebook,73,8168
+tymons/buzz-based-anomaly,1,0,2021-07-07T11:40:48Z,Scroll Inf from Yb,Python,35,2
+yashn35/Machine-Learning,1,2,2023-02-13T14:46:31Z,,Python,228,28869
+wobiero/sex_violence_app,1,2,2020-08-19T05:01:40Z,,Python,15,5592
+NicoGitSoft/Voice-command-recognition-in-Spanish,1,0,2021-01-29T09:12:24Z,,Jupyter Notebook,1,1249
+RKDSOne/Deep-Learning-Tutorials,2,0,2015-10-06T00:41:08Z,,Python,17,64339
+rohan-bansal/yolov8-tracked,1,18,2020-02-20T05:24:21Z,DefectNet: Towards Fast and Effective Defect Detection,Python,9,30952
+SGIvanov/Bachelor-Degree---Lode-Runner-Machine-Learning,2,2,2021-07-02T05:41:07Z,,Python,2,11558
+nganguyenny/TaxiFareModel,1,11,2017-02-20T02:04:52Z,京东商品爬虫，绘制历史价格走势,Python,64,7695
+alex-hse-repository/ozon-masters-bigdata,0,0,2020-10-09T03:48:57Z,,Jupyter Notebook,142,14567
+rlagur9286/image_searcher,1,1,2020-08-02T19:37:38Z,Code used in our paper entitled Building and Benchmarking an Arabic Speech Commands Dataset for Small-Footprint Keyword Spotting.,Python,8,577
+MobileTeleSystems/mlflow-rest-client,2,0,2019-03-20T17:56:45Z,,Jupyter Notebook,56,6705
+tdurieux/BugSwarm-dissection,2,0,2021-03-14T10:25:02Z,,Python,6,16
+nmichlo/bandit-pbt,1,0,2023-02-26T18:05:18Z,,Python,6,1055
+saikrishna197/densenetmodel,1,0,2023-03-08T06:54:26Z,adversarial attack in traffic sign,Jupyter Notebook,2545,305408
+yunqiw/pythonlib,1,15,2012-10-23T18:33:29Z,Bayesian model averaging of an objective function over a model class using advanced MCMC techniques.,Python,24,1080
+rsumana/UserProfiling,1,0,2016-05-10T02:47:17Z,,Python,8,102098
+cc-ai/MaskGenerator,0,0,2021-02-13T07:56:40Z,,Python,507,2366
+synbioks/Text-Mining-NLP,2,6,2019-09-19T18:25:12Z,Simple example showing how to integrate Ray parallelization with the Sacred experiment framework,Python,334,61
+adiwijaya/mlflow_project_template,1,1,2022-01-16T00:38:37Z,,Jupyter Notebook,5,840453
+gogartom/TextMaps,5,0,2019-06-14T19:27:45Z,A serverless csv to protobuf pipeline to be used with AI training and evaluation of data,Python,3,29865
+gambo2007/FinalDatamining,1,0,2018-12-21T21:17:03Z,sharp minima for cifar,Shell,19,25663
+songjiahao-wq/MY-YOLOv5-master,1,0,2021-04-17T10:24:46Z,,Python,22,1034
+hrishikeshmalkar/Sentiment-Analysis-Streamlit,1,0,2021-11-15T17:12:18Z,,CSS,5,19944
+bartalisd/apricot_exp,1,0,2022-09-12T10:58:56Z,,Python,2,906
+sayapapaya/German-Project-Backend,1,0,2021-09-24T10:03:52Z,,Python,40,427
+li-phone/DefectNet,1,2,2016-07-08T12:05:25Z,,C++,16,8239
+maliha93/Fairness-Analysis-Code,30,0,2023-01-12T08:43:54Z,,Python,3,1350
+qiaofei32/jd-crawler,2,1,2021-04-20T10:54:12Z,Source code for ICWSM 2021 paper Fair Representation Learning for Heterogeneous Information Networks http://www.cse.ust.hk/~zzengae/data/icwsm21-paper.pdf,Python,2458,24607
+John-p-v1999/Sonnet-generator-final,0,0,2021-03-24T16:54:09Z,,Python,18,1793
+fresher96/arabic-speech-commands,1,0,2021-01-31T09:23:57Z,,Python,17,54618
+jlebensold/flrl-ddpg,30,0,2020-11-28T11:47:59Z,Flask Project used to deploy a Keras model trained over Movielens Dataset.,Jupyter Notebook,2,15481
+pradeep-dsml/ML-WebApp-deployment-on-Heroku-experimental,1,1,2020-04-24T13:33:02Z,,Python,204,109993
+shehan1995/3d-detecton-bev,1,19,2022-01-17T14:42:26Z,"Rui Qian, Xin Lai, Xirong Li: BADet: Boundary-Aware 3D Object Detection from Point Clouds (Pattern Recognition 2022: IF=8.518)",Python,3,1875
+baaaam771/adversarial_attack,1,0,2021-06-11T10:38:26Z,CV frame interpolation,Python,6,1973
+binarybana/samcnet,3,0,2015-09-11T06:58:55Z,,C++,31,240240
+jayantkeswani/SocialMedia_Profiling,1,0,2020-12-20T09:07:38Z,base repo to build an entire ml pipeline using mlflow,,1,49
+rohansasmal123/continuous-testing,1,0,2023-02-22T23:54:01Z,,Python,1159,1091571
+decodyng/mvp_ray_sacred,1,0,2019-01-29T03:18:06Z,,Python,4,2609
+masterStormtrooper/VITAE-mm-pi,1,0,2022-10-15T02:14:03Z,,Python,9,9169
+nikody-mytaptrack/csv-protobuf-pipeline,1,0,2022-06-30T08:50:52Z,Rental Bike prediction ML model,Python,2,1014
+wronnyhuang/sharpcifar,2,0,2020-11-03T17:18:27Z,,Python,12,10
+tripathishubham1/streamlittoheroku,2,0,2021-03-17T23:16:30Z,classify if a patient suffers from diabetic retnopathy and use visualization method to proved better interpretation.,Python,8,1107
+sy1909/undertheC,1,0,2019-01-19T19:32:45Z,IFT 6135 homework ,Jupyter Notebook,20,58012
+BenThaii/yolov5,4,0,2022-08-14T06:10:21Z,Real-Time Communication System Powered by AI for Specially Abled,Jupyter Notebook,17,112341
+PasserBy4/mypretraining,5,0,2022-01-05T01:45:54Z,Comparisons between ML Tools ,Python,123,13
+litoeknee/mxnet,1,14,2021-01-04T08:02:53Z,這是一個Speech_Recognition-PyTorch的開源碼，可以用於訓練自己的模型。,Python,6,1303
+KAI-Devv/BoxDetection-Yolov5,2,0,2020-10-26T01:30:39Z,testing some ideas with ml flow,Python,40,7
+ZiqianZENG/Fair_HIN,1,13,2021-03-21T05:01:32Z,Zero-Shot Learning in Named Entity Recognition with Common Sense Knowledge,Jupyter Notebook,91,69964
+traliegh5/gpt2,3,0,2022-12-22T03:04:18Z,,Jupyter Notebook,6,19254
+DarlingMoo/scikit-learning-,1,1,2019-12-16T09:55:27Z,,Python,14,203965
+arsundram/movie-app-api,6,91,2020-01-05T16:35:12Z,"This package features data-science related tasks for developing new recognizers for Presidio. It is used for the evaluation of the entire system, as well as for evaluating specific PII recognizers or PII detection models.",Python,5,2709
+GIS-PuppetMaster/RLTrade,15,0,2022-05-09T13:03:11Z,"Paper ""A Benchmark for Lease Contract Review""",Jupyter Notebook,997,713
+rui-qian/BADet,1,0,2022-08-21T21:11:38Z,,Python,1,6061
+michael5107414/CV_project,1,5,2020-12-03T17:47:58Z,Hackathon 2020! Max Archit Zhe,Python,8602,100076
+HunjaeJung/imagenet2014-modified,30,0,2020-10-31T15:06:08Z,IP Mini Project,Python,5,703
+cerofrais/mlflow-intro,4,0,2022-04-26T15:50:06Z,,Jupyter Notebook,48,495
+oguzcanbekar/hakan_1,1,2,2020-08-06T14:06:17Z,"Neural Networks have revolutionised the healthcare industry by introducing Deep Learning models that reach human-level accuracy. In this work, a pipeline implementation is explored that tries to enhance the accuracy of Deep Learning models in the detection and segmentation of pneumothorax from a set of chest radiographs. This is done in the hopes of facilitating future applications in the medical field. By cascading a CNN and a U-Net, we ensure that the CNN will filter out all the cases with no pathology, i.e.’Normal’ cases, leaving the U-Net (trained on positive cases only) to focus on arranging a set of filters for the separation of pathology from the infected lungs. The models are cross validated on the same data to ensure consistency. The proposed method demonstrates higher accuracy in both segmenting and detecting the pathology. By implementing it with more complex architectures and integrating in the domain knowledge of radiologists, this methods can be applied in conjunction with other applications to rapidly triage and prioritise cases for the presence of anomalies.",Jupyter Notebook,286,37567
+jimmygoddard/cs677,1,0,2021-06-14T08:04:46Z,kt wiz ai 이벤트 프로젝트 AI ,Python,9,17244
+xueyongfu/deep-learning-snippets,2,3,2021-12-03T20:45:42Z,MLFLow integration in AzureML,Jupyter Notebook,6,369
+NaveenRudra/churnmodeliisc,1,0,2022-09-15T16:36:26Z,,Python,8,32163
+loryculaire/keras_mlflow,30,1,2021-03-04T06:32:33Z,,Python,47,30213
+abdelrahman-wael/Diabetic-Retinopathy-Classification,2,0,2021-04-07T14:41:23Z,ML Engineering study Repo,Jupyter Notebook,29,3665
+adijo/ift6135-mlp-convnet,1,0,2017-12-06T16:08:02Z,,Python,2,18160
+IBM-EPBL/IBM-Project-39556-1660457421,2,0,2020-06-16T17:18:30Z,,Jupyter Notebook,4,264
+NexlsonSkymind/MLToolsExperiments,0,0,2019-10-09T11:07:48Z,"A set of generic, useful data science and machine learning methods.",Python,58,4939
+BlackyYen/Speech_Recognition-PyTorch,1,2,2021-10-25T02:23:03Z,MVFNet in Paddle,Python,3,2531
+jattenberg/ml_flower,3,0,2018-07-27T04:39:53Z,"Used Google app service , cloud sql, and memcache. Depolyed Python Flask application on cloud",Python,1,38905
+shmulvad/zero-for-ner,1,0,2022-07-20T15:58:48Z,Fork of garage,Python,14,14497
+funnybear681/StopLights,30,0,2021-03-23T15:26:27Z,,Python,8,79255
+Y-oHr-N/autodl19,2,0,2023-01-27T18:44:09Z,MLFlow Tracking Server Stale Resource Pruning,Python,2406,2906
+microsoft/presidio-research,2,3,2016-10-16T08:13:38Z,,Python,1,921
+j-rossi-nl/redflag,1,46,2019-05-15T01:53:30Z,"Re-Implementation of ""Image Inpainting for Irregular Holes using Partial Convolution""",Python,61,3246
+JeisonPham/Tracking,2,0,2022-03-10T21:18:17Z,,Jupyter Notebook,34,362
+ray-project/maze-raylit,1,0,2018-02-17T17:49:45Z,,Jupyter Notebook,1,1304
+200016harshjain/Text_To_Image,1,0,2022-06-23T16:49:08Z,,Python,66,57055
+vinceh91/lbc,30,5,2020-08-04T18:18:07Z,"Deep learning with the PTB-XL dataset, leveraging advances in CV.",Python,1,337
+usama13o/Penumothroax-Semgntatoin---Undergrad-Dissertation,1,0,2022-12-13T12:36:21Z,,Python,3,271
+davidhungpill/ktwizai,1,0,2022-11-25T12:00:05Z,,Python,11,321100
+AbeOmor/MLflow_AML,30,0,2022-09-09T23:51:33Z,Yolov5,Python,47,78241
+TNPKpenguin/Pig,1,1,2016-06-15T14:19:50Z,,C++,1,30703
+Ewha-AI/Object-Detection_COCO,1,0,2020-04-02T19:25:02Z,,Jupyter Notebook,17,516
+Haebuk/ML-Engineering,0,0,2021-08-13T17:56:47Z,,Python,299,18650
+rmcbee/knock_off,1,0,2022-12-23T07:25:56Z,,Python,5,208227
+dataguyjon/ml_ops_testing,2,0,2020-08-28T01:41:27Z,,Python,3,187848
+AndreCNF/data-utils,1,0,2021-08-31T23:01:57Z,,Python,26,50798
+ImportPaddle/MVFNet-Paddle,1,0,2022-11-11T16:26:49Z,,Python,10,39852
+thakur-nishant/Google-Cloud-Services,3,0,2022-09-08T20:44:34Z,"Project to create a random generator which creates realistic population data (e.g. age, sex, height, education ...). In a second step those generated data is used to train neural networks or decision treees.",Python,2371,6631
+SergioHdezG/garage,1,1,2021-08-08T15:45:25Z,This project provided the trained models for predicting LFER descriptors in our recent research. ,Jupyter Notebook,1,70694
+Tomtimianker/SmBopEST,1,1,2021-01-04T18:15:37Z,,Python,985,2957
+Anaconda-Platform/anaconda-mlflow-tracking-prune,1,6,2019-01-09T13:47:00Z,,Python,4910,63473
+pauldb89/ml,1,0,2020-10-21T01:13:35Z,Team Project - Cheese Recommend System (Sklearn & Tensorflow & Keras),Jupyter Notebook,315,17040
+tanimutomo/partialconv,1,4,2020-03-27T06:24:35Z,,Python,24,10548
+luohwu/IntentNetEGO4D,1,0,2021-07-27T15:29:24Z,add paddle backend to dgl,Python,34,132
+chandrakanta-chaudhury/Machine-Learning,1,3,2020-08-13T11:53:49Z,"PINet based lane detector for various road types and lane directions, trained with tusimple, culane, and bdd100k. Fine tuning, benchmark and deployment pipeline are not included.",Python,26,52401
+Tinagogo/mlflow,1,0,2022-10-20T07:09:05Z,,Python,90,817
+dthiagarajan/ptb-xl-research,1,1,2017-04-24T02:20:42Z,,Python,1,42245
+nachi-hebbar/yolo-to-onnx,1,0,2018-08-16T09:48:45Z,Nvidia DIGITS,HTML,19,2757
+3344jok/eyepulator_yolo,1,1,2022-05-27T11:17:59Z,,Python,19,4524
+TomasGit-1/TesisV2,1,2,2022-11-08T23:50:16Z,,Python,4,22221
+zdltheone/mxnet_windows,6,1,2023-01-18T01:11:19Z,This is the repository for the ECS189G course on Deep Learning. The main purpose of this project is to help students **get familiar** with classic deep learning models and **use them to solve** concrete real-world problems.,Python,89,2323
+Pamikk/rev-seg-mia,4,24811,2016-10-25T19:38:30Z,Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.,Python,605,288400
+chankyaajay/Fake-News-Classifier,30,16,2020-10-30T14:44:54Z,"Code for paper ""A Critical Assessment of State-of-the-Art in Entity Alignment"" (https://arxiv.org/abs/2010.16314)",Python,2,126
+dee-coder/Yolo-FastApi,1,0,2021-01-16T11:38:25Z,,Jupyter Notebook,35,939463
+YuBeomGon/nlp,1,0,2022-08-04T18:43:12Z,,Python,100,42
+dahani9091/style-transfer,2,0,2021-04-26T17:08:32Z,Repository of the code artifacts produced during my master's research project,Python,1,11310
+bixtecnologia/mvp-bix-databricks,1,2,2021-02-12T10:03:20Z,,Python,253,14173
+katakoruma/Population-data-generator-and-classifier,1,4,2021-08-16T22:19:31Z,"Snapping back on hate speech with automated content moderation for memes, speech, and text.",Python,27,108137
+cwrukaizhang/LFERsPredictor,3,2762,2020-11-19T09:25:46Z,"ZenML 🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.",Python,9,162440
+AshwinBalaji52/Personality-Detection-using-Handwriting,30,33,2018-09-27T22:49:27Z,A toolbox for worst-case validation of autonomous policies,Python,816,82803
+hbsun2113/myPytorch,4,0,2017-08-27T07:04:31Z,,Python,3,10471
+soominok/cheese-ai,1,12,2021-01-13T22:22:06Z,"A validated, reasonably fast, and easily extensible implementation of a Cox model in PyTorch",Jupyter Notebook,18,238
+henryhenrychen/Multi-CTC,1,5,2021-06-15T15:31:56Z,"A project that investigated, designed and evaluated different methods to reduce overall up-link communication (client -> server) during federated learning",Python,13,5862
+chfhf/dgl-paddle,1,0,2022-12-01T16:32:57Z,,Python,1,942
+masszhou/lane_detector,1,7,2018-05-20T15:01:10Z,,Python,1,21
+berinja/icr-codraw,1,3,2017-10-25T17:48:58Z,,Jupyter Notebook,14,68042
+zoeyangyy/event-extraction,1,0,2022-12-11T05:43:02Z,,Python,64,388765
+RimeT/Nvi_DIGITS,1,0,2020-11-11T06:40:24Z,,Jupyter Notebook,4,189939
+liuliu66/pathological_segmentation,1,0,2015-09-19T11:30:36Z,Python相关环境构建文档,Python,46,75
+alexhernandezgarcia/activelearning,1,0,2018-08-30T00:21:04Z,Information Retrieval,Jupyter Notebook,51,136235
+alejandroarmas/some-dl-models,1,0,2022-05-17T06:58:40Z,"A repository for the thesis work ""Impact of MR training data on the quality of synthetic CT generation"".",Python,21,34
+ray-project/ray,1,0,2021-05-13T09:19:12Z,,Python,1593,3443
+mberr/ea-sota-comparison,3,1,2017-11-24T08:59:16Z,Personal Projects ,Python,2,1837577
+davidtangGT/MOF_color,1,0,2022-05-30T15:19:30Z,,Python,5,137
+ShaikVasid/databricks-demo,5,5,2019-01-02T14:45:46Z,reproducible of GLANN,Python,69,49120
+olibd/deepvisualodometry,1,0,2021-09-10T03:41:02Z,Late submission to Kaggle's Cassava Leaf Disease Classification competition,Jupyter Notebook,184,3078
+navigator8972/koopman_policy,1,0,2020-04-03T02:40:29Z,,Python,271,8399
+epistoteles/Modergator,1,15,2022-03-16T22:55:44Z,Trajectory Variational Autoencoder baseline for Multi-Agent Behavior challenge 2022,Jupyter Notebook,11,582
+zenml-io/zenml,2,0,2021-03-10T00:13:47Z,,Python,55,1291
+sisl/AdaptiveStressTestingToolbox,1,762,2022-08-18T02:05:03Z,Official implementation of Cold-Diffusion for different transformations in pytorch.,Python,28,2699
+stella-gao/theano-0.9.0,2,0,2021-02-20T06:46:31Z,Web application deployment of board games recommender system.,Python,8,35171
+ilanfri/TorchCox,1,0,2021-01-17T19:59:53Z,,JavaScript,231,10391
+luke-who/Federated-Learning-Project,1,0,2020-11-11T02:01:34Z,,Jupyter Notebook,4,5509
+377188987/demo,1,0,2021-03-01T03:13:58Z,,Python,114,14699
+Ereebay/text2img,1,0,2021-03-09T22:42:02Z,,Jupyter Notebook,2856,3690
+siskaj/PredictiveMaintenance,3,0,2023-03-02T09:33:14Z,,Python,212,30955
+Nightingalelyy/hpml_final_yolov5,1,1,2021-05-22T15:51:26Z,A minimal template for pytorch-lightning and grid.ai,Python,1,119
+dleqhuy/Breast-Cancer,1,0,2022-10-07T14:39:50Z,,Jupyter Notebook,30,211614
+Nivitus/Cotton_Leaf_Disease_Detection,6,0,2023-02-07T22:14:08Z,,Python,27,6859
+IBBD/dockerfile-python,30,49,2019-10-21T01:17:56Z,Submission for MAVEN: Multi-Agent Variational Exploration,Python,18,5161
+wesleyz/RII-2018,1,2,2019-06-19T14:29:26Z,,Python,63,720
+attilasimko/sct,4,0,2022-09-21T19:38:27Z,,Jupyter Notebook,9,284739
+Shivanshu-Gupta/semeval-2020-task-7-humor-in-headlines,1,1,2022-01-07T08:53:17Z,,Python,5,35207
+leexa90/Projects,5,1,2018-09-19T02:18:43Z,fusion semantic segmantation with deeplabv3+,Python,1,1407
+kingofthenorth/lgm-le-wagon,1,26,2019-02-10T13:52:13Z,Personal notes on cloud and machine learning :page_with_curl: :honeybee:,Jsonnet,19480,50692
+yanzhh/GLANN,1,0,2016-09-15T19:38:05Z,Data Mining,Python,135,19330
+Ryul0rd/cassava-leaf-disease-classifier,2,360,2021-02-27T16:57:19Z,All the handwritten notes 📝 and source code files 🖥️ used in my YouTube Videos on Machine Learning & Simulation (https://www.youtube.com/channel/UCh0P7KwJhuQ4vrzc3IRuw4Q),Python,9,97877
+weqing/Python-Learner,6,1,2023-01-15T03:15:28Z,A kubernetes operator for working with mlflow on kubernetes,Rust,4,30
+AndrewUlmer/MABe_2022_TVAE,1,0,2021-10-10T09:38:33Z,A repo containing our work on our EE-final project on fusing 2D and 3D data using neural networks,Python,7,19
+n6graham/cpsc_hw4,1,0,2019-03-17T05:35:48Z,"A repository for all of my projects and tutorials I followed on AI, machine learning and so on",TSQL,498,786246
+arpitbansal297/Cold-Diffusion-Models,1,0,2018-09-09T12:22:02Z,,Python,5,9443
+richengo/WebApp-Board-Games-Recommender,1,2,2022-05-10T09:15:50Z,The base paper of ML-VAE https://arxiv.org/abs/1705.08841 is extended to the speech dataset.,Python,1,22
+TimRepke/adaptive-landscape,1,0,2023-01-14T10:41:58Z,yolov5+霍夫变换实现的车道线检测,Python,104,661
+jh3ex/cirp,1,7,2019-09-17T03:49:43Z,Today I learn.,Jupyter Notebook,300,85870
+Sachdw/The-Rock-Says,3,0,2022-12-23T01:13:07Z,,Python,3,2688
+RachitSharma2001/BPNet-DanQ,2,0,2016-12-03T09:40:48Z,Pronoun Disambiguation with Narrative Chains,Python,34,23146
+yjy249/garbage,0,1,2020-10-08T05:25:01Z,,Python,13,1809
+ChenghaoMou/lightning-grid-template,1,0,2021-06-27T08:03:06Z,,Python,86,56037
+workcom0/Zirraforming-Project,30,0,2021-09-28T16:55:04Z,"Performed data wrangling from NHL api and Exploratory data analysis using Python. Built Boosting models like xgboost, lightGBM and make live game predictions of expected goals  using a flask and jupyter widget wrapped in docker image.",Jupyter Notebook,19,63988
+jacobkj314/spacy-dependencies,2,1,2020-10-10T16:59:58Z,,Python,39,54871
+dugan191080/yolov5,2,0,2018-03-26T23:12:53Z,Project for the Information Retrieval class at CIn UFPE,HTML,51,4943
+AnujMahajanOxf/MAVEN,2,3,2022-03-02T01:43:35Z,"code for ""FLEX: Feature-Logic Embedding Framework for CompleX Knowledge Graph Reasoning""",Python,772,8873
+xiao7199/compare_gan,1,0,2020-10-10T15:22:53Z,This is for Berkeley's MIDS program - course w266(NLP and deep learning)  final project on NER and Relation extraction,Jupyter Notebook,3,69860
+tanielfranklin/wbpen,3,0,2020-12-23T15:46:28Z,,Jupyter Notebook,5,40422
+nsturis/MLopsProject,1,1,2021-02-18T04:43:13Z,,Python,3,50657
+wangyidong3/FusDeepSeg,0,0,2021-11-23T20:40:01Z,,Python,677,15946
+ddysher/arsenal,1,0,2019-12-26T16:23:18Z,,Jupyter Notebook,1,912661
+vickymzheng/601_cse_data_mining,1,0,2023-02-08T03:03:05Z,,Jupyter Notebook,51,27752
+Ceyron/machine-learning-and-simulation,1,1599,2016-11-01T04:26:54Z,No-bullshit file hosting and URL shortening service. Mirror of https://git.0x0.st/mia/0x0,Python,865,22053
+ichbinjakes/mlflow-operator,5,0,2023-01-06T18:27:00Z,"This a face recognition project developed using MERN, flask and yolov5",Python,69,15718
+nmd95/2D-3D-fusion,1,3,2020-05-11T14:39:03Z,,Python,14,2338
+Susanou/MachineLearning,1,0,2021-05-25T08:58:35Z,,Python,3,11
+haodc123/python_crawling,1,0,2022-05-10T19:33:39Z,rs-school-ml,Python,9,9568
+Padhky/Multi-level-variaitonal-auto-encoder-for-speech-disentanglement-using-deep-probabilistic-approach,1,1,2019-05-19T12:58:42Z,Gluon implementation for fancy GAN model,Python,9,120
+YINYIPENG-EN/yolov5_lane_detection,1,0,2017-06-26T16:37:10Z,Source content of my personal university page,Python,35,34404
+iimuz/til,1,0,2017-03-04T19:38:57Z,Quantitative analysis of music festivals using Pitchfork Reviews and Spotify Data. ,CSS,1528,61155
+z-x-l-i/Cold_diffusion,1,25,2013-07-12T00:43:42Z,Automated website scraping over Tor,Python,3,125348
+sungsulim/WinogradSchemaChallenge,4,0,2022-01-05T09:39:05Z,,Jupyter Notebook,10,24891
+Jefferryy/Self-Driving-Cars-SBST,2,6,2021-05-20T05:29:17Z,Summarization of Multimodal articles,Python,60,4415
+Narasimhareddy26/scikit-learn,1,0,2023-02-19T14:33:10Z,One exercise of Udacity class ML workflows,Python,7,21
+DS-IFT6750-project-collaboration/Hockey-all-star-analytics,1,0,2022-10-06T18:49:08Z,,Jupyter Notebook,5,65358
+zaidhassanch/PointerNetworks,3,0,2022-12-04T07:51:18Z,,Python,503,38327
+15steps/ir_project,1,3,2021-11-30T05:06:13Z,미래기술 시장 예측,Jupyter Notebook,42,374439
+LinXueyuanStdio/FLEX,5,0,2021-09-07T11:43:32Z,,Python,444,735
+pnarsina/w266_final,1,3,2022-09-18T00:17:50Z,Training a diffusion model to generate anime/cartoon images,Python,4823,2032
+madugula-jairam/my_project,1,4,2021-04-19T12:04:02Z,复现双层贷款违约风险预测模型,Python,32,112748
+Alibaba-AI-Globalization/GCR-Rerank,1,1,2021-04-24T19:30:19Z,This is the repo of a modified version of scikit-learn which is used to profile every example and benchmark included in the original repo. ,Python,2,7891
+DavidTitoInfantas/New_visual,1,0,2022-10-16T18:13:06Z,,Python,22,3363
+vicb1/deep-learning,2,0,2022-11-10T12:35:02Z,,Python,16,6280
+saikumarbhukya/YOLOv8_Segmentation_DeepSORT_Object_Tracking-main,1,21,2021-12-09T17:32:37Z,"Public repository of the 3DV 2021 paper ""Generative Zero-Shot Learning for Semantic Segmentation of 3D Point Clouds""",Python,50,4692
+mia-0/0x0,1,0,2016-12-23T08:56:07Z,Personal codes in learning Machine Learning.,Matlab,398,20140
+saiabhiramjaini/FACE_RECOGNITION_PROJECT,1,0,2021-01-19T22:42:23Z,,Python,644,165460
+liketheflower/jimmy_dgl,1,0,2021-11-05T15:51:04Z,generative models,Jupyter Notebook,6,547237
+raghulkrishna/mlops-cml-dvc-mlflow,1,0,2021-07-30T11:19:12Z,,Python,3,3063
+vladikuss/RS-ML-Final,2,0,2022-10-17T07:48:04Z,Contains past or currently in-work machine learning project.,Jupyter Notebook,6,258019
+nuppt/gluon-gan,1,4,2019-10-15T10:44:29Z,This is a repository designed to be my portable workstation. I can use it on a CPU or GPU machine and is meant for development and training. It contains docker files for environment setup and links to other repositories that can be downloaded inside.,Jupyter Notebook,32,119397
+alexpnt/university-site,1,0,2022-11-20T05:49:45Z,My version of yolov7,Jupyter Notebook,34,34433
+timdmulligan/govs_ball_schedule,1,1,2022-12-16T00:13:34Z,teeny-tiny mlflow helper,Python,84,32
+zackw/tbbscraper,1,0,2022-11-21T11:06:08Z,,Python,339,157300
+schwobr/apriorics,1,0,2021-10-01T16:43:14Z,source: https://towardsdatascience.com/pytorch-deep-learning-template-6e638fc2fe64,Python,1,10
+darthgera123/Multimodal-Summarization,1,33,2018-08-14T20:35:37Z,models and evaluation framework for trending topics detection,Jupyter Notebook,10,13526
+IloBe/genre_classification,1,0,2023-01-09T07:31:00Z,Core engine code,Python,35,270275
+mina-parham/IFT6758-Project,1,671,2022-07-25T14:14:06Z,YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO,Jupyter Notebook,21,335729
+Aldino168/yolov5-object-tracking,3,0,2020-12-08T02:49:23Z,,Python,32,295
+EKYoonD/StockHelper,1,6,2018-08-20T16:10:49Z,Time series DBN BP ARMA,Python,19,33495
+rezash121/Data-mining-projects,1,2,2018-04-16T21:18:01Z,,Jupyter Notebook,5,110799
+Matvezy/AnimeDiffusion,0,0,2017-12-30T02:09:44Z,strip shot learning fore question answering,Python,1613,63015
+chenz1hao/two-layer-model,1,9,2020-10-23T07:22:37Z,,Python,87,145
+Giannos-G/scikit-learn_modified,1,0,2021-12-15T14:32:52Z,,Python,135,881
+almrx/StaticAnalysisYolov5,2,1,2020-05-27T08:02:42Z,"pytorch implementation of ""Learning Effective Value Function Factorization via Attentional Communication""",Python,28,131
+Xrez31/YOLOv5-Facemask-Detector,1,1,2022-02-04T13:38:49Z,AI to generate subtitles from video source,Python,1,5506
+valeoai/3DGenZ,2,0,2022-05-27T08:29:58Z,,Jupyter Notebook,102,3329
+deja2011/learn_ml,1,0,2021-01-27T16:44:44Z,,C++,34,55781
+kiril-abramov/django-project,30,0,2019-01-09T15:59:53Z,Beam-Dowel_Setup WIP,Python,10,133449
+matteoferrante/TorVergataExperiments,8,1,2017-12-09T01:14:09Z,,Python,8,72939
+ferraric/Semantic-Segmentation-of-Histopathological-Slides,0,2,2018-06-24T15:50:09Z,,Python,16,5
+FaisalKengo/MachineLearningProject,1,0,2021-03-11T18:28:17Z,,Python,34,4959
+carlos-gemmell/Glasgow-NLP,1,1,2020-07-16T03:38:58Z,,C++,165,81850
+Chrislai502/yolov7,30,0,2019-09-21T14:45:58Z,,Python,158,39848
+ricardodeazambuja/mlflow-er,30,1,2020-03-24T12:10:50Z,,JavaScript,50,449
+seoheolim/Yolov5,1,0,2022-09-19T16:50:09Z,"Linear Regression is a machine learning algorithm based on supervised learning. It performs a regression task. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting. Different regression models differ based on – the kind of relationship between dependent and independent variables they are considering, and the number of independent variables getting used.",Python,127,7
+fergusbao/pytorch-project-template,1,1,2020-07-12T08:59:36Z,,Python,43,84
+omri374/moda,1,0,2019-07-22T17:49:00Z,Brand recommendation based on Sentiment Analysis,Python,8,4
+Sanjeevini-Deloitte/sentinel-core-engine,1,0,2021-12-20T23:23:50Z,A sample container of Mlflow/Python for deployment to AWS Lambda for ML model serving.,Python,6,6
+jizhishutong/YOLOU,1,1,2021-04-18T06:45:16Z,,Python,26,24924
+tanimutomo/hidden,1,0,2020-07-11T12:51:01Z,,Jupyter Notebook,59,170
+asdfhalkehflkajdhf/Md-learn-Timeseries,1,0,2019-05-06T20:29:03Z,,Python,59,2470
+rmunro/deep_learning_course,1,0,2023-01-29T17:48:23Z,,Python,16,163870
+dadashkarimi/strip-shot,1,7,2021-11-13T07:25:07Z,"object detection, adversarial robustness",Python,21661,8092
+oopil/3D_medical_image_FSS,1,2,2022-11-16T01:53:13Z,Implementation of <Fast Lifelong Adaptive Inverse Reinforcement Learning from Crowdsourced Demonstrations> on CoRL 2022,Python,303,834494
+VaianiLorenzo/SemEval-2022-MAMI,1,0,2022-11-01T10:14:53Z,,Python,10,13767
+bowuaaa/VFFAC,1,1,2018-06-14T17:29:56Z,Machine learning for lie detection. Fake news begone!,Python,2,838
+vikrusev/fmi-ai,1,0,2022-06-02T09:12:10Z,,Python,20,6094
+howard-scu/Pytorch-MIP-DL-Template,1,4,2019-03-14T22:04:58Z,A Statistical Learning library for Humans,Python,1,1167
+yimuw/expriment,1,0,2020-10-17T13:29:32Z,,Python,68,73365
+ytakzk/timber_assemblies,1,4,2022-05-05T13:00:40Z,CArdiac SegmenTation with cOnstRaints (CASTOR) project,Python,17,148
+svayamm/c4g-rpt,1,0,2018-09-09T00:28:06Z,,Python,86,11454
+jainanchit51/transfer_learning,1,15,2021-08-20T09:13:34Z,,Python,5,1275
+DanielGlickmanTAU/summary_rogue_optimize,1,0,2020-04-09T15:58:01Z,,Python,5,319
+hust-wuwechao/mxnet_share_327_330,1,1,2022-12-28T04:47:53Z,Weak object detection algorithm based on improved Yolov5,Python,40,921
+junhalba/incubator-mxnet-master,1,1,2018-08-09T13:06:21Z,"This repository contains all the code and documentation for the Simulation Accuracy & Validation Informatics (SAVI) tool: a convenient, freely-available GUI-based tool designed to facilitate and automate the validation of simulated land change models.",Python,2,197269
+vinayaksh42/ML-web-App,2,1,2021-09-30T11:17:20Z,"Codes and complete results from ""Triple-VAE: A Triple Variational Autoencoder to Represent Events in One-Class Event Detection"", an article accepted in ENIAC 2021",Python,1,53727
+sushantpattanaik/Linear-regression,1,0,2019-09-29T23:02:09Z,progressively growing WGAN-GP trained on an art dataset,Jupyter Notebook,12,48140
+reymondzzzz/transformer_ocr,1,0,2022-11-02T05:06:39Z,,Python,4076,1277861
+Anygma1/E-commerce-Brand-Analysis,30,0,2022-02-25T01:18:14Z,,Python,1,1741
+vochicong/mlflow-lambda,1,0,2020-08-28T20:15:44Z,My experiments using global self-attention layer to augment/replace transformer architectures in NLP tasks,Python,886,4634
+nthacker/AzureDatabricksDemo202104,1,2,2022-10-11T14:51:44Z,Project Real- time Traffic Video,Python,1,1199
+Raman1121/Rethinking-Model-Architecture-and-Pretraining-for-Visual-Tasks-in-Cheminformatics,3,0,2022-10-31T09:46:42Z,,Python,5,82167
+mandark97/Lyrics-Classification,1,0,2019-02-03T19:15:42Z,The labs from course ECEGY-6143 Intro to Machine Learning,Jupyter Notebook,14,20719
+Tanaanan/DurAIn_ni-Webapp._YOLOV5,1,0,2018-09-17T07:13:19Z,lckme test script,Python,1,227155
+ashok-jaga/scikit,1,0,2020-08-18T08:34:31Z,,Python,41,86879
+grispeut/udfa,0,0,2021-03-21T16:44:44Z,,Python,22,23796
+CORE-Robotics-Lab/FLAIR,1,4,2022-07-11T16:06:22Z,LeManchot-Analysis is a system for abnormal detection in coupled visible-thermal images,Python,26505,83794
+xuhpppp/DrowsinessDetection,3,3,2022-01-31T10:48:02Z,Speech Keyword detection using Wav2Vec Model ,Python,3,322
+yash1802/Lie-To-Me,1,19,2023-01-21T16:52:57Z,"Real-Time Object Detection, Tracking, Blurring and Counting using YOLOv8",Jupyter Notebook,16,22760
+fenght96/CTI,1,0,2017-03-20T18:43:48Z,,Python,68,3160
+richardtjornhammar/impetuous,1,0,2021-04-22T14:53:32Z,,Python,337,2491
+A-RAMZI/PFE,1,15,2018-08-13T05:56:33Z,KAIST(Korea Advanced Institute of Science and Technology) Financial Engineering( Derivatives) Course Code+@,Jupyter Notebook,22,129804
+vitalab/castor,1,2,2022-04-21T17:52:52Z,mlflow_demo,Jupyter Notebook,86,64095
+Allen8838/Data-Science-Projects,1,0,2023-01-04T10:29:22Z,,Python,38,16559
+ElvishElvis/CLEAR-Continual_Learning_Benchmark,1,1,2021-03-27T11:40:15Z,"Project repo containing the code developed for the course ""Computational Intelligence Lab"" held at ETH Zurich",Python,94,110002
+SHRAVANI-PRAJIL/shravani_srisailam,4,2,2021-03-28T12:05:50Z,https://imvickykumar999.github.io/hackathon-iot-car-parking/ Realtime Firebase data fetching IOT car parking system https://photos.app.goo.gl/YhqWfpfwqwSHigLWA Home Automation on Google Photos https://photos.app.goo.gl/4xyLyvRvW9BY3UoE6,Jupyter Notebook,11,238023
+Zager-Zhang/Yolov5-Improve-Weak-Object,1,4,2020-05-30T11:10:32Z,Reproducing the DeepMDP paper,Python,1,14943
+f-tonini/SAVI-tool,1,1,2018-07-18T05:26:21Z,,Python,477,696
+GoloMarcos/TripleVAE-OCL-ENIAC2021,1,7,2022-09-10T18:05:25Z,,Jupyter Notebook,40,8890
+schmidtdominik/ArtGAN,1,3,2021-07-20T06:11:16Z,,Jupyter Notebook,29,1482
+itoyuimo/yolo,1,30,2017-05-14T20:14:32Z,Understanding crop yield predictions from CNNs as our final project for CS231N,Python,2,144934
+benjisidi/scrabblebot,3,0,2022-04-25T04:21:47Z,,Python,83,16592
+mhorton19/Global_Self_Attention,1,0,2022-12-11T14:38:12Z,A novel coronavirus antigen kit recognition method based on yolov5,Python,6,9540
+NIOCER/Real--time-Traffic-Video,1,0,2020-11-11T10:28:23Z,,HTML,6,47849
+dmlcjs0327/SoftwareDevelopment2022,5,0,2022-09-20T10:52:22Z,,Python,38,28093
+jolyon129/introml_labs,1,0,2020-12-22T03:45:12Z,[Final Year Project] Extracts product defects detected in amazon reviews,Python,2,1955
+TomoyukiNamura/lckme_test,1,6,2020-09-01T08:25:33Z,3PDroid is a Python tool for verifying if an Android app complies with the Google Play privacy guidelines. ,Python,13,81326
+Chico339/model_image,1,2,2017-12-15T06:17:48Z,『Python機械学習プログラミング』サンプルコード,Jupyter Notebook,501,158036
+P-mir/Assess,15,0,2017-09-06T19:02:43Z,,Python,19,13569
+parham/lemanchot-analysis,30,1,2014-08-23T10:16:54Z,Python Deep Learning Code,Python,1730,7920
+TerboucheHacene/speech-keyword-spotting,18,0,2017-10-05T17:35:39Z,,Jupyter Notebook,9,22940
+MuhammadMoinFaisal/YOLOv8-object-tracking-blurring-counting,1,2,2018-09-10T18:22:16Z,Tensorflow Contrib Usage Analysis,Python,1022,52900
+enzlaur/ALGOCOMP2,2,0,2022-03-16T09:09:12Z,MlOps course,Jupyter Notebook,63,1034
+liuyinan88/MCQA_project,1,0,2016-11-18T12:13:24Z,,Python,4705,76409
+FinancialEngineerLab/finefinance,30,0,2019-02-19T14:28:00Z,Work for idiom translation project,Python,13,85707
+maximuslee1226/mlflow_demo,1,49,2020-02-11T19:48:27Z,Comet-For-MLFlow Extension,Python,22910,78
+waltesour/SOLOv2-my,1,0,2023-01-31T06:39:44Z,,Python,2,2528
+AlessandroRuzzi/Computational-Intelligence-Lab,10,0,2021-09-15T13:41:14Z,My project template. Use PyTorch Lightning and Hydra.,Python,715,131
+imvickykumar999/hackathon-iot-car-parking,1,2,2019-09-06T17:57:19Z,,Python,23,10144
+MkuuWaUjinga/DeepMDP-SSL4RL,2,0,2022-10-26T22:19:27Z,An incomplete video filter app using tkinter,Python,371,887
+KidQuant/Finance,2,2,2021-09-22T03:00:29Z,,Python,18,14770
+Abhinavvenkatadri/Eye-tracking-GSoC,3,1,2021-04-22T15:49:16Z,Analysis of different models for the detection of anomalies in multivariate time series,Python,10,1575
+sebtsh/fast-drbo,1,0,2020-06-29T23:35:12Z,An example of some of the most popular experiment management tools for ML and DL development,Python,8,99485
+brad-ross/crop-yield-prediction-project,1,1,2016-11-07T22:33:46Z,,Python,164,64867
+xuliji/Ccgan,3,1,2019-12-12T23:30:24Z,CNN acoustic environment classification trained on the AudioSet dataset,Python,4,827
+charityYao/Identification,1,0,2023-01-31T14:04:53Z,,Python,10,111996
+appdevRA/tera,0,2,2022-10-23T22:52:20Z,Repository for capstone project,Jupyter Notebook,300,54940
+skjsourabh95/BOB_Automated_Cheque_Processing,1,0,2017-02-10T09:04:57Z,,Python,61,29572
+junronglau/product-defects-mining,30,0,2022-12-16T21:00:25Z,,Python,2538,1059
+Mobile-IoT-Security-Lab/3PDroid-public,1,2,2022-10-27T09:46:24Z,基于yolov5的高速公路及城市道路车辆视觉检测(CIAC),Python,38,2505
+takseki/python-machine-learning-book,1,0,2019-10-05T18:45:37Z,Arabic Dialect Identification Using Different DL Models,Python,3,523
+bill-teng/mxnet-test,1,615,2019-02-21T06:40:46Z,LUKE -- Language Understanding with Knowledge-based Embeddings,Jupyter Notebook,2,4263
+nikogamulin/deep-learning-python,3,5,2018-03-29T00:35:12Z,"A recurrent neural network spam filter, along with a Naive Bayes classifier as a baseline.",Python,17,28916
+gpmurphy7/hands_on_ML,2,0,2019-01-26T00:03:39Z,,Jupyter Notebook,53,14884
+kingspp/tf-contrib-analyzer,1,6,2021-02-24T19:17:10Z,,Python,10,12403
+BigDataSchoolRU/mlops-course,4,0,2021-03-18T19:22:42Z,,Python,20,21
+Feretj/scikit-learn-hse-project,1,0,2022-09-23T13:51:21Z,,Python,122,3146
+ananddtyagi/idioms,1,0,2018-01-05T10:42:20Z,For Sync between home and company,Python,176,15521
+comet-ml/comet-for-mlflow,1,0,2020-08-24T08:47:51Z,,Python,39,3867
+SyedHamza0196/ultralytics-v8,2,0,2020-09-15T14:58:27Z,,Jupyter Notebook,4,101550
+h-terao/project-template,1,5,2015-12-21T13:07:39Z,Sublime google dictionary plugin,Python,140,2064
+matthew-z/neural-ranking,1,0,2020-08-26T09:22:09Z,,Python,22,7560
+dereina/video_filter,1,5,2020-04-10T07:10:18Z,integrated neural network library,Python,10474,1492
+Genomics-HSE/deepgene,1,0,2021-06-25T21:22:08Z,,Jupyter Notebook,13,26513
+GastonGarciaGonzalez/Multivariate-Time-Series-Anomaly-Detection,2,1,2023-03-01T07:26:14Z,,Python,19,126233
+simondale/databricks-ml-sdk,1,0,2023-01-05T14:12:44Z,Accelerate prototyping of deep learning projects with JAX,Python,128,87
+Davjes15/ml_experiment_management,1,0,2021-08-02T14:29:38Z,,Python,50,689
+mkusner/gen-text,1,8,2021-09-09T13:08:00Z,"Codes for the paper ""HAVEN: Hierarchical Cooperative Multi-Agent Reinforcement Learning with Dual Coordination Mechanism""",Python,76,84
+carlmoore256/DeepReverb,1,1,2021-08-04T18:31:45Z,"Build, train and deploy NLP model for sentiment analysis of product reviews based on BERT architecture",Jupyter Notebook,13,5739
+bipowerhcmcity/YOLOv8_Tracking_VGUHackathon,1,25,2021-06-27T10:56:24Z,,Python,21778,18879
+lfunderburk/machine-learning-capstone,2,1,2022-02-05T20:54:32Z,"Implementation of PFML attack in the paper ""Poisoning Attacks on Fair Machine Learning""",Python,3,8010
+gundun/theano,1,1,2017-06-09T05:28:28Z,First file in repo.,Jupyter Notebook,16,10315
+jorgehr12345/prueba102,1,0,2022-10-31T12:54:11Z,,Python,1,617980
+wmj142326/smartIV_yolov5,1,0,2021-02-06T18:44:04Z,,Python,119,6
+iAhmedMaher/arabic-did,1,3,2020-12-22T20:10:33Z,Experimental approaches to constructing knowledge graphs and using them for reasoning tasks,Python,5,541
+studio-ousia/luke,1,3,2021-09-07T16:16:31Z,One Bit at a Time: Impact of Quantisation on Neural Machine Translation,Jupyter Notebook,2,2750
+AndrewYinLi/lstm-neural-network-spam-filter,1,1,2022-12-03T15:25:09Z,dognose_recognition_management_service used deep-learning,Jupyter Notebook,4,30556
+Nikii1118/CS5590-Python-DL-Session2,2,13,2019-06-10T07:44:36Z,Indonesian word embedding evaluation,Python,132,16
+InfluenceFunctional/ActiveLearningPipeline,1,0,2022-11-12T10:14:35Z,,Jupyter Notebook,109,495
+tokoko/mlflow-grpc,1,0,2022-12-04T16:49:29Z,,Python,25,223
+minhtan8266/detect-xray-lung-by-yolo,1,0,2017-01-21T12:51:16Z,deep,Python,1221,30206
+zwzhzhzhzhzh/GitSync,30,0,2020-07-10T09:34:06Z,,Jupyter Notebook,13,104236
+ecell/bioimage_workflows,2,0,2021-05-03T17:57:49Z,,Python,11,1799
+Sudonuma/depth_estimation,2,0,2020-02-24T15:27:28Z,,Jupyter Notebook,7,130068
+houcheng/GoogleDictionary,1,0,2021-09-26T14:22:58Z,,Python,3,5
+SCHENLIU/agglomerative-hierarchical-cluster,1,84,2021-04-16T14:55:28Z,"TorchFlare is a simple, beginner-friendly, and easy-to-use PyTorch Framework train your models effortlessly.",Python,274,18973
+yuanjie-ai/inn,7,1,2020-07-09T08:17:33Z,,Python,14,21408
+Armin-Saadat/SSL_ALPNet,24,29,2020-11-06T00:59:54Z,"Source code for the GPT-2 story generation models in the EMNLP 2020 paper ""STORIUM: A Dataset and Evaluation Platform for Human-in-the-Loop Story Generation""",Python,7,270
+marridG/2023-Spectrum_MOT,2,3,2021-10-05T07:16:51Z,StyleGAN BigGAN for Motorbike Generation,Python,2,596
+h-terao/alopex,1,1,2022-12-13T02:57:18Z,识别教室场景中离席、缺席、卧躺的现象,Python,161,13171
+HaiNguyen2903/Simple_MNIST_Wandb_demo,30,0,2021-11-03T16:45:48Z,extension of scikit-learn for biomedical test scheduling,Python,77,6834
+deligentfool/HAVEN,1,3,2020-03-14T13:37:02Z,A toy chat bot which uses a simple LSTM model to generate replies to inputs.,Python,7,26
+TerboucheHacene/review_classifier_BERT,1,0,2022-11-16T17:55:22Z,,Python,22680,263
+jaekyeom/IBOL,1,0,2017-05-05T17:07:02Z,Hacking scikit-learn,Python,1,4913
+minhhao97vn/PFML,1,19,2018-04-17T12:30:38Z,Daily Dose of Neural Network that Everyone Needs ,Jupyter Notebook,22,17938237
+pks3kor/For_GitHub,1,3,2020-01-31T03:05:05Z,Repository for RL code practicing,Python,9,1959
+mohitvenx/LOC-HACKATHON,1,17,2020-04-01T12:05:34Z,A fully tensorized recurrent neural network using tensor-train decomposition,Python,12,5355
+MoAdel1/SparkMachineLearningEngine,2,0,2021-05-24T07:39:25Z,,Python,3,4332
+ToddMorrill/knowledge-graphs,0,29,2020-07-17T15:32:36Z,Value-Decomposition Multi-Agent Actor-Critics,Python,70,21744
+marekninja/master-thesis,1,0,2020-08-04T09:07:40Z,"A one year research project done by 3 members, for the completion of our Bachelor's Degree",Java,1306,91943
+DI-LEE/dognose_recognition_management_service,2,0,2021-05-10T02:44:03Z,,Python,604,18239
+kata-ai/id-word2vec,1,0,2020-12-16T00:28:29Z,,Jupyter Notebook,102,25078
+vikasyetinthala/mlflowapp,1,96,2018-12-19T23:59:59Z,"Segregation Measurement, Inferential Statistics, and Decomposition Analysis",Jupyter Notebook,26,145555
+ilovetensor/fastai,10,0,2017-08-23T13:41:03Z,Isaac Analysis Project,Python,8,9485
+stgithubst/automatic-guide,1,0,2021-11-15T17:06:28Z,,Python,366,92
+sauravsb99/AutoEvaluate,1,2,2022-10-10T23:00:22Z,,Python,19,778836
+mvig-robotflow/rflib,1,0,2021-07-08T14:27:00Z,,Jupyter Notebook,45,805587
+chanmi168/Fall-Detection-DAT,1,0,2021-04-05T18:40:55Z,Noughts and Crosses powered by Machine Learning,Python,4,5765
+jynx10/catalyst-pytest,1,0,2019-08-21T12:05:25Z,,Python,22,27
+Atharva-Phatak/torchflare,1,4,2022-09-19T21:41:56Z,Repository for SF2SE3: Clustering Scene Flow into SE(3)-Motions via Proposal and Selection,Python,13,243872
+Eleven-Z/tf-encrypted,1,0,2020-12-08T13:13:20Z,,Python,6,54
+dojoteef/storium-gpt2,1,0,2020-12-25T21:41:37Z,,Python,49,4561
+Cuongvn08/StyleGAN-BigGAN-for-Motorbike-Generation,1,2,2015-11-06T00:24:59Z,Code used in Kaggle competitions,Jupyter Notebook,745,6692
+Jackson-coder/classroom,1,3,2019-08-24T11:09:45Z,A topic tags prediction service for technical articles. ,Python,2436,231
+adamcatto/skEDULEarn,2,1,2019-12-17T06:33:10Z,Using neural networks to analyze (simulated) acoustic resonances of contained liquid in low-gravity. ,Jupyter Notebook,353,14499
+PhotonQuantum/baka-chat,3,14,2016-12-20T19:32:15Z,A deep learning based bioinformatics project on epigenetics in Type 2 Diabetes.,Jupyter Notebook,9,2806
+att1cus-alex/beam_analysis_engine,2,2,2017-06-14T22:42:44Z,Submission for HisDB 2017 competition,Python,32,53421
+ensemblr/hacking-sklearn,3,0,2022-04-09T13:48:56Z,python first steps,Jupyter Notebook,36,4959
+JaeDukSeo/Daily-Neural-Network-Practice-2,1,0,2022-10-09T11:32:36Z,,Python,4,3995
+yongjin-shin/rl_torch,1,20,2020-03-27T08:30:01Z,The goal of the project is to build algorithmic trading system.,Python,15,58930
+onucharles/tensorized-rnn,1,0,2021-11-16T13:07:08Z,Taxi Fare Model,Python,34,15
+taba-sukosuko/Morphological-Analysis-by-NLTK,1,2,2020-09-28T08:34:06Z,SUStech CS405 Machine Learning course,Python,91,114028
+hahayonghuming/VDACs,1,0,2017-09-04T16:20:17Z,,HTML,68,20140
+dsjiffry/Lifestyle-Tracking-App,1,1,2022-01-31T14:54:06Z,MLOps using MLFlow,Python,4,80
+zjzhou521/mmcv_2backbone,1,0,2021-10-29T12:27:04Z,,Python,10,94
+taitanmai/studybehaviour,1,4,2018-04-16T09:26:41Z,"cifar10 using Bag-of-features method (no NN, only 80% accuracy)",Jupyter Notebook,37,4467
+pysal/segregation,1,1,2016-09-26T07:27:59Z,simple desktop pet (desktop mascot) use java to create,HTML,5,67865
+rjm49/isaacdata,3,2,2021-12-19T21:09:45Z,Fall 2021 Biological Modeling and Simulation - Group Project,,23,3455
+eddymarts/ML-Model-Selector,3,0,2020-07-07T03:35:16Z,,C++,38,94250
+wahyu-adi-n/garbage-mlflow-tracking,30,2,2019-05-17T07:49:09Z,Contribute to ChinaMM 2019,Python,187,63978
+jacesca/python_ds,1,1,2021-06-02T04:09:49Z,,Jupyter Notebook,120,16974
+jhags/tictactoe,1,0,2021-07-20T06:05:37Z,,Python,946,125665
+ShevyMittal-GSLab/Airbnb_Regression,1,0,2022-10-15T20:42:07Z,,Python,270,133657
+lmb-freiburg/sf2se3,2,0,2023-01-24T08:53:24Z,,Python,28,16103
+MoeinSorkhei/MoCo,30,2,2019-10-02T18:48:13Z,,Jupyter Notebook,271,23975
+zhouaea/GluonCV-Practice,1,0,2019-06-25T22:45:08Z,,Jupyter Notebook,7,221860
+yasserglez/kaggle,2,6,2021-03-16T06:40:39Z,,HTML,41,378015
+ddxgz/linkedinfo-ml,2,1,2016-05-23T16:30:40Z,,Jupyter Notebook,1,600772
+NathanPhilliber/DATA-Capstone,1,0,2021-11-06T14:29:46Z,,Python,1,1503
+minhoolee/Synopsys-Project-2017,3,298,2021-08-11T17:37:54Z,An open-source AutoML Library based on PyTorch,Python,16,4050
+ctensmeyer/HisDB,9,2,2020-03-03T13:11:43Z,Let's try out Faster-RCNN,Jupyter Notebook,10,3630
+riglerandreas/python_first_steps,1,4,2016-04-19T17:50:03Z,dnn,Python,3,43625
+ShAmoNiA/yolov5_addingCage,0,2,2020-10-16T21:20:32Z,,Python,4,3004
+MislavSag/trademl,1,5,2021-12-07T20:05:14Z,,Python,1145,304
+ygf8/taxifaremodel,2,1,2021-02-19T08:23:57Z,Vaiga Agri Hackathon Winning App backend code,Python,9,256
+CheKaiWei/Machine-Learning-SUStech-CS405,1,0,2022-11-16T15:20:09Z,,Python,3,52882
+ramon-oliveira/uncertainty-quality,1,0,2022-04-04T16:45:36Z,,Python,2,40675
+misham/mlflow-framework,1,7,2022-09-30T13:31:44Z,,Python,638,3864
+romanhahn/mean-dimension,1,0,2022-11-02T16:58:26Z,the final project of Idan and Chen,Python,43,503877
+assaflehr/cifar10-BOF,2,0,2019-05-18T17:01:10Z,,Python,84,8066
+sappy5678/Orientan,30,0,2022-12-22T01:33:35Z,,Python,2,20776
+ryanquinnnelson/CMU-02712-VAE-Protein-Generation,30,9,2020-08-20T14:48:48Z,A set of documented functions for supporting operations research of photovoltaic energy systems. ,Python,1,35499
+hust-wuwechao/mxnet_888888888,6,0,2021-01-25T17:03:23Z,"Based on disentanglement-lib, I am making a capsuleVAE",Python,2,702
+IVC-Projects/STMVE,1,0,2021-02-04T13:42:16Z,Multimodal hate speech detection modelling,Python,1,1095
+travers-rhodes/jlonevae,1,2,2022-10-31T20:04:52Z,Automatic Number Plate Recognition Model,Python,40,71014
+aisaack/Apple_doctor,2,0,2021-04-09T08:06:32Z,this is a Deep Learning based Django project which is capable of classifying images into classes,Python,19,29223
+biggvladik/polushack,1,0,2021-04-01T19:30:51Z,Some good libraries for Auto EDA,Python,20,16106
+hami987/FireExtinguisherDetection,5,21,2019-02-11T08:31:01Z,"Code for the ICLR 2019 paper ""Invariant and Equiovariant Graph Networks""",Python,12,30
+huynhngoc/deoxys,1,20,2021-08-25T05:16:51Z,Deep Learning ❤️ OneFlow,Python,1,46
+sandeepkundala/AmazonInternship,1,0,2023-01-06T14:19:19Z,,Python,2,2289
+maldil/R-CPATMiner,0,0,2017-01-10T11:46:18Z,,Python,200,30120
+Rhoana/icon_archived,30,0,2021-07-28T11:52:49Z,"Project for Computational Intelligence Lab 2021, see http://da.inf.ethz.ch/teaching/2021/CIL/",Python,154,16272
+NaIwo/SER,0,0,2021-06-26T13:52:17Z,,Python,874,10
+gradsflow/gradsflow,1,0,2022-01-31T08:17:58Z,,Jupyter Notebook,30,2216
+FrancescoSaverioZuppichini/Faster-RCNN-tryout,1,0,2021-12-10T23:08:12Z,,Python,8,33471
+GeorgyKonoplich/vehicle_detection,1,5,2021-02-16T13:13:15Z,Adaptation of FixMatch for Semi-supervised text classification ,Jupyter Notebook,46,99
+zhuchen03/MaxVA,1,3,2020-06-11T08:10:14Z,Active learning under label shift.,Python,78,3676
+parachutel/CoordinationGraphMARL,1,4,2021-12-07T23:44:04Z,"PyTorch implementation for ""Conditional Imitation Learning for Multi-Agent Games"", HRI 2022",Python,207,39
+allwin-baby/VAIGA-AGRI-HACK-2021,1,0,2019-03-05T23:47:22Z,"This is a powerfull tool, explanied step by step, the process to develop a text-recognizer system. ",Jupyter Notebook,6,735
+muneerah1992/Construction-management-YOLO-v5-with-GUI,1,0,2021-08-09T18:00:23Z,PyLayers is a Python platform for Site Specific Radio Propagation Simulation. This is modified version of pylayers with functionallity ,Jupyter Notebook,20,59627
+karinassini/Deploying-ML-Models-At-Scale,0,3,2019-11-25T06:45:15Z,,Python,125,178
+CNDOTA/NeurIPS22-ATM,2,3,2022-10-25T14:23:59Z,NuHTC: A Hybrid Task Cascade for Nuclei Instance Segmentation and Classification,Python,13,85978
+final-project-Chen-and-Idan/final-project,1,0,2021-08-02T19:45:17Z,,Python,1,14437
+istefano82/ludwig_clone,30,0,2022-10-20T06:34:34Z,,Jupyter Notebook,4891,6793
+Neuxbane/yolov5,1,0,2020-05-18T09:27:44Z,,Python,52,406
+sandialabs/pvOps,1,0,2020-09-01T07:29:54Z,,Python,1,77507
+Kiana-M/CapsuleVAE,1,79,2020-05-06T14:50:10Z,Wheat Detection challenge on Kaggle,Python,3536,68
+obarnard99/MMHSD,2,0,2021-01-17T16:56:06Z,Natural Language Processing,HTML,4,35813
+webnizam/anpr-falcon-ai,1,0,2022-10-02T00:41:47Z,yolo v5 detector that sends email alerts when class of interest is found,Python,134,282
+ShubhamDeshmukh1697/CIFAR10-Image-Classification,1,21,2022-06-07T11:31:59Z,"This repository contains code for the paper ""MAgNet: Mesh-Agnostic Neural PDE Solver"" https://arxiv.org/abs/2210.05495",Python,828,2848
+ankitshrivastava2910/Auto-EDA,1,0,2020-12-28T03:21:36Z,,Python,1,5262
+Haggaim/InvariantGraphNetworks,1,1,2023-02-08T16:06:38Z,,Jupyter Notebook,535,1364
+carefree0910/carefree-flow,1,0,2018-12-14T15:54:36Z,,Python,13,321
+hoangchieng282/mlops-pipeline,1,0,2019-07-20T07:30:41Z,,Python,7,47304
+RonBanner/Deep-learning,1,1,2021-01-26T13:01:52Z,A project that aims to conduct a quantitative assessment of the impact of the exploration-exploitation trade-off on state-of-the-art reinforcement learning algorithms on several different benchmark task in environments from the OpenAi gym. ,Python,11,10
+bruggisser/cil-project,1,1,2021-10-08T15:10:10Z,Code created for the final project of the AML lecture 2021,Python,19,26
+Rakesh678219/friendly-giggle,1,0,2017-12-12T11:26:59Z,demo app,Python,16,1124
+jvkamnani/SarcasticHeadline,2,0,2020-10-04T14:36:49Z,"flask 서버용(flask, MariaDB), EMP 프로젝트로 merge하기 전의 리포지토리",Jupyter Notebook,793,10491
+crislmfroes/butia_gym,1,1,2021-03-12T07:01:45Z,Customised Usage of HuggingFace Transformers,Python,2,50979
+Valentyn1997/semi-supervised-text-classification,30,636,2020-05-12T14:44:03Z,Track emissions from Compute and recommend ways to reduce their impact on the environment.,Jupyter Notebook,43,24908
+shuimutech/smt-py-admin,30,4,2020-03-09T09:54:19Z,,Jupyter Notebook,1,54773
+ericzhao28/ALLS,1,9,2022-03-08T20:05:49Z,Release code for InCOpt: Incremental Constrained Optimization using the Bayes Tree (IROS 2022),C++,45,22844
+AndyShih12/ConditionalMAIL,1,0,2017-05-30T22:39:45Z,"A modified version of MXNet, taken from tornadomeet, that incorporates several extra operators",C++,6,25054
+richardyantas/text-recognizer-project,1,0,2022-12-20T13:54:20Z,,Python,12,40369
+ArtashesH/PylayersWith3D,1,1,2021-06-03T15:33:29Z,,Jupyter Notebook,16,499
+kata-ai/wikiner,1,3882,2017-10-23T23:50:54Z,Probabilistic reasoning and statistical analysis in TensorFlow,Jupyter Notebook,52,141620
+Boyden/NuHTC,30,2,2019-10-14T12:48:03Z,"An experimental framework (Command line interface tool) for sequence tagging task. Consists of BILSTM-softmax, BILSTM-CRF, BILSTM-CNN-CRF and attention model to empirically compare performance ",Python,68,5283
+mengsong16/garage,1,3,2019-09-30T04:34:45Z,This repo is for beginner who want to learn and use Submarine ,Dockerfile,10,761
+ayazmhmd/yolov8_strong_sort,1,0,2022-03-20T11:35:05Z,,Python,14,100
+Shivanshu-Gupta/structural-diversity,1,0,2023-02-11T01:42:03Z,,JavaScript,1,2543
+efmaraver/mlflow_workflow,0,0,2022-02-18T11:37:02Z,,Python,98,1125
+Atwinenickson/pythonchat,0,0,2018-02-06T19:23:12Z,,OpenEdge ABL,36,20148
+Erlemar/wheat,2,2,2019-11-11T18:35:53Z,Companion repo to DeepForest for training large models from DeepForest python package.,Python,147,28091
+Lilasrinivasreddy/NLP,2,0,2021-01-28T15:15:33Z,High-level framework for PyTorch to quickly setup training using configurable experiments,Python,1,139
+dizadi/detect-alert,1,0,2017-04-05T00:33:07Z,,Python,3,8425
+jaggbow/magnet,1,5,2016-12-16T18:04:58Z,,Jupyter Notebook,19,67892
+WataruMiyabayashi/django_csv_upload_sample,2,0,2020-12-13T13:34:10Z,,Python,40,1766
+briemadu/codraw-icr-v1,1,1,2021-03-27T15:14:30Z,,Python,55,28
+jonathasrc/INAR,1,4,2022-09-05T14:04:59Z,Tail-Aware Sperm Analysis for Transparent Tracking of Spermatozoa Official Implementation,Jupyter Notebook,28,124402
+HZYYYYY/Rubik-s-Cube,3,0,2022-08-12T13:32:31Z,,Python,534,11358
+MuneetSJ/Exploration-vs-Exploitation-in-RL,3,0,2021-07-20T18:52:27Z,done the project linear regression it was cool,Jupyter Notebook,4,25399
+syntex01/AML2021,1,0,2021-08-18T17:24:54Z,,Python,1,137099
+ymcoin/demo,0,0,2020-10-29T16:03:27Z,My project submission for the Machine Learning and Statistics module at GMIT,Jupyter Notebook,10,6182
+Green-Pea-Ai/cheese_flask_proj,1,0,2021-08-11T14:58:42Z,,Python,1,15061
+DarthReca/magnifier-california,2,0,2021-12-02T00:47:00Z,,Python,3,15
+Carolyn95/FlexTransformers,1,10,2019-04-05T19:09:18Z,Code For Unsupervised Adversarial Image Inpaiting paper,Python,28,139
+mlco2/codecarbon,3,5,2018-07-23T15:19:19Z,,Jupyter Notebook,148,455576
+Appsilon/gabon_wildlife_training,5,0,2019-07-30T18:03:10Z,,Python,430,52111
+rpl-cmu/incopt,1,1,2020-12-12T08:16:47Z,Inertia estimation in power networks using a deep-learning framework,Jupyter Notebook,2,16248
+MichaelAHood/pk-mxnet,1,6,2020-02-21T14:03:35Z,,Python,5,1172
+stealthspectre/mern-auth-yolo,4,4,2020-10-15T12:37:01Z,"This project, proposes a methodology for continuous implicit authentication of smartphones users, using the navigation data, in order to improve the security and ensure the privacy of sensitive personal data.",Python,8,637
+vaishnavisampigethaya/Face-Recognition-with-mask,1,0,2021-08-04T11:21:08Z,,Python,74,29
+tensorflow/probability,1,1,2020-05-22T02:56:39Z,,Jupyter Notebook,416,412289
+anksng/sequence_tagging_experimental_framework,1,1,2017-08-18T18:39:44Z,,Jupyter Notebook,111,16984
+pingsutw/hello-submarine,1,0,2021-06-07T15:17:41Z,,Python,2,820
+geminiwenxu/Explainability,1,3,2018-08-09T17:51:16Z,,Jupyter Notebook,4,50809
+hlterdo/main,13,0,2023-01-15T22:58:25Z,,Python,15,1194
+jverre/comet-demo,2,0,2023-02-12T16:09:32Z,,Python,1410,2690
+senecal-jjs/Hyperspectral,12,0,2022-02-03T16:27:44Z,"Creating lakehouse a new, open architecture that combines the best elements of data lakes and data warehouses by adding Delta Lake format to that Azure data lake storage gen2, to achieve the ""Lakehouse""",Python,119,22
+weecology/DeepForest_Model,1,0,2023-01-06T07:07:44Z,,Python,945,9856
+phisad/pytorch-expresso,1,1,2018-01-04T22:37:07Z,,Python,2,16532
+WDongYuan/NLP_Project,1,0,2021-05-02T15:14:42Z,,Python,13,79628
+SidHard/digits-multi-detect,11,0,2019-11-12T09:25:37Z,,Python,112,12437
+huutrinh68/kaggle-protein,30,2,2021-05-28T19:52:11Z,"Apuração automatizada de sobrepreço em compras públicas (orçamentos, contratos e atas de registro de preços). Módulo ML.",Jupyter Notebook,13,74109
+Dadko4/GTZAN_1DCNN,3,3,2021-02-16T18:48:56Z,A toolbox providing functionality for processing iPPG signals,Python,23,71170
+LouisDo2108/MediaEval2022_Medico_Tail_Aware_Sperm_Detection,1,0,2022-02-22T13:09:00Z,,Python,60,11
+luiscaceresMIT/Machine_Learning_A-Z,1,0,2019-12-04T21:44:34Z,,Jupyter Notebook,10,534
+dhaneshwar2310/projectML,0,0,2022-06-24T08:05:08Z,,Python,2,36925
+noariklin/ProjectA,1,0,2020-05-06T21:22:46Z,already installed after cloning so this is my lazy man fork,Python,4,10031
+johndunne2019/Machine-Learning-and-Statistics-Project-2020,30,0,2019-08-09T16:01:44Z,"Machine Learning models to predict flu, 1 week, 2 weeks, 3 weeks and 4 weeks ahead of CDC ILI epi weeks",Jupyter Notebook,3,13788
+akiozihao/mmlab,4,1,2022-06-13T11:38:52Z,,Python,13,14961
+tianhuil/comet-test,2,8,2019-01-02T16:57:44Z,,Python,12,176
+pajotarthur/unsupervised_image_inpaiting,1,1,2021-11-15T22:47:44Z,,Python,278,11
+umd-fire-coml/MultiSeg,0,7,2020-01-27T16:44:42Z,Code for people working on machine learning for diffusion MRI,Python,44,1673
+rafueru/AWS,6,0,2021-05-07T22:11:11Z,"For now, not much to say",Jupyter Notebook,9,3686
+danielelinaro/inertia,1,3,2017-10-21T22:39:18Z,This is the repository for ece496 facial expression transfering project,C++,331,80997
+ferraric/Computational-Intelligence-Lab-2020,2,1,2014-08-27T16:29:36Z,,Python,20,23296
+AngelikiTsintzira/Continuous-implicit-authentication-of-smartphone-users-using-navigation-data,30,0,2022-11-09T07:55:36Z,,Python,13,80968
+huongd17at089/my_flask,30,2,2022-02-16T09:25:21Z,,Python,5,206115
+li-phone/DetectionCompetition,1,1,2022-12-26T09:24:57Z,,Python,33,14926
+hahnicity/ardsdetection,1,1,2021-04-16T23:27:04Z,,Python,1,286
+Hemanth9336/Sentiment-Analysis-Using-Python,1,4,2021-02-01T21:00:20Z,Enhancing Fairness of Visual Attribute Predictors,Python,2,21930
+splicemachine/ml-workflow,4,0,2022-12-27T05:25:50Z,Point Cloud Data advancement Project,Python,4835,812
+majoud1/HISMA,1,0,2018-06-24T02:42:05Z,,Python,16,6150
+nimanmvr/yolov8,1,0,2021-04-08T18:48:05Z,,Python,20,9
+Abdullahi-Ahmed/Lakehouse,1,1,2021-07-05T05:17:24Z,,Jupyter Notebook,10,104217
+Rajesh-mandal/demo,1,1,2019-05-16T08:02:46Z,,Jupyter Notebook,1,106437
+Tom-a-Hawk/serverless-chatbot,1,1,2021-01-29T06:41:52Z,学习pymarl的代码，,Python,3,22
+marcgpalmer/azureml-examples,1,0,2022-04-20T11:09:54Z,,Jupyter Notebook,80,152248
+ShekharGaurav/MLFlow,2,2,2020-02-19T00:54:15Z,,Python,6,631
+MPMG-DCC-UFMG/F03_ML,1,24,2021-02-22T15:29:20Z,Official Implementation of Convolutional Normalization: Improving Robustness and Training for Deep Neural Networks,Python,22275,190
+BeCuriousS/ippg-toolbox,2,0,2022-10-24T22:35:56Z,,Python,11,1346
+JoaoMarques1/TaxiFareModel,1,1,2022-10-21T03:31:05Z,AI Engine made by Edmund Ucok Armin,Python,2433,78972
+Magier/UrbanSound,1,0,2021-11-29T17:38:15Z,This project deals with the use of facial recognition to solve a healthcare related problem: - Pain detection.,Python,8,1350
+EMNLP2022-BiBSpell/BiBSpell,1,0,2022-12-26T09:14:48Z,,Python,2,1032
+bainro/garage,1,0,2020-07-10T11:33:48Z,Proyek Skripsi Sistem Rekomendasi Pada Web E-Commerce Penjualan Game Menggunakan Metode Content-Based Filtering Algoritma K-means,CSS,18,98281
+Emaway/Group-Project-3,1,0,2019-08-27T05:59:25Z,,Python,1,85699
+Benson1223/Swin-Transformer-stas,0,2,2018-01-28T17:46:36Z,Twitter Stream Processing using Amazon Kinesis Web Services,Python,2651,20031
+koustuvsinha/clutrr-baselines,1,1,2020-05-14T07:39:46Z,Materials to accompany Databricks data science overview session,Python,441,193
+mateuspontesm/dqn_sacred,1,0,2020-08-08T09:01:02Z,中文摘要自动生成尝试,Python,6,333
+anu07shreej/NLP,1,0,2021-09-05T19:28:12Z,,Jupyter Notebook,4,972
+scil-vital/dwi_ml,0,0,2021-03-09T08:17:34Z,,Python,13,411
+Etzelkut/Eye-Tracking,3,0,2017-10-22T03:25:43Z,scikit example using Comet,Python,9,3
+luqili/vultus,1,0,2021-10-01T12:21:36Z,,Python,6,19
+AtousaTorabi/Theano_old,1,11,2021-03-04T13:11:46Z,,Python,23,7892
+o9demoAccount/Mlflow,1,2,2022-11-22T13:36:34Z,I-DistributedAI final project,Python,50,787195
+bennigeir/ice-luke,8,1,2021-02-25T08:36:26Z,,Python,2,12184
+Doraemonwei/yolo_GUI,2,0,2022-12-08T14:40:41Z,基于yolov5算法的枯树识别,Python,7,16222
+samuelhkahn/srgan-hubble,1,0,2017-04-22T05:51:40Z,,Jupyter Notebook,5,426
+nish03/FVAP,2,1,2020-10-14T12:00:34Z,"deploy mlflow model on kuberenetes cluster, and reference through http interfaces",Python,8,27
+Ztrillion/advancement,0,8,2017-07-04T15:23:45Z,Classify texts with a LSTM implemented in Keras,Python,13,44673
+KakuyaShiraishi/sci_learn,1,0,2021-11-09T04:04:21Z,,Jupyter Notebook,67,969
+PadraicM71/Experiment,1,0,2015-11-22T02:23:13Z,Nombre de la aplicación: Estadísticas y evaluación de contenido usando TF-idf Lenguaje de programacion: Python y C ,Python,4,86131
+curtkim/pytorch-first,4,0,2022-01-29T07:08:42Z,,Python,47,18431
+ainklain/mynlp,30,1,2021-12-04T17:53:23Z,"Noise detection using transfer learning. The model used for transfer  learning is YAMNet found on tensorflow(https://tfhub.dev/google/yamnet/1). The dataset used is the Microsoft Scalable Noisy Speech Dataset (MS-SNSD)( https://github.com/microsoft/MS-SNSD ) which consists of two classes clean and noise,This dataset contains a large collection of clean speech files and variety of environmental noise files in .wav format sampled at 16 kHz. We have also hosted the model on local host using flask.",PureBasic,1,18860
+thesouther/learn_pymarl,2,0,2021-12-18T15:23:56Z,,Python,23082,16536
+hcagri/Dual-Contradistinctive-Generative-Autoencoder,1,0,2021-09-09T09:58:45Z,,Python,28,304
+icml2020submission6857/metarl,1,0,2021-12-26T08:14:41Z,"Machine Learning Project for UK Retailer: Customer-Segmentation and Customer-Purchasing-Patterns Thanks to an e-commerce actual data transactions from an UK retailer in this notebook we are going to explore an e-commerce dataset transactions from an UK retailer, this dataset lists purchases made by approximately 40000 customers through a period of time of one year (from 12/01/2010 to 12/09/2011).  The main aim of this notebook is to develop a machine learning model that allows to anticipate the purhcases that will be made by a new customer, over the next year according to its firsts purchases.  The notebook was developed by performing the next steps: Data Cleaning. Feature Exploration. Understanding Product Categories. Customers Categories. Classifying Customers. Testing Predictions. Explaining The Decissions of The Model. Say Hello to KModes for Categorical Clustering A brief introduction to an algorithm for categorical clustering is thaught in the process of developing an accurate customer segmentation",Python,213,47
+shengliu66/ConvNorm,1,0,2020-02-18T09:49:09Z,,HTML,4,39444
+WHOIGit/tator_yolo_scripts,1,1,2021-05-15T13:58:42Z,,Python,13,51
+edmundarmin/EdAIEngine,1,0,2023-02-21T01:43:58Z,,Python,17,946
+harshvardhan-mishra/Pain-Detection-using-Facial-Recogntion,1,0,2021-09-26T20:27:44Z,Code for the final project for the graduate class Foundations of Deep Learning (CMSC828W),Python,1,28
+lDarryll/yolov5-seg-tools,1,2,2022-01-12T04:04:34Z,,Python,7,431
+faqih-ar/Game-Retail,4,2,2022-04-05T05:15:55Z,,Python,602,15490
+ashwinpatil05/mlflow_modelDeploy,1,0,2023-01-02T09:43:31Z,,Jupyter Notebook,4,2381
+sjha4/Identification-and-Analysis-of-popular-trends-around-the-world,0,0,2019-08-02T19:30:28Z,Python Package to load Google ads API call directly into tensorflow. ,Python,1,23
+sllynn/skipton-datasci-overview-materials,1,0,2021-02-03T06:00:35Z,An Tensorflow2.0 implementation of Flappy Bird using A3C.,Jupyter Notebook,4,24
+josephding23/Zh_TextSum,1,3,2020-03-12T21:59:11Z,"This is a web application that implements a web scrapper to get data for products from jumia and killimall, and use linear regression to recomment the best products to clients",Jupyter Notebook,4289,277
+qianchenyi/project_code,1,4,2019-09-16T15:43:28Z,,Python,5,572295
+Sneha-Sreedhara/TextHide,2,0,2023-01-03T08:22:57Z,,Python,7,84734
+deepspeech/comet-scikit-example,1,0,2019-01-17T03:14:38Z,The world of Alexa has been explored to create an Artificial Facilitator who will guide a participant in developing causal maps.,Python,1,76702
+mohamedbakrey12/prpjectINDeepLearning,2,1,2022-12-04T13:49:28Z,,Python,4,65
+xiaoLong-study/Protective-Wearing-and-Action-Recognition-Detection-Based-on-Pose-Estimation,1,50,2022-09-11T11:01:43Z,"YOLOv5 Object Tracking + Detection + Object Blurring + Streamlit Dashboard Using OpenCV, PyTorch and Streamlit",Python,3,4365
+MaartenVanLoo/AIonWheels,1,1,2017-09-26T11:11:11Z,sci kit learn,Python,1,82828
+Nihal2000/sklearn-dev-0.0,30,0,2022-11-04T11:31:24Z,,Python,30,11678
+JiaQingQiang/yolov5-identifytrees,30,124,2016-02-09T10:04:16Z,Randomized online matrix factorization,Python,1,7072
+CAHLR/eye-tracking-knowledge-tracing,3,0,2021-12-02T00:35:02Z,,Jupyter Notebook,2,84017
+gufengxiaoyuehan/mlflow_kubernetes,4,3,2022-12-16T00:23:05Z,Open source contributions for integrations with comet_ml,Python,106,39
+pinae/LSTM-Classification,2,0,2017-12-19T04:07:14Z,sequence to subject for medical diognosis system,Python,1,513
+ZJJHYM/0-template,1,1,2020-05-18T10:40:08Z,End-to-end neural network training,C++,21,665
+Xidrovo/TF-idf,2,0,2020-06-02T06:19:46Z,Amazon Kindle Store Reviews Analysis,Jupyter Notebook,23,21
